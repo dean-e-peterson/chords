@@ -1,0 +1,64 @@
+Night and Day
+ - by Cole Porter, chords transposed from Wikipedia & Warner Bros, E2-C4 in A?
+   sheet music sample at www.musicnotes.com/sheetmusic/mtdVPE.asp?ppn=mn0035815
+ - Comedian Harmonists rendition starts with "night and day", F#maj7 on "day";
+   then "beat beat beat", Adim on "beat"; then "night and day", Emaj7 on "day".
+
+A6      (x02222)                        Dm7     (xx0211) or (x57565)
+Amaj7   (x02120)                        Ebm7b5  (xx1222) or (x4424x)
+Bbdim   (x12020) or (xx2323)            E+      (xx2110)
+Bm7     (x20202) or (x24232)            E7#5    (xx0110) or (030110)?
+Cdim    (xx1212) or (x34242)            Fmaj7   (xx3210) or (102210)?
+Cmaj7   (x32000)                        Fm6     (xx0111)
+C#m7    (x22120) or (x46454)            Gm6     (xx2333)
+
+         Bbdim                   E7             (Note: Melody starts on an E.)
+Like the beat, beat, beat of the tom-tom
+         Bbdim  (Am)    E(7)
+When the jungle shadows fall,
+         Bbdim               E7
+Like the tick-tick-tock of a stately clock
+      Bbdim   (Am)       E(7)
+As it stands against the wall,
+         F7                    Bb
+Like the drip-drip-drop of the rain drops
+         F#7              B   Bm
+When the summer shower is through,
+     A               Gm6             Am        E7
+So a voice within me keeps repeating you, you, you.
+
+
+(Am)      Fmaj7  E7       (E+) Amaj7  (A6)
+Night and day,     you are the one;
+     Fmaj7           E7            (E+) Amaj7  (A6)
+Only you beneath the moon and under the sun;
+        Ebm7b5        Dm7                       (<-- or F#m in place of Ebm7b5)
+Whether near to me or far,
+        C#m7             Cdim
+It's no matter, darling, where you are,
+  Bm7      E7  (E7#5)    A
+I think of you night and day.
+
+
+        Fmaj7  E7     (E+) Amaj7  (A6)
+Day and night,   why is it so?
+          Fmaj7           E7            (E+) Amaj7  (A6)
+That this longing for you follows wherever I go;
+       Ebm7b5            Dm7
+In the roaring traffic's boom,
+       C#m7          Cdim
+In the silence of my lonely room,
+  Bm7      E7  (E7#5)    A
+I think of you night and day.
+
+
+        C(maj7)          Amaj7
+Day and night, under the hide of me;
+           C(maj7)                              Amaj7     (A6)
+There's an oh-such a hungry yearning, burning inside of me.
+        Ebm7b5           Dm7
+And its torment won't be through,
+         C#m7            Cdim
+'Til you let me spend my life making love to you
+Bm7     E                A   (F7  A)
+Day and night, night and day.

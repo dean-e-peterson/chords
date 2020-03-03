@@ -1,0 +1,65 @@
+Bridge Over Troubled Water
+ - by Paul Simon, performed by Simon and Garfunkel, and Elvis, as well.
+ - chords from Songs of Paul Simon, originally in Eb, tenor range D3-G4 ?
+
+E9      (x20102) or (020102)     Fdim   (xx0101) or (xx3434)
+A9      (x02000)                 B7     (x21202)
+D9?     (xx0210) D9 no 3rd?      B7sus  (x22202)
+Dsus2?  (xx0230)
+
+Intro: D  Dsus2 D Em7  D  Dsus2 D Em7
+
+G           D    G         D      G
+When you're weary, feeling small,
+     C     G   D        Em        D          G  D   G   D
+When tears are in your eyes, I'll dry them all;
+    A  Bm    A     A7       (A9)      D     D/C#  D7
+I'm on your side.  Oh, when times get rough,
+            D9   G     E        A
+And friends just can't be found,
+D7   D9  G       Fdim  D/A      B7sus  B7  G
+Like a   bridge over   troubled wa - ter,
+       F#7    Bm
+I will lay me down.
+D7   D9  G       Fdim  D/A      B7sus  B7  G
+Like a   bridge over   troubled wa - ter,
+       A9   A7  D     (repeat intro or alternate G D G D G)
+I will lay me   down.
+
+
+            D           G                    D       G
+When you're down and out, when you're on the street,
+     C   G   D         Em          D         G  D   G   D
+When evening falls so hard, I will comfort you.
+     A    Bm   A      A7       (A9)     D     D/C#  D7
+I'll take your part.  Oh, When darkness comes,
+         D9 G   E A
+And pain is all a-round,
+D7   D9  G       Fdim  D/A      B7sus  B7  G
+Like a   bridge over   troubled wa - ter,
+       F#7    Bm
+I will lay me down.
+D7   D9  G       Fdim  D/A      Bm    G
+Like a   bridge over   troubled water,
+       Bm/F#  F#  Bm  Bm/A  E7
+I will lay    me  down.
+
+
+D  G  Gm  D Dsus2 D  Em7  D Dsus2 D  Em7 G
+
+        D(maj7)     G         D(maj7)  G
+Sail on silvergirl, sail on by.
+     C    G   D       Em7                         D          G  D   G   D
+Your time has come to shine.  All your dreams are on their way.
+    A   Bm   A       A7         D             D/C#  D7
+See how they shine.  Oh, if you need a friend,
+        D9  G     E  A
+I'm sailing right behind.
+D7   D9  G       Fdim  D/A      Bm    G
+Like a   bridge over   troubled water,
+       Bm   F#    Bm
+I will ease your mind.
+D7   D9  G      Gmaj7   E7/G#  D/A      Bm    G
+Like a   bridge o   -   ver    troubled water,
+       F#7        Bm   Bm/A   E9   D/A   G   Gm   D
+I will ease your mind.

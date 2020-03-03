@@ -1,0 +1,227 @@
+Night and Day
+ - by Cole Porter
+ - Wikipedia mentions it in Bb?  Sheet music samples in Eb but first notes Bb
+ - needs work, chords and shortening
+
+Wikpedia, Bb "Night And Day" has unusual chord changes (the underlying
+harmony).
+
+The tune begins with a pedal (repeated) dominant with a major seventh chord
+built on the flattened sixth of the key, which then resolves to the dominant
+seventh in the next bar. If performed in the key of B♭, the first chord is
+therefore G♭ major seventh, with an F (the major seventh above the harmonic
+root) in the melody, before resolving to F7 and eventually B♭ maj7.
+
+[Gbmaj7 (...?)  F7  Bbmaj7]
+
+This section repeats and is followed by a descending harmonic sequence starting
+with a -7♭5 (half diminished or Ø) built on the augmented fourth of the key,
+and descending by semitones — with changes in the chord quality— to the
+supertonic minor seventh which forms the beginning of a more standard II-V-I
+progression. In B♭, this sequence begins with an EØ, followed by an E♭-7, D-7
+and D♭ dim, before resolving onto C-7 (the supertonic minor seventh) and
+cadencing onto B♭.
+
+[Em7b5 (half diminished), Ebm7 Dm7 Dbdim Cm7 (F?) Bb]
+
+Em7b5   (x78787)
+Ebm7    (x68676)
+Dm7     (x57565)
+C#dim   (xx5656) or (xx2323)
+Cm7     (x35343)
+
+The bridge is also unusual, with an immediate, fleeting and often (depending on
+the version) unprepared key change up a minor third, before an equally
+transient and unexpected return to the key centre. In B♭, the bridge begins
+with a D♭ major seventh, then moves back to B♭ with a B♭ major seventh chord.
+This repeats, and is followed by a recapitulation of the second section
+outlined above.
+
+[Dbmaj7  Bbmaj7  (2x)  then  Em7b5 etc]
+
+The vocal verse is also unusual in that most of the melody consists entirely of
+a single note — the same dominant pedal that begins the body of the song — with
+rather inconclusive and unusual harmonies underneath.
+
+Some have seen the use of repeated notes in the verse as an indication of the
+singer's obsession.
+
+Song Trellis
+
+Dm7(b5) (xx0111)
+B7b9    (x21212) or (x34445)
+Cmaj7   (x32000)
+G7(b9)  (320101) or (353434)
+F#m7b5  (xx2212) or (234252)
+Ebdim   (xx1212) or (234242)
+C6      (x02213)?or (x32210)?
+Ebmaj7  (xx1333) or (x68786)
+
+G7#5    (xx1001)?or (321001)?or(353443)?
+Abmaj7     ?     or (465544)?  
+Ebm7       ?     or (xx1323)no?
+
+Edim    (xx2323) or (345353)?
+Ddim    (xx0101) or (xx3434)
+
+Line 1:  www.ultimate-guitar.com/tabs/s/sondre_lerche/night_and_day_crd.htm
+Line 2:  songtrellis.com
+Line 3:  www.8notes.com/chord_chart/night_and_day.asp
+Line 4:  Warner Bros sheet music sample at
+         www.musicnotes.com/sheetmusic/mtdVPE.asp?ppn=mn0035815
+Line 5:  harvested from Wikipedia article on the song
+
+         G7
+
+
+         Edim                    Bb7           notes all Bb in melody
+Like the beat, beat, beat of the tom-tom
+         G7
+
+
+         Eb             Ebm  Bb7
+When the jungle shadows fall,
+         G7
+
+
+         Edim                Bb7
+Like the tick-tick-tock of a stately clock
+      G7
+
+
+              Eb         Ebm Bb7
+As it stands against the wall,
+G7       Ab7
+
+
+         B7                    E   
+Like the drip-drip-drop of the rain drops
+Ab7      A7
+
+
+         C7               F  Fm
+When the summer show'r is through,
+     Cm              G7              Bb7       Cm   G7   Cm
+
+
+Ddim Eb        Ebm   Bb      Dbm6    Eb   Bb7  Eb
+So a voice within me keeps repeating you, you, you.
+
+
+C                  G7          C  Csus4  C
+          Dm7b5  B7b9          Cmaj7
+          Abmaj7 G7#5          Cmaj7  C6
+Eb6        Bmaj7 Bb7       Bb+ Ebmaj7 Eb6
+(Bb)      Gbmaj7 F7            Bbmaj7
+Night and day,     you are the one;
+     Cm              G7                 C
+     Dm7b5           G7b9               Cmaj7
+     Abmaj7          G7#5               Cmaj7  C6
+     Bmaj7           Bb7            Bb+ ... (end of sheet music sample)
+(Bb) Gbmaj7          F7                 Bbmaj7
+Only you beneath the moon and under the sun;
+        Am            Ab
+        F#m7b5        Fm7
+        F#m7b5        Fm7
+
+        Em7b5         Ebm7
+Whether near to me or far,
+        G                F#7
+        Em7              Ebdim
+        Em7              Ebm7
+
+        Dm7              Dbdim
+It's no matter, darling, where you are,
+  F           G          C    
+  Dm7         G7         Cmaj7
+  Dm7         G7#5       Cmaj7  C6
+
+  Cm7         F          Bb
+I think of you night and day. 
+
+
+        Cm     G7          C  Csus4  C
+        Dm7b5  G7b9        Cmaj7
+        Abmaj7 G7#5        Cmaj7  C6
+Day and night,   why is it so?
+          Cm              G7                 C
+          Dm7b5           G7b9               Cmaj7
+          Abmaj7          G7#5               Cmaj7  C6
+That this longing for you follows wherever I go;
+       Am                Ab
+       F#m7b5            Fm7
+       F#m7b5            Fm7
+In the roaring traffic's boom,
+       G             F#7
+       Em7           Ebdim
+       Em7           Ebm7
+In the silence of my lonely room,
+  F           G          C    
+  Dm7         G7         Cmaj7
+  Dm7         G7#5       Cmaj7  C6
+I think of you night and day. 
+
+
+             Eb          C
+        Bb7  Ebmaj7      Cmaj7
+        Ebmaj7           Cmaj7
+
+        Dbmaj7           Bbmaj7
+Day and night, under the hide of me;
+           Eb                                   C
+           Ebmaj7                               Cmaj7
+           Ebmaj7                               Cmaj7
+
+           Dbmaj7                               Bbmaj7
+There's an oh-such a hungry yearning, burning inside of me.
+        Am               Ab
+        F#m7b5           Fm7
+        F#m7b5           Fm7
+
+        Em7b5            Ebm7
+And its torment won't be through,
+         G               F#7         F
+         Em7             Ebdim
+         Em7             Ebm7
+
+         Dm7             Dbdim
+'Til you let me spend my life making love to you
+G                        C
+Dm7          G7               ?Dm7 C6 D7 G7
+Dm7          G7#5        Cmaj7  C6
+
+Cm7          F           Bb
+Day and night, night and day.
+
+
+
+             Eb          C
+
+Day and night, under the hide of me;
+           Eb                                   C
+
+There's an oh-such a hungry yearning, burning inside of me.
+        Am               Ab
+
+And its torment won't be through,
+         G               F#7         F
+
+'Til you let me spend my life making love to you
+G                        C  C#7  Cm7  Abm6  Cm7  B7  F  Fm          
+
+Day and night, night and day.                              
+          Cm7
+
+Night and day.
+
+
+U2 did it?
+http://www.e-chords.com/chords/u2/night-and-day
+
+
+Sinatra chords?
+http://www.e-chords.com/chords/frank-sinatra/night-and-day
+
+http://www.musicnotes.com/sheetmusic/mtdVPE.asp?ppn=mn0017723
+http://www.musicnotes.com/sheetmusic/mtdVPE.asp?ppn=mn0035815
+

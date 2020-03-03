@@ -1,0 +1,46 @@
+The Facts of Life theme
+ - words and music by Alan Thicke, Gloria Loring, and Al Burton
+ - chords based on Ukelele JJ's from www.ukuleleunderground.com/forum
+ - needs work, testing, final chord choices
+ - tenor range B2-D4 ?
+
+C  (x32010) or (x35553)
+C#             (x46664)
+D  (xx0232) or (x57775)
+D#             (x68886)
+
+    G                  Em
+You take the good, you take the bad,
+    C                  D
+you take them both and there you have
+    C       ( F/C C )  D       ( G/D D )
+The Facts of Life, the Facts of Life.
+          G               Em
+There's a time you got to go and show
+       C               D
+You're growin' now you know about
+    C       ( F/C C )  D       ( G/D D )
+The Facts of Life, the Facts of Life.
+
+         C           D
+When the world never seems
+      G  D   C          D
+to be livin' up to your dreams.
+    C
+And suddenly you're finding out
+    D                           C ( F/C C )   G  (C/G  G)
+the Facts of Life are all about you,        you.
+
+C          Em/B           Am
+It takes a lot to get 'em right
+     Am/E   D
+When you're learning the Facts of...
+
+G                 ( C/G G )
+Life.                   Learning the Facts of...
+(Learning the Facts of  Life.)
+
+C                       D  D#                    G
+Life.                      Learning the Facts of Life.
+(Learning the Facts   of   Life.)
+

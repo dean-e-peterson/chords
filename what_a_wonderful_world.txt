@@ -1,0 +1,56 @@
+What a Wonderful World
+ - by Louis Armstrong, tenor range C3-D4 in F
+ - chords from kristinhall.org
+ - originally in key of E ?
+
+Bbmaj7  (x13231)
+Gm7     (353333)
+Gm7/C   (x33333)?
+F+      (xx3221)
+F#dim   (xx1212) or (234242)
+Am7b5   (xx1213) or (xx5545)?or (567585)?
+Bb6     (x13033) or (x13333)
+C7b9    (x3x320) or (x32320)?or (x32323)
+
+
+      F        Am   Bb           Am
+I see trees of green, red roses, too.
+Gm7        F    A7           Dm
+I see them bloom, for me and you,
+      Db             Gm7/C    C7        F    F+  BbMaj7  C7
+And I think to myself, what a wonderful world.
+
+
+      F        Am  Bb              Am
+I see skies of blue, and clouds of white,
+Gm7                F  A7                Dm
+The bright blessed day, the dark sacred night,
+      Db             Gm7/C    C7        F    F+  BbMaj7  C7
+And I think to myself, what a wonderful world.
+
+
+BRIDGE:
+    C7                        F
+The colors of the rainbow, so pretty in the sky
+    C7                   F
+Are also on the faces of people going by.
+      Dm              Am             Dm          Am
+I see friends shaking hands, saying, "How do you do?"
+Dm             F#dim    Gm7  F#dim  Gm7    C7
+They're really saying,  "I   love   you."  I hear...
+
+
+F      Am Bb             Am
+Babies cry, I watch them grow
+Gm7                F   A7               Dm
+They'll learn much more, than I'll ever know,
+      Db             Gm7/C    C7        F    F+  BbMaj7  C7  F  Am7b5  D7
+And I think to myself, what a wonderful world.
+
+D7     Gm7            Gm7/C    C7b9      F  Bb6  F
+Yes, I think to myself, what a wonderful world.
+
+
+Chords transposed to C:
+  Verse: C Em F Em Dm7 C E7 Am Ab Dm7 G7 C C+ Fmaj7 G7
+  Bridge: G7 C G7 C Am Em Am Em Am C#dim7 Dm7 C#dim7 Dm7 G7

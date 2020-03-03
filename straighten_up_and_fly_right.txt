@@ -1,0 +1,60 @@
+Straighten Up and Fly Right
+ - words and music by Nat King Cole and Irving Mills, tenor range C#3-C#4 in A
+ - originally in key of Ab?
+ - chords mostly by Blueyacover, transposed up 1 half-step.
+ - needs work, still some chord decisions and testing.
+
+G6/9    (000000) or (322233)
+G#6/9   (111111) or (433344)
+A6/9    (222222) or (544455)
+D#dim   (xx1212) or (234242)
+Bm7-5   (xx0201)
+B7#5    (xx1203) or (xx5445) or (x21203)?
+B7-9    (x21212) aka B-9
+Bm9     (x20222) or (797779)
+B9      (x21222)
+E13     (x77779) or (222224) or (020120) or (020122)
+A6      (x02222)
+D6      (xx0202) or (x24232)
+E9      (020102)
+F9      (131213)
+
+  A              A6/C#(or A7) D6          D#dim
+A buzzard took a monkey for a ride in the air,
+    A6                  F#m7           F9     E9      (or F7 E7)
+The monkey thought that everything was on the square.
+    A                A6/C#            D6         D#dim
+The buzzard tried to throw the monkey off of his back,
+    A6                 F#m7                B7(#5)  E9  (G6/9  G#6/9  A6/9)
+The monkey grabbed his neck and said, "Now listen, Jack.
+
+Refrain:
+ A6        (A6/C#) D6       D#dim
+"Straighten up and fly right,
+A         (F#m7)  Bm7      (E9)  E7
+Straighten up and stay right,
+A6        (A6/C#) D6        D#dim
+Straighten up and fly right,
+A          A6              F9        E9
+Cool down, Papa, don't you blow your top.
+A6      (A6/C#) D6     D#dim
+Ain't no use in divin',
+A         (A6)    Bm7   (E9)  E7
+What's the use of jivin'?
+A6        (A6/C#) D6        D#dim
+Straighten up and fly right,
+A(6)       F#m             E9   E7   A
+Cool down, Papa, don't you blow your top."
+
+Bridge:
+    C#7                               G#m7    C#7
+The buzzard told the monkey, "You are chokin' me;
+  F#9                        C#m7    F#7
+Release your hold and I will set you free."
+    B9                             (F#m7        B9)
+The monkey looked the buzzard right dead in the eye, and said
+      E9         B7(#5)      E9 (or Dm6?Bm7-5?) E7    (G6/9  G#6/9  A6/9)
+"Your story's so touchin' it sounds just like a lie."
+
+Repeat Refrain:
+

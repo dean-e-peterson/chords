@@ -1,0 +1,63 @@
+A Fool Such as I  (Now and Then There's a Fool Such as I)
+ - by Bill Trader, performed by Hank Snow, etc, tenor range D3-F#4 in D
+
+G#dim   (xx3434)
+Em7     (020030)
+D/B     (x20232)
+Bm7     (x20202)
+
+       D          F#7
+Pardon me, if I'm sentimental,
+G               D
+When we say goodbye.
+D              Bm7 (or D/B)     Em  A7
+Don't be angry with me should I cry.
+      D          F#7
+I'm a fool but I love you dear,
+  G             D
+Until the day I die.
+                       A            D  D7
+Now and then there's a fool such as I.
+
+
+(D7)    G              G#dim         D           (Dm)
+Now and then there's a fool, such as I am over you.
+    A                E
+You taught me how to love
+            A
+And now you say that we are through.
+A7    D           F#7
+I'm a fool, but I love you dear
+  G             D
+Until the day I die.
+                       A            D
+Now and then there's a fool such as I.
+
+
+(Solo)
+
+(D7)    G              G#dim         D           (Dm)
+Now and then there's a fool, such as I am over you.
+    A                E
+You taught me how to love
+            A
+And now you say that we are through.
+A7    D           F#7
+I'm a fool, but I love you dear
+  G             D
+Until the day I die.
+                       A            D
+Now and then there's a fool such as I.
+
+
+Another set of chords, by Thomas Rivers, using Nashville Number System (?):
+(Verse)
+      1           37            4           1
+      1           1            57          57
+      1           37            4           1
+      1           57            1           17
+(Chorus)
+      4           4            1           1
+      5           27            5           57
+      1           37            4           1
+      1           57            1           1

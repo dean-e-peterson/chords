@@ -1,0 +1,57 @@
+Raindrops Keep Fallin' on My Head
+ - by Hal David and Burt Bacharach, performed by B.J. Thomas
+ - originally in F probably, 4/4 ~111bpm, tenor rage G2-B3 in C
+ - chords by L. Romero at lromero@theriver.com, transposed and tweaked.
+ - needs work, testing and chord choices, maybe 7th chords versus not.
+
+Cmaj7   (x32000)
+
+Intro (light like a ukelele?):  C  G  F  G
+
+C                            Cmaj7
+Raindrops keep falling on my head
+    C7                               F               Em
+And just like the guy whose feet are too big for his bed,
+A7               Em   A7
+Nothing seems to fit, Those
+Dm7                                               G7sus4
+Raindrops are fallin' on my head they keep fallin'.
+
+
+   G7     C                          Cmaj7
+So I just did me some talkin' to the sun,
+    C7                       F                 Em
+And I said I didn't like the way he got things done
+A7              Em   A7
+Sleepin' on the job, Those
+Dm7                                               G7sus4
+Raindrops are fallin' on my head they keep fallin'.
+
+
+G7          C           Cmaj7
+But there's one thing I know,
+    F                  G                Em7
+The blues they send to meet me, won't defeat me
+                      A7              Dm7           F  G  F  G
+It won't be long till happiness steps up to greet me.
+
+
+C                            Cmaj7
+Raindrops keep falling on my head,
+    C7                             F               Em(7)
+But that doesn't mean my eyes will soon be turnin' red,
+A7              Em   A7
+Cryin's not for me, 'Cause
+Dm7                                          G7sus4
+I'm never gonna stop the rain by complainin'.
+  G7        C    Dm7                C
+Because I'm free, nothings worryin' me.
+
+
+(instrumental) C  Cmaj7  F  G  Em7
+                      A7              Dm7           F  G  F  G
+It won't be long till happiness steps up to greet me
+
+
+(Repeat last verse)
+

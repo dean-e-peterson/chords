@@ -1,0 +1,54 @@
+Getting to Know You
+ - from Rodgers & Hammerstein the King & I
+ - chords from Hal Leonard Broadway Fake Book
+ - transposition added using www.logue.net/xp
+ - in C, tenor range E3-E4; in G, tenor range B2-B3
+
+Cmaj7   (x32000)        Fmaj7   (xx3210)
+C6      (x02213)        Cadd9   (x32030)
+F6 & Dm7(xx0211)
+
+G7         C    Cmaj7 C6              C    Dm7  G7 Dm7 G7
+Getting to know you,  Getting to know all about you.
+           Dm7  G7   Dm7             G7       C G7
+Getting to like you, Getting to hope you like me.
+           C    Cmaj7 C6            C7      Fmaj7  F6 F
+Getting to know you,  Putting it my way but nice - ly.
+        Am7      D7          Dm7 G7
+You are precisely, My cup of tea.
+
+           C    Cmaj7 C6              Cmaj7    Dm7 G7 Dm7 G7
+Getting to know you,  Getting to feel free and eas-y.
+          Dm7  G7   Dm7                G7      C7
+When I am with you, Getting to to know what to say.
+            Fmaj7 F6     Dm7          G7         Cmaj7 C7 F
+Haven't you no -  ticed, Suddenly I'm bright and breezy,
+         Cadd9 C   Dm7           G   C6     Am  C6             D7  Dm7 G7 C G7 C
+Because of all the beautiful and new things I'm learning about you day by day.
+
+
+
+Same thing, in key of G...
+
+Gmaj7   (320002)        Cmaj7   (x32000)
+G6      (320000)        Gadd9   (320203)
+C6      (x32210)        Am7     (002010)
+
+D7         G    Gmaj7 G6              G    Am7  D7 Am7 D7
+Getting to know you,  Getting to know all about you.
+           Am7  D7   Am7             D7       G D7
+Getting to like you, Getting to hope you like me.
+           G    Gmaj7 G6            G7      Cmaj7  C6 C
+Getting to know you,  Putting it my way but nice - ly.
+        Em7      A7          Am7 D7
+You are precisely, My cup of tea.
+
+           G    Gmaj7 G6              Gmaj7    Am7 D7 Am7 D7
+Getting to know you,  Getting to feel free and eas-y.
+          Am7  D7   Am7                D7      G7
+When I am with you, Getting to to know what to say.
+            Cmaj7 C6     Am7          D7         Gmaj7 G7 C
+Haven't you no -  ticed, Suddenly I'm bright and breezy,
+         Gadd9 G   Am7           D   G6     Em  G6             A7  Am7 D7 G D7 G
+Because of all the beautiful and new things I'm learning about you day by day.
+

@@ -1,0 +1,63 @@
+Ave Maria
+ - needs work, listen to get melody rhythms, perhaps formatting
+ - lyrics traditional latin prayer
+ - music Schubert's Ellens dritter Gesang III, originally in Bb I think.
+ - chords are Uke chords from http://www.muffin.net.nz/muffin/Pdf_Tablature.html
+
+Bbdim   (xx2323)
+Bdim    (xx0101) or (xx3434)
+C#dim/D (xx0323)??
+Bm7     (x20202)
+Bm6     (x20102)?or (xx0102) or (xx4434) or (xx6777) or (799797) or (456474)
+A9      (x42000)?or (x02000)?
+
+Intro?:  D D7 G/D C#dim/D D
+
+D Bm6       D/A A7 Bm (Bm/A?) Em/G  A7      D
+A  -  ve Ma-ri-    a,         Gra - tia plena.
+D+     Bm/D (Bm/C#) C#7
+Maria, gratia       plena
+  Bbdim          Bm Bm6
+Maria, gratia plena
+ A/C#  B7/F#   A/E  E7
+Ave,   ave dominus,
+E7        A
+Dominus tecum.
+
+    A     A7        D
+Benedicta tu in mulieribus,
+   A   A7 Bm
+Et benedictus
+   A   F#             Em
+Et benedictus fructus ventris,
+        Em/G Bdim A A7
+Ventris tui, Je-  sus.
+
+
+(Some versions include this verse)
+
+D Bm6        D/A A7 Bm (Bm/A?) Em/G A7    D
+Sanc - ta Ma-r-     ia,        Ma - ter Dei,
+D+      Bm/D (Bm/C#)   C#7
+Ora pro nobis peccatoribus,
+ Bbdim         Bm Bm6
+Ora, ora pro nobis,
+ A/C#  B7/F#     A/E  E7
+Ora,   ora pro nobis,
+E7       A
+Peccatoribus.
+
+     A     A7   D
+Nunc et in hora mortis,
+   A    A7        Bm
+In hora mortis nostrae,
+   A    F#             Em
+In hora mortis, mortis nostrae,
+   Em/G Bdim      A A7
+In hora mortis nostrae,
+
+
+(Ending)
+
+D Bm6       D/A A9 D - - D7 G/D C#dim/D D
+A  -  ve Ma-ri-    a.

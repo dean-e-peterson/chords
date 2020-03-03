@@ -1,0 +1,63 @@
+The Galaxy Song
+ - by Eric Idle, from Monty Python's The Meaning of Life, range C#3-D4 in E
+ - originally in Bb
+
+A      (x02220)                     D#dim  (xx1212) or (234242)
+Amaj7  (x02120)                     E7     (020130) or (020100)
+A6     (x02222)                     E+5    (xx2110)
+A#dim  (xx2323) or (x12020)         F#     (244322)
+Bm7    (x20202)                     F#7    (242322)
+
+
+E    E7 A                  Amaj7         A6             A
+Just re-member that you're standing on a planet that's evolving
+    A                 A6     (A#dim7)  E7
+And revolving at nine hundred miles an hour,
+       E7          Bm7              E7              Bm7
+That's orbiting at nineteen miles a second, so it's reckoned,
+  E7              Bm7      (E+5)    A    (E7)
+A sun that is the source of all our power.
+    A               Amaj7          A6                A
+The sun and you and me and all the stars that we can see
+    F#(7)                       Bm
+Are moving at a million miles a day
+      Bm           D#dim7        A                 F#(7)
+In an outer spiral arm, at forty thousand miles an hour,
+       Bm        E7              A
+Of the galaxy we call the 'Milky Way'.
+
+
+E7  A        Amaj7           A6              A
+Our galaxy itself contains a hundred billion stars.
+       A                A6         (A#dim7) E7
+It's a hundred thousand light years side to side.
+   E7            Bm7             E7                   Bm7
+It bulges in the middle, sixteen thousand light years thick,
+           E7                  Bm7      (E+5)       A    (E7)
+But out by us, it's just three thousand light years wide.
+      A               Amaj7            A6               A
+We're thirty thousand light years from galactic central point.
+       F#(7)                           Bm
+We go 'round every two hundred million years,
+        Bm        D#dim7      A           F#(7)
+And our galaxy is only one of millions of billions
+        Bm            E7         A
+In this amazing and expanding universe.
+
+
+E7  A          Amaj7           A6            A
+The universe itself keeps on expanding and expanding
+   A            A6     (A#dim7) E7
+In all of the directions it can whizz
+   E7             Bm7        E7                  Bm7
+As fast as it can go, at the speed of light, you know,
+       E7              Bm7         (E+5)      A                      (E7)
+Twelve million miles a minute, and that's the fastest speed there is.
+     A                   Amaj7        A6            A
+So remember, when you're feeling very small and insecure,
+     F#(7)                     Bm
+How amazingly unlikely is your birth,
+    Bm                  D#dim7         A               F#(7)
+And pray that there's intelligent life somewhere up in space,
+               Bm         E7           A
+'Cause there's bugger all down here on Earth.

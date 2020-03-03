@@ -1,0 +1,78 @@
+Jesus Loves Me (Jennifer Knapp variation)
+ - a variation with new music by Jennifer Knapp
+ - words from Jesus Loves Me and other songs
+
+This first tablature I found is probably the correct one...
+D2      (x00230)
+C2      (x30030)
+G6/B    (x20030)
+C2/Bb   (x10030)
+
+  D2 C2 G6/b                                 C2/Bb C2
+e ------0-------------0------------0--------|----------------------|
+B --3--------3----3-------3----3-------3----|-----3---------3------|
+G ----2-------2-----0------0-----0------0---|-------0---------0----|
+D -0-----------0------------0------------0--|---------0---------0--|
+A --------------3------------2--------------|-0h1-------1h3--------|
+E ------------------------------------------|----------------------|
+
+However, Dean mislearned it, and may still play it as follows...
+
+D  Dsus2/C  Em7/B  Gm6/A#  (3x, then...)  D  Dsus2/C  Em7/B  Gm6/A#  Cadd9  D
+D       (xx0232)
+Dsus2/C?(x30230)
+Em7/B?  (x20030)
+Gm6/A#? (x10030)
+Cadd9?  (x30030)
+(This is a slow pattern. I squished it to fit a whole verse on a line.)
+
+e|-2-2---0---0---0--|---2---0---0---0--|---2---0---0---0--|---2---0---0------|
+B|-3--3---3---3---3-|----3---3---3---3-|----3---3---3---3-|----3---3---3-----|
+G|-22---2---0---0---|--2---2---0---0---|--2---2---0---0---|--2---2---0---0-0-|
+D|-0----------------|-0----------------|-0----------------|-0----------------|
+A|-----3---2---1----|-----3---2---1----|-----3---2---1----|-----3---2---1-3--|
+E|------------------|------------------|------------------|------------------|
+
+
+Another tablature I found...
+e ---------0---------------0----------------0--------------------------------|
+B -----3-----3---------3-----3---------3------3---------3-------3------------|
+G ---2---2-----2-----0---0-----0-----0---0------0-----0---0---0---0----------|
+D -0-------------0---------------0----------------0--------------------------|
+A -----------------3---------------2----------------1-------3----------------|
+E ---------------------------------------------------------------------------|
+
+And yet another tablature I found...
+  Riff 1                                    Riff 2
+e|-----2--2------0--0------0--0----------0-|----2---2----0---0------0---0------------|
+B|---3--3------3--3------3--3------3----3--|---3--3-----3--3-------3--3------3----3--|
+G|--2-2--2----0-0--0----0-0--0----0-0--0---|--2----2---0----0-----0----0----0----0---|
+D|-0---------------------------------------|-0---------------------------------------|
+A|-----------3---------2---------1----0----|----------3----------2---------1----0----|
+E|-----------------------------------------|-----------------------------------------|
+
+Jesus Loves me this I know, for the Bible tells me so.
+Little ones to Him belong, they are weak but He is strong (allelu)
+
+CHORUS:
+Alleluia, allelu. Alleluia, alleluia
+Alleluia, allelu. Alleluia, allelu, alleluia
+
+Jesus Loves me, He who died, heaven's gates are open wide
+He will take away my sin, and let this little child come in.
+
+(Chorus)
+
+Do you love Him does He know, have you ever told Him so,
+Jesus loves to hear us say, that we love Him everyday.
+So help me run the race before me, strong and brave to face my foe,
+Looking only unto Jesus, as each day onward I go.
+
+(Chorus)
+
+Amazing Grace how sweet the sound, I once was lost but now I'm found,
+Once was blind but now I see, Amazing Grace saved a wretch like me.
+
+(Chorus 2x)
+(Fade the guitar the second time.)
+

@@ -1,0 +1,324 @@
+Autumn Leaves Notes
+
+Someone wrote a book sort of, found on fretplay.com
+
+   -- chord chart "arrangement" by tcg, 198?, 1994
+   -- 4/4 // key of Em/G // Allegro (pretty fast)
+                           [the way _I_ played it, at least!--
+                             just to piss off Roger Williams...]
+   -- form: 32-bar--||: A(8)-A(8)-B(8)-C(8) :||
+   -- the lyrics? believe me, you DON'T want to know! . . .
+   -- each chord symbol = / / / /
+       [straight fours: "chunk"-"chunk"-"chunk"-"chunk"]
+   -- chords voiced for fingerstyle; may have to alter voicings
+       for plectrum (especially Em...)
+
+ A: Am7        Am6        GM7        GM6
+    5-55(5)-   5-45(5)-   3-44(3)-   3-24(3)-
+
+    Am7        Co7*       Em         Em [hold for 4]
+    5-55(5)-   -3(4)24-   0-545-     0-545-           [repeat A]
+
+ B: B7         B7         Em         Em
+    -2424-     -2424-     0-545-     0-545-
+
+    D7         D7         GM7        GM7
+    -5453-     -5453-     3-443-     3-443-
+
+ C: Am7        B7         Em         Em
+    5-555-     -2424-     0-545-     0-545-
+
+    Am7        B7         Em         Em [hold for 4]
+    5-555-     -2424-     0-545-     0-545-
+
+ * Co7 is a substitute for the B7 chord in the "sheet music"; feel free
+   to interchange Co7 & B7 in tune [Co7 = B7b9(no root)].
+
+     In fact, the chords above can be viewed as a simple example of
+ jazz substitutions--
+
+ A section, "sheet music":    Am   D7   G   G   Am   B7   Em     Em
+ "    "     "jazz chords":    Am7  Am6  GM7 GM6 Am7  Co7  Em     Em
+
+ --the WHY's:
+   1) Am-->Am7: in most cases, you can play a m7 for a minor to get a
+     "jazzier" sound (Santana & Steely Dan did it all the time--likewise,
+     in this tune, you could change all the Em's to Em7's...). Another
+     common jazz substitution "line" for the plain minor chord could also
+     be incorporated into this song: instead of Em  Em, try Em(//)
+     Em(M7) (//) Em7(//) Em6 (//).
+   2) D7-->Am6: for a V7 chord in a major tonality (here, D7, in G major),
+     you can substitute the V9 (D7->D9); in addition, D9(no root)=Am6
+     [V9(no root)=ii6]; therefore, D7 becomes...Am6!, which follows
+     nicely, voice-leading-wise after the Am7.... ("IT's not MAG-ic....")
+   3) G-->GM7-M6: for the I (major tonic or "key") chord, especially
+     long stretches thereof, the M7, M6, or both! can be played in lieu
+     of the boring plain major chord (though the M7 & M6 would sound
+     pretty weird in a country or folk progression!)....
+   4) B7-->Co7: see *note above; indeed, most diminished seventh chords
+     you'll see can be explained as substitutes for some dominant
+     seventh-type chord....
+
+ LEAD notes: I'd tab out the schmaltzy melody, but the reason this
+     song is still being recorded by jazz people to this day is that
+     it's a fun tune to improvise over (and by the way, only the Lord
+     knows why anyone would still want to sing the corny words!).
+   Since this song doesn't modulate (unless you count GM<->Em, but not
+     really) it's a lot easier to jam over than most "jazz standards."
+     In fact, you only need TWO scales:
+
+   1. E natural (aeolian) minor (=G major!) scale: e-f#-g-a-b-c-d-e
+       --this'll fit all the chords except the B7 & Co7....
+   2. E harmonic minor scale: e-f#-g-a-b-c-*d#*-e
+       --this'll fit over the B7 & Co7 chords: notice that the only
+          difference from the first scale is the d#--in fact, it's
+          actually easier to just think "d# instead of d" when you
+          come to these chords than to worry about "harmonic instead of
+          natural minor! oh, no!...."
+   {3. For a little spice, try a diminished 7th arpeggio over the Co7 &
+          B7 chords: c-d#-f#-a (true, these tones are in the harmonic
+          minor scale given above--just a slightly different approach):
+
+          ______ --try playin' from low to high and back, then experiment
+       I  ||1|||  on your own--right, just every three frets in any
+          |||1|1  direction!...
+          |3||||
+          ||4|3|
+          |||4|4
+          ||||||
+
+   --Now lay down the rhythm track, and go fer it--
+
+ FINALLY, the "sound" of these chords (and associated scales) does
+   take a lot of getting used to--even after you get the rather
+   difficult fingerings down (took me months), there's still the
+   matter of acclimating your ears to actually _liking_ the sound of,
+   say, a M6/9b5 chord (took me years!). But if the plain old G-C-D
+   stuff is gettin' yu' down, and you also realize you'll never be
+   a great speed-metal lead picker--well, this is one logical direction
+   of development. . . . Oh, a M6/9b5? :: CM6/9b5: - 3 2 2 3 2 .
+   "Beautiful-ugly," ain't it?!
+
+
+   |
+ --:--tcg
+   )
+
+
+
+And from jazztheorylessons.com...
+
+Autumn Leaves is a classic jazz standard that everyone will come across at some
+point. This is one of the most popular jazz standards of all time and it is
+typically one of the first standards people learn to play. The song itself
+follows a simple 32 bar AB structure. The song features both a major and minor
+2 5 1 progression and offers you a fairly gentle introduction into the world of
+jazz improvisation.  Have a listen to this great version of Autumn leaves with
+Keith Jarrent on piano. It should help you get a feel for the sound of this
+tune.
+
+Let’s take a look at the autumn leaves chord progression.
+[Dean's note: Found many chords that looked something like these]
+A section (16 bars)
+Cmin7 | F7 | Bbmaj7 | Ebmaj7
+Am7b5 | D7b9 | Gm7 | Gm7
+Cmin7 | F7 | Bbmaj7 | Ebmaj7
+Am7b5 | D7b9 | Gm7 | Gm7
+B section (16 bars)
+Am7b5 | D7b9 | Gm7 | Gm7
+Cmin7 | F7 | Bbmaj7 | Ebmaj7
+Am7b5 | D7b9 | Gm7 | C9
+Eb9 | D7b9 | Gm7 | Gm7
+
+As you can see the tune can be divided up into two sections. The first eight
+bars of the A section are repeated making it easy to remember. The first four
+bars of the A section are a major 2 5 1 4 progression in the key of Bb and bars
+5 to 8 are a minor 2 5 1 progression in Gm.
+
+I will use this lesson to show you the easiest way to play over this chord
+progression, breaking each section down into the appropriate scale choice.
+Let’s start by taking a look at the first 4 bars of this song.
+
+Cmin7 | F7 | Bbmaj7 | Ebmaj7
+
+If you know your theory, you should spot that all of the chords in the first
+four bars are taken from the Bb major scale. In fact most of this tune is based
+on the Bb major scale.
+
+The chords of the Bb major scale are:
+
+Bbmaj7 Cm7 Dm7 Ebmaj7 F7 Gm7 Am7b5
+
+As you can see most of the chords in autumn leaves are taken from the Bb major
+scale and so we can use Bb major to improvise over a lot of this tune. We can
+improvise using the Bb major scale over all of the chords in the first four
+bars. Like I mentioned, this is the easiest way to play over the progression.
+You can think in terms of arpeggios or modes if you like but I find it easier
+to think of this as being just four bars of Bb major scale.
+
+The next four bars are slightly trickier due to the presence of the D7b9 chord.
+The easiest way to play over this part of the song would be to use the G
+harmonic minor scale over the first two bars and then revert back to the Bb
+major scale for the bars 7 and 8. Playing the G harmonic minor scale over the
+D7b9 chord yields the D phrygian dominant mode which brings out the b9 sound
+nicely.
+
+Am7b5 | D7b9 | Gm7 | Gm7
+
+The only tricky part is the B section is the turnaround which looks like this:
+
+Am7b5 | D7b9 | Gm7 | C9
+
+Eb9 | D7b9 | Gm7 | Gm7
+
+The only two chords that we have yet to cover are the C9 chord in bar 28 and
+the Eb9 chord in bar 29. The easiest way to play over a dominant 9 chord is to
+use either the mixolydian scale or the dominant 7 arpeggio. You can play C
+mixolydian over the C9 chord and Eb mixolydian over the Eb9 chord.
+
+Once you have mastered playing over the autumn leaves chord progression using
+the simplest scale choices then you can start to experiment with chord tones
+and arpeggios to bring out the sound of the progression even more. I will
+expand on this idea more in a future lesson and look at more ways to play over
+the autumn leaves chord progression. Good luck and enjoy this great jazz
+standard.
+
+
+And now all the chords Dean originally collected.
+
+ - originally a French song Les feuilles mortes
+ - music by Joseph Kosma
+ - French lyrics by Jacques Prévert
+ - English lyrics by Johnny Mercer
+ - key?  the Nat King Cole rendition may have had Gm7 on the word "leaves"
+ - chords
+   - line 1, er, I don't remember where I got them 
+             [bad key, not great chords, but simple and some chords ok,playable]
+   - line 2, from jazzguitar.be lesson sample
+             [key only slightly high, good chords, but B7b9's suspect,playable]
+   - line 3, uke chords from http://www.muffin.net.nz/muffin/Pdf_Tablature.html
+             [key a bit high, and less playable(75%), experiment with run tho]
+   - line 4, chords from 8notes.com
+             [same key as 2, slightly less playable, interesting, fold into 2?]
+   - line 5, from azchords.com
+             [key a bit low, not playable(35%), Gbmaj7 resonant,and borrow sus?]
+   - line 6, from the anarchist's cookbook, I mean the commercial fake book
+             [same key as 2, very playable, not bad chords, keep as simple?]
+   - line 7, from tcg's found on fretplay
+             [same key as 2, not feeling the dim, maybe keep only the 6th's?]
+   - line 8, from jazztheorylessons.com
+             [not great key, not very playable(45%), D7b9 sounds bad?Ditch this]
+
+B7b9    (x21212) or (x34445)
+C#7b9   (x43434)
+Eb7     (xx5646) or (xx1323)
+Db7     (xx3424)
+Gmaj7   (320002)
+Cmaj7   (x32000)
+F#m7b5  (xx2212) or (234252)
+Gbm7b5  (xx2212) or (234252)
+Ebm7       ?     or (xx1323)?
+Eb9     (xx1021) or (043343)
+Bm9     (x20222) or (797779)
+D9      (x54555) or (x32232) or (xx0210)-no 3rd
+Cdim    (x34242) or (234242) or (xx1212)
+
+Intro from azchords.com: Ebm7  Ab  Db  AB/C  Bbm  Fm/Ab  Gb7 F7 Bbm Eb/Bb Bbm9
+
+            Dm   G             C     Am
+            Am7  D7            Gmaj7 Cmaj7
+F#m         Bm7  E7            Amaj7 Dmaj7
+            Am7  D9            GMaj7 CMaj7
+            Ebm7 Ab            Db    Gbmaj7
+E-          Am7  D7            Gmaj7 C
+            Am7  Am6           GM7   GM6
+            Cm7  F7            Bbmaj7 Ebmaj7
+The falling leaves drift by my window,
+
+            Dm     E           Am    Am7
+            F#m7b5 B7          Em
+            G#m7   C#7         F#m
+            Gbm7b5 B7          Em7   E7
+            Ebmaj7 F7          Bbm  (Bbm9)
+            A-     B7          E-
+            Am7    Co7*        Em
+            Am7b5  D7b9        Gm7
+The falling leaves  of red and gold.
+
+           Dm G             C      Am
+           Am7 D7           Gmaj7  Cmaj7
+           Bm7 E7           Amaj7  Dmaj7
+           Am7 D9           GMaj7  CMaj7
+           Ebm7 Ab          Db     Gbmaj7
+           A-   D7          Gmaj7  C
+           Am7 Am6          GM7    GM6
+           Cm7  F7          Bbmaj7 Ebmaj7
+I see your lips, the summer kisses,
+
+              Dm  E             Am
+              F#m7b5 B7         Em
+              C#7               F#m
+              Gbm7b5 B7         Em6
+              Ebmaj7 F7         Bbm  (Bbm9)
+              A-     B7         E-
+              Am7    Co7*       Em
+              Am7b5  D7b9       Gm7
+The sunburned hands   I used to hold.
+
+          E                         Am
+          F#m7b5 B7b9   (B7)        Em
+          G#m7   C#7b9              F#m
+          Gbm7b5 B7                 Em7
+          F7sus4 F7     F7sus4 F7/A Bbm     *
+          B7                        E-
+          B7     B7                 Em
+          Am7b5  D7b9               Gm7
+Since you went away the days   grow long,
+
+              G                 C
+              Am7 D7            Gmaj7
+              Bm  E7            Amaj7
+              Am7 D9            GMaj7
+              Ebm7 Ab           Db     Gbmaj7
+              A-  D7            Gmaj7  G6
+              D7       D7       GM7    GM7
+              Cmin7    F7       Bbmaj7 Ebmaj7
+And soon I'll hear old winter's song.
+
+      Dm               E       Am    Am7
+      F#m7b5           B7b9    Em   (Em7)
+      G#m7             C#7b9   F#m7 (F#7)  (F7 Em Eb7 Dmaj7?)
+      Gbm7b5           B7      Em7   Eb9  Dm7  Db9
+      Ebm7             F7      Bbm   Bbm/Ab  Eb7/G  Gb
+      A-               B7      E-    E-/D
+      Am7              B7      Em
+      Am7b5            D7b9    Gm7   C9
+But I miss you most of all, my darling,
+
+Dm          E               Am
+Am          B7b9   (B7)     Em
+            C#7b9           F#m
+CMaj7       Gbm7b5   B7     Em7
+            F7              Bbm  Eb/Bb  Bbm9
+A-/C        B7              E-
+            Am7  B7         Em
+            Eb9  D7b9       Gm7
+When autumn leaves start to fall.
+
+
+
+(Instrumental for 1 minute) (Am)slow picking
+
+          E                       Am
+Since you went away the days grow long
+              G                 C
+And soon I'll hear old winter's song
+      Dm               E       Am     Am7
+But I miss you most of all, my darling
+Dm          E               Am
+When autumn leaves start to fall
+       Dm               E       Am     Am7
+Yes, I miss you most of all, my darling
+Dm          E               Am
+When autumn leaves start to fall
+

@@ -1,0 +1,59 @@
+The Sound of Music
+ - from Rodgers and Hammerstein's The Sound of Music
+ - lyrics by Oscar Hammerstein II, music by Richard Rodgers
+ - chords based on Hal Leonard's Broadway Fake and 100 Years of Song books
+ - tenor range D3-D4, in F
+
+F6      (xx0211)
+Fmaj7   (xx3210)
+F6/9    (100011) or (xx3233)
+C+      (xx2110)
+Bbdim   (xx2323)
+G7-5    (xx3423) aka Db7b5
+Gm7     (353333)
+Fm6     (1x0111) or (xx0111)
+Bb/D    (xx0331)
+F/A     (x03211)
+F/C     (x33211)
+Dm6     (xx0201)
+
+   F                               C7
+My day in the hills has come to an end, I know.
+  F                                 Gb
+A star has come out to tell me it's time to go.
+    C7                     F           C7                     F
+But deep in the dark green shadows are voices that urge me to stay.
+     Fm6                    Eb
+So I pause and I wait and I listen
+    C7                  F                              Gm    C7    F   C7
+For one more sound, For one more lovely thing that the hills might say.
+
+    F6         Fmaj7                  E(/F)
+The hills are alive with the sound of music,
+     F6/9            F6                  Bb/D   C
+With songs they have sung for a thousand years.
+C+  F6            Fmaj7                   E(/F)
+The hills fill my heart with the sound of music,
+   F/A            Bb/D       C6 C7   F (Bb F)
+My heart wants to sing every song it hears.
+
+   F7
+My heart wants to
+Bb            Bbdim        F/A        F/C           Bb   Bbdim  F
+beat like the wings of the birds that rise from the lake to the trees.
+   Bb             Bbdim       F/A        F/C          G7/D   G7-5 C      F/A
+My heart wants to sigh like a chime that flies from a church on a breeze,
+   Bb           Bbdim         F/A       F/C        Bb     Bbdim  F/A F/C
+To laugh like a brook when it trips and falls over stones on its way,
+   Dm  (Dm6)        Am            Dm          G7          C   C+
+To sing through the night, like a lark who is learning to pray.
+
+
+  F6        Fmaj7                  E(/F)
+I go to the hills when my heart is lonely.
+  F6/9        F6                     Bb Bbm
+I know I will hear what I've heard before.
+   F/C                Am                   Bb  Gm7
+My heart will be blessed with the sound of music,
+         Am   C7   F
+And I'll sing once more.

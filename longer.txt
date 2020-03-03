@@ -1,0 +1,66 @@
+Longer
+ - words and music by Dan Fogelberg, tenor range G2-C4 in C
+ - chords from Hal Leonard's 150 Most Beautiful Songs, 3rd Ed.
+
+Ab        (466544)
+Abadd9/Eb (xx1314)
+Bbadd9    (x13311)
+Bbadd9/F  (x8x768)
+C/D       (xx0010)
+Cmaj7/E   (032000)
+F/C       (x33211)
+G7/B      (x20001)
+G7/D      (xx0001)
+G7sus4/C  (x30011)
+Gm7/Bb    (x13333)
+
+C       Dm7               Cmaj7/E       F
+Longer than there've been fishes in the ocean,
+C       Dm7     Cmaj7/E    F
+Higher than any bird ever flew,
+C       Dm7               Cmaj7/E         F
+Longer than there've been stars up in the heavens,
+Eb           G7/D (G7) C    F/C  G
+I've been in love with you.
+
+C         Dm7     Cmaj7/E    F
+Stronger than any mountain cathedral,
+C      Dm7     Cmaj7/E    F
+Truer than any tree ever grew,
+C       Dm7     Cmaj7/E   F
+Deeper than any forest primeval,
+Eb      G7/D (G7) C
+I am in love with you.
+
+    Bbadd9/F  F     Abadd9/Eb    Eb
+    I'll      bring fire in the winters;
+    Bbadd9/F  F    Abadd9/Eb       Eb
+    You'll    send showers in the springs.
+    Bbadd9/F  F     Abadd9/Eb           Eb
+    We'll     fly through the falls and summers
+         G7sus4/C  G7/B        Gm7/Bb  G7/B
+    With love           on our wings.
+
+C             Dm7        Cmaj7/E        F
+Through the years as the fire starts to mellow,
+C         Dm7        Cmaj7/E      F
+Burning lines in the book of our lives,
+           C          Dm7           Cmaj7/E      F
+Though the binding cracks and the pages start to yellow,
+Eb         G7/D (G7) C   C/D
+I'll be in love with you.
+Eb         G7/D (G7) C
+I'll be in love with you.
+
+    [Instrumental Interlude, chords from I'll bring fire section]
+
+C       Dm7               Cmaj7/E       F
+Longer than there've been fishes in the ocean,
+C       Dm7     Cmaj7/E    F
+Higher than any bird ever flew,
+C       Dm7               Cmaj7/E         F
+Longer than there've been stars up in the heavens,
+Eb           G7/D (G7) C   C/D
+I've been in love with you.
+Eb      G7/D (G7) C   C/D  Eb   G7/D   C
+I am in love with you.

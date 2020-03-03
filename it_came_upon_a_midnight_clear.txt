@@ -1,0 +1,66 @@
+It Came upon the Midnight Clear
+ - lyrics by Edmund H. Sears, music by Richard Storrs Willis
+ - originally in Bb? tenor range in Bb is D3-D4
+ - Bb chords from Hal Leonard Ultimate Fake book
+   G chords first line same as above, transposed
+   G chords second line Deans modifications
+ - Needs testing, possible transposing, and chording remaining verses.
+
+Bb+     (xx0332)
+Edim7   (xx2323)
+
+G+      (321003)?or (xx5443) or (xx1003)?
+C#dim   (xx2323) or (x45353) or (345353)
+
+   Bb   Bb+  Eb Edim7  Bb Eb    Bb           Eb       C7      F F7
+   G    G+   C  C#dim7 G  C     G            C        A7      D D7
+   G    Gmaj7 C Dsus2  G  C     G            C        A7 A A2 D Dmaj7 D7
+It came up - on the    midnight clear,  That glorious song of old,
+     Bb   Bb+  Eb Edim7  Bb   Eb  Bb        Eb    Cm    F7       Bb
+     G    G+   C  C#dim7 G    C   G         C     Am    D7       G
+     G    Gmaj7 C Dsus2  G    C   G         C           D     D7 G (C G)
+From an - gels bending   near the earth  To touch their harps of gold:
+       D7                 Gm   D7 Gm    Bb   F            C7       F  F7
+       B7                 Em   B7 Em    G    D            A7       D  D7
+       B(7)               Em B(7) Em         D            A  A7    D Dmaj7 D7
+"Peace on the earth, good will to men,  From heaven's all gracious King!"
+    Bb    Bb+ Eb Edim7  Bb   Eb   Bb      Eb   Cm  F7     Bb
+    G     G+  C C#dim7  G    C    G       C    Am  D7     G
+    G   Gmaj7 C Dsus2   G    C    G       C    Am  D D7   G (C G)
+The world in  solemn    stillness lay  To hear the angels sing.
+
+Still through the cloven skies they come
+With peaceful wings unfurled
+And still their heavenly music floats
+O'er all the weary world:
+Above its sad and lowly plains
+They bend on hov'ring wing.
+And ever o'er its Babel sounds
+The blessed angels sing.
+
+Yet with the woes of sin and strife
+The world has suffered long;
+Beneath the angel-strain have rolled
+Two thousand years of wrong;
+And man, at war with man, hears not
+The love song which they bring:
+O hush the noise, ye men of strife,
+And hear the angels sing.
+
+And ye, beneath life's crushing load
+Whose forms are bending low,
+Who toil along the climbing way
+With painful steps and slow:
+Look now, for glad and golden hours
+Come swiftly on the wing;
+O rest beside the weary road
+And hear the angels sing.
+
+For lo, the days are hastening on,
+By prophet bards foretold,
+When with the ever-circling years
+Comes round the age of gold:
+When peace shall over all the earth
+Its ancient splendors fling,
+And all the world send back the song
+Which now the angels sing.

@@ -1,0 +1,71 @@
+Stardust
+ - words by Mitchell Parish, music by Hoagy Carmichael, tenor range B2-E4 in C
+ - chords from Hal Leonard's 150 of the Most Beautiful Songs Ever
+
+B7/F#   (201202)?  or (221202)
+C6      (032210)   or (x32210)
+C7#5    (002314)?? or (xx2314)
+Cdim7   (001212)?? or (x01212)? or (xx1212)
+Cm6     (x31213)
+D9      (x54555)   or (x32232)  or (xx0210)-no 3rd
+Dm7/G   (300211)   or (3x0211)
+Dm7     (xx0211)
+Ebdim7  (001212)?? or (x01212)? or (xx1212)
+E7#5    (002110)?  or (xx0110)? or (030110)?
+Em7     (020000)   or (020030)
+F6      (000211)?? or (x00211)? or (xx0211)
+F7b5    (101201)   or (xx1101)?
+F9      (003243)?? or (x03243)? or (xx3243) or (131213)
+Fm6     (133131)   or (xx0111)
+G7#5    (020110)?? or (xx1001)
+Gdim7   (002323)?? or (xx2323)
+
+Intro:  F6    A7    Dm7/G  G7
+
+C                          F9
+And now the purple dusk of twilight time
+E7                              A7
+Steals across the meadows of my heart,
+Dm                     C            Am
+High up in the sky the little stars climb,
+B7                       Em    Ebdim7 Dm7 G7
+Always reminding me that we're a  -   part.
+
+C                              F9
+You wandered down the lane and far away,
+E7                              A7
+Leaving me a song that will not die.
+Dm                       C          Cdim7
+Love is now the stardust of yesterday,
+G7                          C
+The music of the years gone by.
+
+    C7#5    F6                            Fm6
+Sometimes I wonder why I spend the lonely night dreaming of a song?
+    C      Em7            A7
+The melody haunts my reverie,
+Dm7            A7        Dm7  Fm6
+And I am once again with you,
+         G7   Gdim7 G7
+When our love was   new,
+                 G7#5 C
+And each kiss an inspiration.
+    D9
+But that was long ago: Now my consolation
+   G7     Dm7/G         G7 Gdim7 G7
+Is in the stardust of a song.
+
+C7#5 F6                                 Fm6
+Be - side a garden wall, when stars are bright, you are in my arms.
+    C           Em7             A7
+The nightingale tells his fairy tale
+Dm7               A7    Dm7 Fm6
+Of paradise where roses grew.
+(Fm6)
+Though I dream in vain,
+      C     G/B Am   C/G  B7/F#  F7b5  E7
+In my heart it  will re - main;
+E7#5 F6           A7/E  Ebdim7  G7/D
+My   stardust melody,
+        G7             C  Cm6 C6
+The memory of love's refrain.

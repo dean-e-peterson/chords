@@ -1,0 +1,57 @@
+Jingle Bell Rock
+ - words and music by Joe Beal and Jim Boothe
+ - chords from Hal Leonard's Ultimate Fake Book
+
+Cmaj7   (x32000) or (x35453)
+C6      (x32210) or (x02213)
+C#dim   (xx2323) or (345353)
+Dm7     (xx0211)
+G7+5    (xx1001)?or (321001)?or (353443)?or (x20110)?
+C+      (xx2110)
+F#dim   (xx1212) or (234242)
+C7+5    (xx2314)
+Gadd5   (320033)
+G9      (320201) or (353435)?
+Bb7     (x13131) or (xx3334)
+
+Intro: ?  G G7 G6 Gadd5/G7+5?
+
+C            Cmaj7        C6          C
+Jingle-bell, jingle-bell, jingle-bell rock,
+C6          C     C#dim  Dm7          G7
+Jingle-bell swing and    jingle-bells ring.
+Dm7         G7         Dm7        G7
+Snowin' and blowin' up bushels of fun,
+Dm7                G7+5
+Now the jingle hop has begun.
+
+C            Cmaj7        C6          C
+Jingle-bell, jingle-bell, jingle-bell rock,
+C6           C     C#dim  Dm7         G7
+Jingle-bells chime in     jingle-bell time.
+Dm7         G7          Dm7         G7
+Dancing and prancing in Jingle Bell Square,
+D7     G7     C   C+
+In the frosty air.
+
+       F                     F#dim
+What a bright time, it's the right time,
+   C
+To rock the night away.
+C7+5   F              D7
+Jingle bell time is a swell time
+G7    G9           G7              (G6  Gadd5/G7+5?)
+To go glidin' in a one-horse sleigh.
+
+C        Cmaj7        C6           C
+Giddy-up jingle horse pick up your feet,
+C6      C     Bb7 A7
+Jingle around the clock.
+F                   Fm
+Mix and mingle in a jinglin' beat
+D7         G7
+That's the jingle-bell
+D7         G7
+That's the jingle-bell
+D7         G7          C
+That's the jingle-bell rock.

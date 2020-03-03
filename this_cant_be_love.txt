@@ -1,0 +1,32 @@
+This Can't Be Love
+ - words Lorenz Hart, music Richard Rodgers, tenor range C#3-E4 in G
+ - chords Hal Leonard Broadway fake book with modifications by Dean, 4/4 ~131bpm
+
+C#dim   (xx2323)
+C6      (xx2213) or (x02213)? or maybe (032210)
+B7(#9)  (x21233)
+E+      (xx2110)
+A9      (x42000)
+D7-9    (xx1212)
+
+Am7 D7 Am7 D7
+
+G6                            C7
+This can't be love, because I feel so well,
+   G        Em          Am7 D7 Am7 D7
+no sobs, no sorrows, no sighs.
+G6                           C7
+This can't be love, I get no dizzy spell,
+   G       C#dim Am7 D7  G C6 C7 G
+my head is not   in  the sky.
+            F#m7        B7                  Em7
+My heart does not stand still, just hear it beat.
+            B7(#9) E+ A9 D7-9 D7
+This is too sweet  to be love.
+G                             C7
+This can't be love, because I feel so well,
+            G       Am   G       F7  E7
+but still I love to look in your eyes,
+        C#dim   Am7  D7      G C7 Am7 G
+still I love to look in your eyes.
+

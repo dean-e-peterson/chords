@@ -1,0 +1,60 @@
+Fly Me to the Moon
+ - by Bart Howard, originally titled 'In Other Words', tenor range G2-D4 in Am?
+ - chords for main part based on Hal Leonard's Ultimate Fake Book
+ - chords for intro based on Hal Leonard sheet music sample on freehandmusic.com
+
+A7+5    (x03021)
+Am7     (x02010)
+Bm7     (x20202) or (x24232)
+Bm7-5   (x20201) or (xx0201)
+C6      (x32210) or (x02213)
+Cmaj7   (x32000) or (x35453)
+Cmaj9   (x32430) or (x30000) or (x32422)
+Dm7     (xx0211)
+E7      (020100)
+E7sus4  (020200)
+F6      (xx0211) or (xx3231)
+Fm6     (xx0111) or (1x0111) or (130111)
+Fm7     (131111)
+Gm6     (xx2333)
+
+C           G7       C6 G7    C     Am7    Dm7   G7
+Poets often use many words to say a simple thing.
+Dm       A7+5   (A7) Dm7      Fm7      Dm7    G7   C  C7
+It takes thought and time and rhyme to make a poem sing.
+     F         Dm7             C       A7
+With music and words I've been playing,
+    Dm         G7        C  Am
+For you I have written a song.
+      Dm               E             Am   (Am7)
+To be sure that you'll know what I'm saying
+     Dm          (Dm7)  E7sus4  E7
+I'll translate as I go along.
+
+
+Am7           Dm7
+Fly me to the moon,
+           G7             C  Cmaj7  C7
+And let me play among the stars;
+F(maj7)         Bm7-5
+Let me see what spring is like
+   E7          Am  A7
+On Jupiter and Mars.
+   Dm7      G7           Cmaj9  Am7   (or Em7 A7 at "hand")
+In other words - hold my hand.
+   Dm7      G7           Fm6  C  Bm7  E7
+In other words - darling kiss me.
+
+
+Am7                Dm7
+Fill my heart with song,
+           G7           C  Cmaj7  C7
+And let me sing for evermore;
+F(maj7)       Bm7-5
+You are all I long for
+      E7           Am  A7
+All I worship and adore.
+   Dm7      G7             Gm6 A7
+In other words - please be true.
+   Dm7      G7          C   (... Bm7  E7   first time, then repeat to whereever)
+In other words - I love you.

@@ -1,0 +1,56 @@
+Some Enchanted Evening
+ - from Rodgers and Hammerstein's South Pacific
+ - chords from Hal Leonard's AFI's 100 Years 100 Songs
+ - tenor range C3-E4 in C
+
+C/E     (032010)
+C6      (x32210)
+Cm6     (x31213)
+C+      (xx2110)
+Cdim/G  (3x1212)
+Cmaj9   (x32430) or (x3243x) or (x30000)
+Dm7     (xx0211)
+E+      (xx2110)
+Edim    (012020) or (xx2323) or (345353)?
+F6      (xx0211) or (xx3231)
+Fmaj7   (xx3210)
+G7sus   (320011)
+
+Intro:  C/E    E+    F  F/E  Dm7  G7
+
+C                      G7
+Some enchanted evening you may see a stranger,
+C                    E+         Fmaj7   F6
+You may see a stranger across a crowded room
+    C6/E        Dm7 G7 Dm    E7        Am  C7/G  F
+And somehow you know,    you know even then
+     C/E              Dm7            G7  Cmaj7  C7  C+  Cdim/G
+That somewhere you'll see her again and again.
+
+C                      G7
+Some enchanted evening someone may be laughing,
+C                       E+         Fmaj7   F6
+You may hear her laughing across a crowded room
+    C6/E        Dm7 G7 Dm   E7            Am  C7/G  F
+And night after night,   as strange as it seems
+    C/E          Dm7                 G7     C
+The sound of her laughter will sing in your dreams.
+
+G7sus  G7    Cmaj9 C    Dm7     G7       C6 C
+Who    can explain it?  Who can tell you why?
+G7sus  G7       Cmaj9 C    Am7      D7    G  Cm6  Edim  Dm7/G  Cdim/G
+Fools  give you reas- ons, wise men never try.
+
+C                      G7
+Some enchanted evening when you find your true love,
+C                        E+         Fmaj7   F6
+When you feel her call you across a crowded room,
+     C6/E       Dm7 G7 Dm    E7            Am  C7/G  F
+Then fly to her side,    and make her your own
+   C/E              Dm           Dm7/G     G7 C
+Or all through your life you may dream all a- lone.
+
+G7sus  G7       Cmaj9 C    Dm7   G7      C6 C
+Once   you have found her, never let her go.
+G7sus  G7       Cmaj9 C    Dm7/G         C
+Once   you have found her, never let her go.

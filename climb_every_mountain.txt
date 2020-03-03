@@ -1,0 +1,36 @@
+Climb Every Mountain
+ - from Rodgers and Hammerstein's The Sound of Music
+ - chords from Hal Leonard Broadway Fake Book, slightly modified.
+ - tenor range C3-F4, in G
+
+Fmaj7   (xx3210)
+Fm6     (xx0111)
+Gm7     (353333)
+Cmaj7   (x32000)
+Dmaj7   (xx0222)
+Gmaj7   (320002)
+Em7     (020000)
+E+      (xx2110)
+Dm7 & F6(xx0211)
+
+Intro: C  D7  Gmaj7  G
+
+C     D7    Gmaj7  G     Gm7    C7       Fmaj7
+Climb every moun - tain, Search high and low,
+Fm6          C      Dm7   G7       C
+Follow every byway, Every path you know.
+C     D7    Gmaj7  G     Gm7  C7    Fmaj7
+Climb every moun - tain, Ford every stream,
+Fm6          C        Dm7       G7        C     C7
+Follow every rainbow, 'Till you find your dream.
+
+  F               Fmaj7 Dm        G7           C  Cmaj7  Am
+A dream that will need    all the love you can give,
+D7    G           Gmaj7 Em7       A           D  D7
+Every day of your life     for as long as you live.
+
+G     A7    Dmaj7  D     Dm7  G7    Cmaj7
+Climb every moun - tain, Ford every stream,
+Am     Am7/G  Dm  Dm7  C    E+  F6   G7   C  Dm7  C
+Follow every  rainbow, Till you find your dream.
+

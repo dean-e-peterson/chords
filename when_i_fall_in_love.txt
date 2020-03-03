@@ -1,0 +1,43 @@
+When I Fall In Love
+ - words by Edward Heyman, music by Victor Young, tenor range A2-C#4 in D
+ - chords from Hal Leonard's 100 Years of Song, originally in Eb
+
+G/A     (x00003)
+G9      (320201) or (353435)
+Gm6     (xx2333)
+Gdim7   (005656) or (xx2323)
+A7b9    (x02021)?or (x12223) or (575656) or (x4535x) or (xx5353) or (x05353)
+Bb9     (x10111)
+B7      (x21202)
+B7#5    (x21203) or (xx1203) or (xx5445)
+B7b9    (x21212) or (x34445)
+D6      (xx0202) or (x24232)
+Fdim7   (xx0101) or (xx3434) or (123131)
+
+Intro:  D   E7  Em7  A7
+
+D              Em7 G/A   D             A7
+When I fall in love      it will be forever
+D             B7#5 B7 Em7  Gdim7
+Or I'll never fall in love.
+
+     D/F#                Gdim7
+In a restless world like this is,
+        D/F#    Am          B7
+Love is ended before it's begun,
+        Em7            B7b9
+And too many moonlight kisses
+        Em          Em7           A/C#  A7
+Seem to cool in the warmth of the sun.
+
+D              Em7 G/A   D             A7
+When I give my heart     it will be completely,
+D             B7#5 B7 Em7  Gdim7
+Or I'll never give my heart;
+        D/F#         G
+And the moment I can feel that
+    B7            Em
+You feel that way too
+Gm6  D/A            Em7  A7   D   Fdim7   Em7  A7b9     (<-- chords into repeat)
+Is   when I fall in love with you.
+                              D   G9  Bb9  A7  D6       (<-- chords ending)

@@ -1,0 +1,57 @@
+Tomorrow
+ - by Martin Charnin and Charles Strouse, tenor range B2-E4 in G
+ - from the musical Annie, originally in Eb?, though I saw sheet music in F.
+ - chords based on those at tabs.ultimate-guitar.com, transposed up a step
+ - could also use just B7 on dollar.
+
+Bbmaj7  (x13231)
+B7      (x21202) or (x24242)
+B7sus4  (x22202) or (x24252)
+Bm7     (x20202) or (x24232)
+Cmaj7   (x32000)
+D7      (xx0212)
+D7sus4  (xx0213)
+Em7     (020000) or (020030)
+Gmaj7   (320002)
+G#maj7  (xx1113)
+
+
+    G              Gmaj7      Cmaj7
+The sun'll come out, tomorrow.
+                B7sus4 Bm7    Em    Em7           Cmaj7   D
+Bet your bottom dollar that tomorrow, there'll be sun!
+
+
+     G             Gmaj7      Cmaj7
+Jus' thinkin' about, tomorrow,
+                B7sus4   Bm7     Em    Em7            Cmaj7   D
+Clears away the cobwebs, and the sorrow, 'til there's none!
+
+
+                      Gm         Bb       Eb     F
+When I'm stuck with a day that's gray and lonely,
+                    Bb        Bbmaj7    D7sus4   D7
+I just stick out my chin, and grin, and say,     Oh!
+
+
+    G              Gmaj7      Cmaj7
+The sun'll come out, tomorrow,
+              B7sus4   B7    Em    Em7            G#maj7   D7sus4   D7
+So you got to hang on 'til tomorrow, Come what may.
+(Oh! I got to hang on 'til tomorrow, Come what may.   <-- words on a repeat?)
+
+
+  G       Gmaj7
+Tomorrow! Tomorrow!
+  G7        C
+I love ya Tomorrow!
+       G        D7sus4  D7  G    C?   D?
+You're always a day     a - way!
+
+
+  G       Gmaj7
+Tomorrow! Tomorrow!
+  G7        C
+I love ya Tomorrow!
+       G        D7sus4  D7  G    Gmaj7   Cmaj7/G   D7sus4  D7  G
+You're always a day     a - way!

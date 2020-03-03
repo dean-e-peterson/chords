@@ -1,0 +1,66 @@
+As Time Goes By
+ - by Herman Hupfeld, for Broadway Musical "Everybody's Welcome"
+ - performed in Casablanca by Dooley Wilson and Elliot Carpenter. "Play it, Sam"
+ - chords from Harms Inc. sheet music,transposed down 1/2 step,range D3-E4 in A?
+
+Ddim    (xx0101) or (xx3434)
+Ebdim   (xx1212) or (234242)
+Edim    (xx2323) or (345353)
+Fdim    (xx0101) or (xx3434)
+Adim    (xx1212) or (x01212)
+C#      (xx3121) or (x46664)
+A+5     (xx3221)
+A7+5    (x03021)
+B7-5    (xx1201) or (xx3445)
+B7+5    (xx1203) or (xx5445) or (x21203)
+Em7-5   (012030)
+F#m7-5  (xx2212) or (234252) or (x02212), compare Am6
+Gm6     (xx2333)
+Am6     (x02212)
+A6      (x02222)
+D6      (xx0202) or (x24232)
+Dmaj7   (xx0222) or (x54222)
+A9      (x02000)
+E9      (020102)
+
+Intro:  Ebdim  E7  Edim  Am6  Adim  B7+5  B7  Em7  Bb7  A6  C#  A7
+
+     D                 Bm              Em7            A7
+This day and age we're living in gives cause for apprehension
+     Dmaj7           D           B7+5
+With speed and new invention and things like third dimension.
+B7     Em    Em7    A6   A     D   F#7        Bm    (Bm7)
+Yet we get a trifle weary with Mr. Einstein's theory.
+Bm7   A                C#7               F#m    C#        A7
+So we must get down to earth at times, relax, relieve the tension.
+   Em     Em7      A7          D        F#m    Bm
+No matter what the progress, or what may yet be proved,
+    Em              (Em7)                     Em7-5   A7sus  A7
+The simple facts of life are such they cannot be re - moved.
+
+                                                         (A+5?)
+    Em            A7      F#m7-5          A7      D       Ddim   D6 F#m  Bm
+You must remember this: a kiss is still a kiss, a sigh is just a sigh.
+F#m E7                   A7sus A7 Em7  A7   Dmaj7  D6  Dmaj7  D6
+The fundamental things apply   as time goes by.
+(Ebdim) Em             A7       F#m7-5           A7     D        Ddim  D6 F#m Bm
+And    when two lovers woo they still say I love you on that you can rely.
+F#m E7                     A7sus  A7 Em7  A7   D  G  Gm6  D  D7
+No  matter what the future brings as time goes by.
+
+BRIDGE:
+G                        B7
+Moonlight and love songs never out of date.
+Em                      Fdim
+Hearts full of passion, jealousy and hate.
+Bm          G7      E9
+Woman needs man and man must have his mate,
+     A9     Adim  A7
+That no one can deny.
+
+     Em                 A7      F#m7-5           A7      D       Ddim  D6 F#m Bm
+It's still the same old story:A fight for love & glory,a case of do or die.
+F#m E7                        A6 B7   Ebdim  Em7  A7 A7+5 D Bm E9 A7
+The world will always welcome lo-vers as     time goes    by.
+
+(Repeat from "You must remember this", 2nd time "by" is)  D  C9  D

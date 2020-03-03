@@ -1,0 +1,63 @@
+La Vie En Rose
+ - music by Louis Guglielmi, aka Louiguy
+ - original French lyrics by Édith Piaf, english lyrics by Mack David
+ - Louis Armstrong performance was used in Disney's Wall-E
+ - La vie en rose = life in rosy hues, or life through rose-colored glasses
+ - chords based on those at songtrellis.com, tenor range C3-E4 ?
+
+Ab9     (xx1312) or (x11112) or (x34344)
+Adim    (xx1212) or (x01212) or (234242)
+C6      (x32210) or (x02213)
+Cmaj7   (x32000)
+Cmaj9   (x32430) or (x3243x) or (x30000)
+Dm7     (xx0211) or (x57565)
+Ebdim   (xx1212) or (234242)
+F6      (xx0211) or (xx3231)
+Fm6     (xx0111) or (1x0111) or (130111)
+Fm7b5   (xx1101) or (123141)
+
+
+C                         Cmaj7            (Original French lyrics:)
+Hold me close and hold me fast,
+                     C6                    Des yeux qui font baisser les miens
+This magic spell you cast,                 Un rire qui se perd sur sa bouche
+                  Dm7  G7                  Voilà le portrait sans retouche
+This is La Vie En Rose.                    De l'homme auquel j'appartiens
+Dm                       G7
+When you kiss me, heaven sighs,            Quand il me prend dans ses bras
+                      Dm(6/G)              Il me parle tout bas
+And though I close my eyes,                Je vois la vie en rose
+  G7            Adim  Dm7 G7
+I see La Vie En Rose.                      Il me dit des mots d'amour
+                                           Des mots de tous les jours
+                                           Et ça me fait quelque chose
+C                         Cmaj7
+When you press me to your heart,           Il est entré dans mon coeur
+                C6                         Une part de bonheur
+I'm in a world apart,                      Dont je connais la cause
+                    F
+A world where roses bloom;                   C'est lui pour moi,
+    F6       Fm6                             Moi pour lui dans la vie
+And when you speak,                          Il me l'a dit,
+       Cmaj9     (C)                         L'a juré pour la vie
+Angels sing from above;
+F6       Ebdim                             Et dès que je l'aperçois
+Everyday words seem to                     Alors je sens en moi
+Dm7            Fm7b5 G7                    Mon coeur qui bat
+turn into love songs.
+                                           Des nuits d'amour à plus finir
+                                           Un grand bonheur qui prend sa place
+C                        Cmaj7             Les ennuis, les chagrins s'effacent
+Give your heart and soul to me             Heureux, heureux à en mourir
+                     F                     (repeat Quand il through qui bat)
+And life will always be
+Dm7  Fm7b5    C  Dm7  Ab9  G7  C
+La   Vie  En  Rose.
+              C  G#7  C  (second ending)
+
+
+(Additional English lyrics:)
+I thought that love was just a word
+They sang about in songs I heard
+It took your kisses to reveal
+That I was wrong, and love is real

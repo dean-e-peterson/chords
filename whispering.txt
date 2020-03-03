@@ -1,0 +1,73 @@
+Whispering
+ - recorded by the Comedian Harmonists, tenor range C3-F4 in C
+ - words & music by John Schonberger, Richard Coburn & Vincent Rose, 1920
+ - chords from downloaded Miller Music Corp. sheet music w/ Carmen Miranda on it
+
+Ab7         (464544)
+A+          (x03221)  or (x03220) which might actually be Aadd-13?
+Bdim        (xx0101)  or (xx3434) or (x23131)
+C6          (x32210)
+Cmaj7       (x32000)
+Cadd9?      (x32030)
+Cadd+11     (x34010)  basically a C plus an augmented 4th/diminished 5th
+Cdim        (xx1212)  or (x34242) or (234242)
+Cm6/A       (x01213)? or (x05545)?
+Cm6         (xx1213)  or (x31213) or (x01013)??
+D9          (xx0210)
+Ddim        (xx0101)  or (xx3434) or (123131)
+Edim        (xx2323) or (012020)
+EmMaj7?     (021000)
+Fm6         (xx0111)
+G+          (xx5443)? or (321003)?
+G7+         (xx1001)? or (321001)?
+
+
+C      Edim     Dm7   G7     C    G7+
+C               Bdim         C    G7
+Honey  I  have  something to tell you,
+C        Edim       Dm7 G7    C
+C                   Bdim      C
+And it's worthwhile listening to.
+Em              Am6 (B7+) B7 Em   Cm6 (or EmMaj7?)
+Em              B7           Em   EmMaj7
+Put your little head on   my shoulder,
+G       Ddim  Am7  D7    Dm7 G7
+G             Cdim       G   G7
+So that I can whisper to you.
+
+
+CHORUS:
+C   (riff 1)                B    B7   (riff 1: C  Cmaj7  C  Cadd9  C  Cmaj7  C)
+Whispering while you cuddle near me,
+C   (riff 2)             A+   A7      (riff 2: C  Cadd+11  C  C6  C  Cadd+11  C)
+Whispering so no one can hear me,
+D9                           Gsus4 G7
+Each little whisper seems to cheer me.
+C           Am7              Dm7            G7sus4
+C                 Cdim       Dm7  G7        Dm7
+I know it's true, There's no one, dear, but you,
+G7+    C   (riff 1)             B     B7
+You're whispering why you never leave me,
+C   (riff 2)                A+     A7
+Whispering why you'll never grieve me,
+D9                         G7    (Gm7)  G7
+Whisper and say that you believe me,
+Dm     (A7)     Dm  Fm6  C    Dm7  G7+  (<-- first time through chorus)
+Whispering that I   love you.
+                         C    Ab7  C    (<-- end on second time through chorus)
+
+
+C        Edim     Dm7   G7    C   G7+
+C                 Bdim        C   G7
+When the twilight shadows are falling,
+C       Edim  Dm7   G7    C
+C             Bdim        C
+And the weary world is at rest,
+Em                Am6 (B7+) B7 Em    Cm6 (or EmMaj7?)
+Em                B7           Em    EmMaj7
+Then I'll whisper just why  I  know, dear,
+G      Ddim    Am7  D7    Dm7 G7
+G              Cdim       G   G7
+Loving time is always the best.
+
+(Chorus)

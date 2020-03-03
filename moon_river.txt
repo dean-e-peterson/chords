@@ -1,0 +1,42 @@
+Moon River
+ - words by Johnny Mercer, music by Henry Mancini, tenor range C3-D4, in Am (C?)
+ - chords from Hal Leonard's AFI 100 Years 100 Songs
+ - performed in Breakfast at Tiffany's by Audry Hepburn
+ - also performed by Andy Williams and others
+
+Abmaj7  (xx1113) or (465544)?
+Bb9#11  (x1x111)
+Bm7b5   (x20201) or (xx0201)
+Dbmaj7  (x43111)
+Dm7     (xx0211) or (x57565)
+Em7     (020000) or (020030)
+F13     (100001) or (333335) or (131231) or (131233) or 0x(x8888a)
+F#m7b5  (xx2212) or (234252) or (xx4555)
+G9      (320201) or (353435)
+
+C    Am     F            C/E
+Moon River, wider than a mile:
+    F               C/E        Bm7b5  E7
+I'm crossing you in style some day.
+    Am    C7/G       F    Bb9#11 (or Fm)
+Old dream maker, you heartbreaker,
+    Am   Am7/G  F#m7b5  B7
+Wherever you're goin',
+    Em7 A7     Dm7 (G9) G7
+I'm goin' your way.
+
+
+C   Am       F              C/E
+Two drifters off to see the world.
+        F             C/E      Bm7b5  E7
+There's such a lot of world to see.
+      Am Am7/G   F#m7b5 F13       C/E
+We're af-ter the same   rainbow's end.
+F                  C/E
+ Waitin' round the bend,
+F               C/E
+ My Huckleberry friend,
+Am   Dm7 G9    C           (repeat from beginning)
+Moon River and me.
+               Abmaj7  Dbmaj7  C   (second ending)
+

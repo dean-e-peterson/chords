@@ -1,0 +1,67 @@
+Somewhere Out There
+ - from the movie "An American Tail", in C
+ - words and music by James Horner, Barry Mann, and Cynthia Weil
+ - chords from Hal Leonard's 100 Years, 100 Songs
+
+Am7     (002010) or (x02213)
+Bb/Ab   (4x333x)
+Bbmaj7  (x13231)
+Bm7     (x24232) or (x20202)
+Cmaj7   (x32000) or (x35453)
+Cadd9   (x32030)
+D6      (xx0202) or (x24232)
+D+      (xx0332)
+Dm7     (xx0211) or (x57565)
+Dmaj7   (xx0222)
+Em7     (020000) or (020030)
+Fmaj7   (xx3210) or (102210)?
+Fmaj9   (102010) or (10201x)
+Fadd9   (xx3213)
+Gsus4   (355533) or (320013)
+G7sus4  (320011)
+
+Intro:  C  Cmaj7/E  C/F  G7sus4  C  C/E  Fadd9  Dm  G/F  Em7  Am7  F  G
+
+
+Cadd9  Cmaj7/E  C/F  F/G      Cadd9     C/E      F
+Some - where    out  there, beneath the pale moonlight,
+
+Dm7 G/F            Em Am     Dm7 C/E F    Gsus4  G
+Someone's thinking of me and lov-ing me tonight.
+
+Cadd9  Cmaj7/E  C/F  F/G   Cadd9     C/E      F
+Some - where    out there, someone's saying a prayer
+
+     Dm7   G/F        Em7 Am        Dm7 C/E F/G       C
+That we'll find one another in that big somewhere out there.
+
+
+    F             G/F           F             G/F
+And even though I know how very far apart we are,
+
+   Fmaj7              G/F             F                  G/F
+It helps to think we might be wishing on the same bright star.
+
+    Ab                  Bb/Ab            Ab             Bb/Ab
+And when the night wind starts to sing a lonesome lullaby,
+
+   Ab                   Bb/Ab                            G
+It helps to think we're sleeping underneath the same big sky.
+
+
+
+C   Cmaj7/E  Fmaj9  F/G       C        C/E    F
+Somewhere    out    there, if love can see us through,
+
+Dm   G/F        Em7 Am7          F
+Then we'll be together somewhere out there,
+
+    G                 C  D/C  C  D/C
+Out where dreams come true.
+                      C  Cmaj7/E  G7sus4  Cadd9  (second time, ending)
+
+Instrumental:
+
+C/Bb  Bbmaj7  Am/Bb  D/E  A  C#m7  A/D  D/E  A  A/C#  D D+ D6 A/C#
+
+Bm7  Dmaj7 (or E)  C#m  F#m7  Bm7 C#m D/E  A (E) (repeat to And even though...)

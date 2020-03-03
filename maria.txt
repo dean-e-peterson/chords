@@ -1,0 +1,73 @@
+Maria
+ - from Rodgers and Hammerstein's The Sound of Music
+ - chords for chorus from Hal Leonard Broadway Fake Book, slightly modified.
+ - other chords from sheet music samples at musicnotes.com and freehandmusic.com
+ - tenor range B2-F4, in C
+
+Gadd9?  (320203)       Dm6 (xx0201)       Fmaj7 (xx3210)       Cm    (x35543)
+Am7/G   (3x2010)?      D6  (xx0202)       Cmaj7 (x32000)       Cdim  (xx1212)
+Am6/F#  (2x2212)?                                              C#dim (xx2323)
+
+Intro?:  C/E  C#dim  Dm7  G7  C
+
+    C                 Dm7                   F               Gadd9 G
+She climbs a tree and scrapes her knee, her dress has got a tear.
+    C              Dm7              F               G     E7 (or G7?)
+She waltzes on her way to Mass, and whistles on the stair.
+    Am             Am7/G          Am6/F#         F7
+And underneath her wimple she has curlers in her hair.
+  C              F              Dm7  G7
+I even heard her singing in the abbey.
+
+      C               Dm7             F            Gadd9 G
+She's always late for chapel, but her penitence is real.
+      C               Dm7           F              G   E7/B
+She's always late for everything, except for every meal.
+  Am              Am7/G         Am6/F#      F7
+I hate to have to say it, but I very firmly feel
+   C/G         Am7          Dm6/F  E
+Maria's not an asset to the abbey.
+    Am7           D6            G        Am7 D(7)     G      G7
+I'd like to say a word in her behalf.  Maria makes me laugh.
+
+
+CHORUS:
+C                                 G7
+How do you solve a problem like Maria?
+C                                   G G7
+How do you catch a cloud and pin it down?
+C                 Cmaj7(/E)         F
+How do you find a word that means Maria?
+  D7(/F#)            Fm                  Em G7
+A flibbertijibbet! A will-o'-the wisp! A clown!
+
+C                                   G7
+Many a thing you know you'd like to tell her,
+C                              Dm(/F)  (E7sus4  E7)
+Many a thing she ought to understand.
+(E7) Cm                            G7
+But  how do you make her stay, and listen to all you say,
+Cm                              G G7
+How do you keep a wave upon the sand?
+    C                                 Fmaj7 Dm7
+Oh, how do you solve a problem like Maria?
+C          Cdim   Dm7      G7      C
+How do you hold a moonbeam in your hand?
+
+
+ (A cappella, or C for 2 lines then Am)
+When I'm with her I'm confused, out of focus and bemused,
+And I never know exactly where I am.
+Unpredictable as weather, she's as flighty as a feather.
+She's a darling! She's a demon! She's a lamb!
+
+(C7)     F      C7/G  F/A    C7/G    F      C7/G     F/A
+She'd outpester any   pest,  drive a hornet from its nest.
+C7/G      F       C7/G     F/A     C7/G   F  C7/G  F/A
+She could throw a whirling dervish out of whirl.
+       C        G7/D   C/E    F       C/E      G7/D    C
+She is gentle!  She is wild!  She's a riddle!  She's a child!
+        G                   D7              Dm7   G(7)
+She's a headache!  She's an angel!  She's a girl!
+
+(Chorus)

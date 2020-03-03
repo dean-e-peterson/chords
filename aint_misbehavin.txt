@@ -1,0 +1,69 @@
+Ain't Misbehavin'
+ - words by Andy Razaf, music by Thomas "Fats" Waller and Harry Brooks
+ - chords from Hal Leonard's 100 Years of Song, tenor range Eb3-F4 in Eb
+
+Ab     (466544)                 C7     (x32310)      E     (022100)
+Abm    (466444)                 C13    (x32335)      Edim  (xx2323) or (345353)?
+Abmaj7 (xx1113) or (465544)?    Cm     (x35543)      F7    (131211)
+Ab7/C  (x3454x)                 Cm6    (x31213)      F7/C  (x33545)
+A7     (x02020)                 Cm7    (x35343)      F9    (xx3243) or (131213)?
+Bb     (x13331)                 D13    (x54557)      F13   (100001)
+Bb7    (x13131)                 Eb     (x65343)      Fm7   (x31111) or (131111)
+Bb7/F  (113131)                 Eb6    (xx1313)      Gb7   (242322)
+Bb7#5  (x10132) or (xx4334)?    Eb6/G  (335343)      G     (320003)
+Bb9    (x10111)                 Eb7    (xx1323)      G/D   (xx0003)
+Bb13   (655556)                 Ebm6   (x11312)      G7    (320001)
+B7     (x21202)                 Ebmaj7 (x65333)      G7#5  (x20110) or (xx1001)?
+
+Eb6  Bb7/F  Bb7  Eb  G7  Ab  Abm  Eb6/G  Gb7  Bb7/F  Bb7  Eb  Bb9
+(Eb  F13  Bb13  Bb7#5)
+
+(Boy)
+Eb            B7     E     Eb            B7      E
+Though it's a fickle age,  with flirtin' all the rage,
+Eb          G7        C7             F9     (Bb13)  Bb7#5  Eb   Bb7#5
+Here is one bird with self-control;  Happy inside   my     cage.
+Eb         B7     E      Eb              B7      E
+I know who I love best,  thumbs down for all the rest,
+Eb          Cm7   Cm6          Ebm6  G/D       A7    D13 G   Bb7
+My love was given heart and soul;    So it can stand the test.
+
+(Girl)
+Eb           B7     E      Eb         B7     E
+Your type of man is rare,  I know you really care,
+Eb            G7         C7             F9          (Bb13)  Bb7#5  Eb     Bb7#5
+That's why my conscience never sleeps;  When you're away    some - where.
+Eb         B7    E     Eb             B7     E
+Sure was a lucky day,  When fate sent you my way,
+Eb           Cm7   Cm6         Ebm6  G/D      A7  D13 G   Bb7
+And made you mine alone for keeps,   Ditto to all you say.
+
+(Gender neutral)
+Eb6       Cm7        Fm7      Bb9
+No one to talk with, all by myself,
+Eb        G7#5           Ab         Abm
+No one to walk with, but I'm happy on the shelf.
+Eb6        Gb7     Fm7        Bb9         Eb  Edim  F7  Bb7
+Ain't misbehavin', I'm savin' my love for you.
+
+Eb6        Cm7     Fm7       Bb9
+I know for certain the one I love,
+Eb               G7#5           Ab             Abm
+I'm through with flirtin', it's just you I'm thinkin' of.
+Eb6        Gb7     Fm7        Bb9         Eb  Abmaj7  Eb7  G7
+Ain't misbehavin', I'm savin' my love for you.
+
+Cm               Ab7/C
+Like Jack Horner in the corner,
+F7/C              C7
+Don't go nowhere, what do I care?
+Bb          Cm7       F7      Bb7  C7  F9    Bb7
+Your kisses are worth waitin' for, be- lieve me.
+
+Eb6          Cm7       Fm7           Bb9
+I don't stay out late, don't care to go,
+Eb        G7#5             Ab         Abm
+I'm home about eight, just me and my radio.
+Eb6        Gb7     Fm7        Bb9         Eb  C13  F13  Bb13  (repeat "No one")
+Ain't misbehavin', I'm savin' my love for you.
+                                         (Eb  Bb9  Ebmaj7  ending)

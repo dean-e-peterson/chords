@@ -1,0 +1,66 @@
+Brown Eyed Girl
+ - by Van Morrison
+ - chords from April 2006 issue of Acoustic Guitar, by way of kristinhall.org
+ - needs work, testing
+
+Gadd9 (320203)      Cadd9 (x32030)      D/F#  (xx4232)      Dsus4? (xx0032)
+
+Intro:
+ G Gadd9 G Gadd9 G   C Cadd9 C Cadd9 C              D D/F# Dsus4 D
+
+ --3--5--7--5--3---|-8--10--12--10--8--|          --5-----------5---|
+ ------------------|-------------------| 2x  then ------7---8---7---| to verse
+ --4--5--7--5--4---|-9--10--12--10--9--|          --7---------------|
+ ------------------|-------------------|          ------------------|
+
+G              C      G             D
+Hey, where did we go, days when the rains came?
+G           C      G         D
+Down in the hollow playing a new game.
+G              C                  G              D
+Laughin' and a-runnin', hey, hey, skippin' and a-jumpin'
+G            C                 G   D                     C
+In the misty morning fog, with our hearts a-thumpin' and you,
+D             G  Em  C      D           G  D
+My brown-eyed girl.  You, my brown-eyed girl.
+
+G        C        G              D
+Whatever happened to Tuesday and so slow?
+G              C               G          D
+Going down the old mine with a transistor radio.
+G               C                  G               D
+Standin' in the sunlight laughing, hidin' behind a rainbow's wall.
+G              C       G             D              C
+Slippin' and a-slidin' all along the waterfall with you,
+D             G  Em  C      D           G  D
+My brown-eyed girl.  You, my brown-eyed girl.
+
+
+CHORUS:
+D(7)               (D7)         G
+Do you remember when we used to sing:
+G         C           G              D7
+Sha-la-la la-la-la-la la-la-la-la-ti da.  (Just like that!)
+G         C           G              D7         G
+Sha-la-la la-la-la-la la-la-la-la-ti da.  La-ti-da.
+
+G                  C          G       D
+I saw you just the other day, my, how you have grown!
+G              C                  G             D
+Cast my memory back there, Lord.  Sometimes I'm overcome thinkin' 'bout it.
+G              C                  G          D            C
+Laughin' and a-runnin', hey, hey, behind the stadium with you,
+D             G  Em  C      D           G  D
+My brown-eyed girl.  You, my brown-eyed girl.
+
+
+CHORUS:
+D7                                 G
+Do you remember when we used to sing:
+G         C           G              D7
+Sha-la-la la-la-la-la la-la-la-la-ti da.  (Just like that!)
+G         C           G              D7         G
+Sha-la-la la-la-la-la la-la-la-la-ti da.  La-ti-da.
+
+(REPEAT CHORUS and out - you can end on the intro riff)
+

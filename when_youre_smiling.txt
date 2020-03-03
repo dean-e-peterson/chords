@@ -1,0 +1,65 @@
+When You're Smiling
+ - words and music by Mark Fisher, Joe Goodwin, and Larry Shay
+ - recorded by Louis Armstrong and many others
+ - actually in Bb?, tenor range B2-C4 in G
+
+Am7     (002010) or (x02213)
+Am7b5   (xx1213) or (x01213) or (xx5545)?or (567585)?
+Bm7     (x20202) or (x24232)
+C6      (x32210) or (x02213)
+Dm7     (xx0211)
+Dm7/A   (x00211)
+D7+5    (xx0312)
+Gmaj7   (320002)
+
+Intro found at www.jbott.com/whnsml.html, which I don't know the tune to:
+    I saw a blind man, he was a kind man,
+    Helping a fellow along,
+    One could not see, one could not walk,
+    But they both were humming this song:
+
+
+(D   D7)    G                    Bm (or Gmaj7)
+When you're smiling, when you're smiling,
+
+    Em          E(7)        Am
+The whole world smiles with you;
+
+                                  Am7
+When you're laughing, when you're laughing,
+
+    D7        (D7+5)  G
+The sun comes shining through.
+
+                Dm7 (Dm7/A) G7    C
+But when you're crying,       you bring on the rain,
+
+   (Am7)     A7  (A7sus A7)   D      D7
+So stop your sighing,      be happy again.
+
+        G               Bm7         E7
+Keep on smiling, 'cause when you're smiling
+
+    Am(7b5)     D7          G
+The whole world smiles with you.
+
+
+
+Dean's satirical version about forcing people to smile when they shouldn't:
+
+(D   D7)    G                      Bm (or Gmaj7)
+When you're smiling, but feel like crying,
+    Em          E(7)      Am
+The world still smiles at you;
+                                      Am7
+When you're laughing, that lie you're crafting,
+D7                (D7+5)   G
+Saves us all from the real you.
+                Dm7 (Dm7/A)  G7          C
+But when you're honest,      you're just being a pain,
+   (Am7)     A7   (A7sus A7)         D      D7
+So stop your whining, pretend you're happy again.
+         G               Bm7  E7
+Life's depressing;  Keep on repressing.
+          Am(7b5)  D7         G
+And we'll all    repress with you.

@@ -1,0 +1,65 @@
+Spring in the Park (or some such title)
+ - by Tom Lehrer, 3/4 ~162bpm, tenor range C3-E4
+
+C       (x32010)        Dm-maj7 (xx0221)        Dm      (xx0231)
+Cmaj7   (x32000)        Dm7     (xx0211)        Fadd9   (xx3213)
+C6      (x32210)        Dm6     (xx0201)
+
+Intro:  C A Dm G (2x)
+
+C         A     Dm        G      C       A             Dm      G
+Spring is here, spring is here.  Life is skittles, and life is beer.
+Dm                    C           F       G   C
+I think the loveliest time of the year is the spring,
+  A          Dm                 G
+I do.  Don't you?  ['Course you do.]
+            G                              C
+But there's one thing that makes spring complete for me,
+    D                    G           Gmaj7 G7
+and makes every Sunday a treat for me.
+
+        C              Cmaj7     C6          C
+All the world seems in tune on a spring afternoon
+                     A              Dm (G Dm G)
+when we're poisoning pigeons in the park.
+     Dm            Dm-maj7 Dm7            Dm6
+Each Sunday you'll see, my sweetheart and me
+      Dm or F    G              C (C6 C7)
+as we poison the pigeons in the park.
+     Fm                      C
+When they see us coming, the birdies all try an' hide.
+         D                         G           G7
+But they still go for peanuts when coated with cyanide.
+    C             Cmaj7        C6              C
+The sun's shining bright, everything seems all right,
+           Dm7       G              C A Dm G C A Dm G
+when we're poisoning pigeons in the park.
+
+      Fadd9       F         Csus4         C
+We've gained notoriety, and caused much anxiety
+       Fadd9     F              Csus4 C
+in the Audubon Society with our games.
+     Asus4     A          Dm7        Dm6
+They call it impiety, and lack of propriety,
+     Asus4     A        Dm7        G
+ and quite a variety of unpleasant names.
+         D                 G         D                    G7
+But it's not against any religion to want to dispose of a pigeon.
+
+      C             Cmaj7           C6            C
+So if Sunday you're free, why don't you come with me,
+                     A              Dm (G Dm G)
+and we'll poison the pigeons in the park.
+    Dm          Dm-maj7 Dm7         Dm6
+and maybe we'll do in a squirrel or two,
+            Dm or F   G              C (C6 C7)
+while we're poisoning pigeons in the park.
+
+      Fm                   C
+We'll murder them all amid laughter and merriment.
+  D                        G         G7
+except for the few we take home to experiment.
+   C             Cmaj7           C6           C
+My pulse will be quickenin' with each drop of strychnine
+Dm7          G           Dm7          G            Dm7      G             C G C
+we feed to a pigeon.  It just takes a smidgen!  to poison a pigeon in the park.

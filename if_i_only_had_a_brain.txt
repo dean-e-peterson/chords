@@ -1,0 +1,79 @@
+If I Only Had a Brain
+ - from The Wizard of Oz with Ray Bolger, Jack Haley, Bert Lahr, Judy Garland, range D3-G4 in G
+ - words by E.Y. Harburg, music by Harold Arlen, chords by Jumbo Jim, tweaked
+
+Am7   (x02010)                  Bm7-5  (x20201) or (xx0201)      D6    (xx0202) or (x24232)
+Bbm7  (x13121                   B+     (xx5443)                  D9    (xx0210)?or (x54555)
+Bm7   (x20202) or (x24232)      C#dim  (xx2323) or (345353)      F#m7  (242222) or (xx2222)
+
+D7      G              Am7      Bm7              C           G                Am7  Bm7
+I could while away the hours conferrin' with the flowers, consulting with the rain;
+Bbm7   C       (C/B) Am7        Am7/G    D            (D7)  D6       D7   G          Am7  Bm7  D9
+And my head I'd be a scratchin' while my thoughts were busy hatchin' if I only had a brain.
+
+      G           Am7        Bm7     C         G             Am7   Bm7
+I'd unravel ev'ry riddle for any individdle in trouble or in pain.
+Bbm7     C              (C/B)   Am7       Am7/G   D  (D7)    D6      D7   G          Am7  G  G7
+With the thoughts (that) I'd be thinkin', I could be another Lincoln if I only had a brain.
+
+(Bridge:)
+    C  C#dim                Bm7-5  E7    Am7     D7       G    Em
+Oh, I   --   could tell you why  --  the ocean's near the shore,
+        F#m7                B7            Em  B+
+I could think of things I'd never thunk before,
+             A7                 D
+And then I'd sit and think some more.
+
+D7      G             Am7         Bm7              C            G                 Am7  Bm7
+I would not be just a nuffin', my head all full of stuffin', my heart all full of pain;
+Bbm7    C    (C/B)   Am7    Am7/G      D   (D7)    D6    D7   G          Am7   Bm7  Am7  G
+I would dance and be merry, life would be a ding-a-derry if I only had a brain.
+
+(Additional Scarecrow verse:)
+D7     G                Am7          Bm7            C          G                Am7   Bm7
+Ya, it would be kind of pleasin', to reason out the reason for things I can't explain,
+Bbm7    C   (C/B)  Am7       Am7/G   D  (D7)    D6      D7   G          Am7   Bm7  Am7  G
+Then perhaps I'd deserve you and be even worthy erv you if I only had a brain.
+
+
+("If I Only Had A Heart", Tin Man verse:)
+D7     G              Am7        Bm7              C          G             Am7   Bm7
+When a man's an empty kettle, he should be on his mettle and yet I'm torn apart,
+Bbm7   C    (C/B)   Am7    Am7/G  D       (D7)   D6    D7   G          Am7   Bm7  Am7
+Just because I'm presumin' that I could be kinda human if I only had a heart.
+
+       G              Am7        Bm7        C        G                Am7  Bm7
+I'd be tender, I'd be gentle and awful sentimental regarding love and art.
+Bbm7   C      (C/B)     Am7      Am7/G   D      (D7)        D6     D7   G          Am7  G  G7
+I'd be friends with the sparrows and the boy who shoots the arrows if I only had a heart.
+
+(Bridge:)
+        C  C#dim         Bm7-5  E7  Am7    D7          G  Em
+Picture me...,   a balcony...,     above a voice sings low:
+           F#m7    B7    Em  B+          A7         D
+"Wherefore art thou, Romeo?"    I hear a beat.  How sweet!
+
+D7      G         Am7      Bm7           C            G               Am7   Bm7
+Just to register emotion: "jealousy", "devotion", and really feel the part.
+Bbm7    C   (C/B)      Am7     Am7/G   D      (D7)    D6     D7   G          Am7   Bm7  Am7  G
+I could stay young and chipper and I'd lock it with a zipper if I only had a heart.
+
+
+("If I Only Had The Nerve", Cowardly Lion verse:)
+D7         G               Am7                Bm7          C          G               Am7   Bm7
+Yeah, it's sad, believe me missy, when you're born to be a sissy, without the vim and verve.
+Bbm7  C    (C/B)    Am7      Am7/G  D   (D7)   D6      D7   G            Am7   Bm7  Am7
+But I could show my prowess, be a   lion not a mowess, if I only had the nerve.
+
+     G                Am7         Bm7         C      G              Am7   Bm7
+I'm afraid there's no denyin' I'm just a dandelion a fate I don't deserve.
+Bbm7   C    (C/B) Am7
+I'd be brave as a blizzard...
+         Am7/G  D     (D7)  D6
+TIN MAN: I'd be gentle as a lizard...
+           D7     Em
+SCARECROW: I'd be clever as a gizzard...
+                ?           ?               G
+DOROTHY: If the Wizard is a wizard who will serve.
+SCARECROW: Then I'm sure to get a brain,   TIN MAN: a heart,   DOROTHY: a home,   LION: da nerve.
+[segues to "We're Off To See The Wizard" G7 C...]

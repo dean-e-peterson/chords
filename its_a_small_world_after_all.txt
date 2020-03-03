@@ -1,0 +1,33 @@
+It's a Small World
+ - by Robert B. Sherman and Richard M. Sherman
+ - tenor range B2-E4 in A
+
+F#dim   (xx1212) or (234242)
+Bm7     (x20202) or (x24232)
+
+       A                    E
+It's a world of laughter, a world of tears;
+       E7                  (F#dim) A
+It's a world of hopes and a world of fears,
+                        A7               D           Bm(7)
+There's so much that we share, that it's time we're aware
+       E           E7    A
+It's a small world after all.
+
+CHORUS
+A                  E          E7                 A
+It's a small world after all, It's a small world after all,
+       A7          D     Bm(7)       E      E7    A
+It's a small world after all, It's a small, small world.
+
+         A                     E
+There is just one moon and one golden sun
+      E7                       (F#dim) A
+And a smile means friendship to everyone.
+                        A7          D          Bm(7)
+Though the mountains divide and the oceans are wide,
+       E           E7    A
+It's a small world after all.
+
+(CHORUS - 2x)
+

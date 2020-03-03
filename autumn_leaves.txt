@@ -1,0 +1,57 @@
+Autumn Leaves
+ - originally a French song, Les feuilles mortes, music by Joseph Kosma
+ - French lyrics by Jacques Prévert - English lyrics by Johnny Mercer
+ - Chords from jazzguitar.be lesson sample and the Commercial Fake Book
+ - tenor range B2-D4
+
+Am7     (x02010)
+Em9     (020002)
+Gmaj7   (320002)
+Cmaj7   (x32000)
+F#m7b5  (xx2212) or (234252)
+Cdim    (xx1212) or (x34242) or (234242)
+B7b9    (x21212) or (x34445)
+Em6     (022020)
+Em7     (020000) or (020030)
+Em-maj7 (021000)?
+Em9     (020002)
+Em-add9 (022002)
+A9      (x42000)?or (x02000)?
+B7#9    (x21203)?
+
+
+Intro from azchords.com:  Am7  D  G  D/F#  Em  Bm/D  C7 B7 Em  A/E  Em-add9
+
+
+(Em)        Am7  D7            Gmaj7  Cmaj7
+The falling leaves drift by my window,
+
+            F#m7b5 B7          Em  (Em9  Em)
+            Am     B7          Em  (Em7)
+The falling leaves  of red and gold.
+
+           Am7 D7           Gmaj7  Cmaj7
+I see your lips, the summer kisses,
+
+              F#m7b5 B7 Cdim    Em Em6 Em7 Em6 Em
+              Am     B7         Em
+The sunburned hands   I used to hold.
+
+
+
+          F#m7b5   B7             Em  Em7
+          B7                      Em
+Since you went away the days grow long,
+
+              Am7 D7            Gmaj7  Cmaj7
+And soon I'll hear old winter's song.
+
+      F#m7b5           B7b9    Em    (Em-maj7 Em7 Em6)
+      Am               B7      Em
+But I miss you most of all, my darling,
+
+Am/C        B7b9   B7       Em    A/E  Em-add9  (or E major...oh yeah)
+Am          B7              Em(6)
+When autumn leaves start to fall.
+
+(Repeat from "Since you went away")

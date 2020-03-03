@@ -1,0 +1,50 @@
+White Christmas
+ - by Irving Berlin, from the movie Holiday Inn
+ - chords based on Hal Leonard's AFI 100 Years 100 Songs
+
+Am6     (x02212)
+Am6/E   (002212)
+C6      (x3221x) or (x32210) or (x02213)
+Cmaj7   (x32000)
+Cmaj9   (x32430) or (x3243x) or (x30000)
+C#dim   (xx2323) or (x45353) or (345353)
+Dm7     (xx0211)
+Dm7/G   (3x0211)
+Em7     (020000) or (020030)
+Fm6     (xx0111) or (1x0111) or (130111) or (1011xx)
+Fm6/C   (x8868x)
+F#dim   (xx1212) or (234242)
+G/F     (xx3003)
+G7/F    (xx3003)
+G9      (320201)
+Gdim    (xx2323) or (345353)
+
+Intro:  Fm  C/G  Gdim  F/G  G7  C  F/G
+
+    Dm7/G    G7/F       C/E                 G7/D       F/G  G7    C6
+The sun is shining, the grass is green, the orange and palm trees sway.
+C#dim   Dm7        G9     Em7 Am7 Dm7     G9       C6
+There's never been such a day  in Beverly Hills, L.A.
+Fm6/C      G7/B       F/A  G7/B  Cmaj9  C6
+But it's December the twen-ty -  fourth,
+Am6/E    B7/D#      A/C#  B7/D# Em Dm7 F/G G7
+And I am longing to be    up    north.
+
+             B/G#?(4x4442)
+C6  Dm/C  C   F#dim  C/G  Dm7   F#/E  G/F
+I'm dream-ing of     a    white Christmas,
+F                    G7      C      C6
+Just like the ones I used to know.
+F/G   G7  C    Cmaj7 C7           F        Fm6
+Where the tree-tops  glisten, and children listen
+   C/G  F/G   C/G   D7     Dm7/G  G7
+To hear sleighbells in the snow.
+
+C6  Dm/C  C   F#dim  C/G  Dm7   F#/E  G/F
+I'm dream-ing of     a    white Christmas,
+F                    G7     C
+With every Christmas card I write:
+ F/G G7   C    Cmaj7 C7        F    Fm
+"May your days be    merry and bright,
+        C/G Gdim F/G      G7    C F/G C
+And may all your Christmases be white".

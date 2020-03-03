@@ -1,0 +1,67 @@
+Kiss Me
+ - by Slocum, Matthew Preston, performed by Sixpence None the Richer
+ - chords from Julio Alberto Sebastian Baena, slightly modified
+ - original in Eb?  Range G-G
+ - alternate chords to Strike up the band line (C C/B C/A C/G F) (C Em/B Am G F)
+
+C       (032010)            Dm      (xx0231)            Am/G    (302210)
+Cmaj7   (032000)            G       (320033)
+C7      (032310)            Am      (002210)
+
+Intro: C  Cmaj7  C7  Cmaj7
+
+
+C       Cmaj7
+Kiss me out of the bearded barley,
+C7       Cmaj7                   C
+Nightly, beside the green, green grass.
+              Cmaj7
+Swing, swing, swing the spinning step,
+C7                              F
+You wear those shoes and I will wear that dress.
+
+
+CHORUS:
+    Dm   G  C           Am
+Oh, kiss me beneath the milky twilight.
+
+Dm   G  C          C7         Dm
+Lead me out on the moonlit floor,
+          G              C
+Lift your open hand,                         (Am/G?)
+C             Em/B           Am               C/G                F Fmaj7 Gsus4 G
+Strike up the band, make the fireflies dance, silver moon's sparkling,
+        C  Cmaj7  C7  Cmaj7
+So kiss me.
+
+
+C       Cmaj7
+Kiss me down by the broken tree house,
+C7       Cmaj7            C
+Swing me upon its hanging tire,
+              Cmaj7
+Bring, bring, bring your flowered hat,
+C7                                  F
+We'll take the trail marked on your father's map.
+
+(Chorus)
+
+Intermedio:
+|-------0-------0-|-------0-------0-|-------0-------0-|-------0---------|
+|---1-------1-----|---0-------0-----|-----------------|---0-------0-----|
+|-----0-------0---|-----0-------0---|---3-0-----3-0---|-----0-------0---|
+|-----------------|-----------------|-----------------|-----------------|
+|-3---------------|-3---------------|-3---------------|-3---------------|
+|-----------------|-----------------|-----------------|-----------------|
+
+Solo (compressed from original transcription):
+|-5---5-3-----3---|---------------|-5---5-0---------|-8-8-8/10-10-10/12-|
+|-5h6-5-3---3-3-3-|---------5-----|-5h6-5-0-----0---|-x-x-x-x--x--x--x--|
+|-7---7-4-4-4---4-|-5-5-4---5--5--|-7---7-0---0---0-|-5-5-5/7--7--7/-9--|
+|---------5-------|-------5----7--|---------0-------|-x-x-x-x--x--x--x--|
+|-----------------|---------------|-----------------|-3-3-3/5--5--5/-7--|
+|-----------------|---------------|-----------------|-------------------|
+
+(Chorus)
+
+(Repeat intro 3x)

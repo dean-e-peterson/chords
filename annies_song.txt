@@ -1,0 +1,43 @@
+Annie's Song
+ - by John Denver
+ - 3/4, ~135bpm, tenor range E3-E4 in D
+
+Bm/A    (x04432)
+A       (x02220)
+A6      (x02222)
+A7      (x02223)
+F#m/C#  (x42222)
+
+Intro:  D Dsus4  D Dsus4  D Dsus4  D
+
+               G  A  Bm       G          D     F#m/C#  Bm
+You fill up my senses, like a night in a forest,
+         Bm/A         G     F#m  Em      G           A A6 A7
+Like the mountains in springtime, like a walk in the rain.
+       A            G A Bm         G           D    F#m/C#  Bm
+Like a storm in the desert, like a sleepy blue ocean,
+    Bm/A       G  F#m  Em    A7       D Dsus4 D
+You fill up my senses,  come fill me again.
+
+
+Dsus4       G    A  Bm       G            D     F#m/C#  Bm
+Come let me love you, let me give my life to you,
+       Bm/A          G    F#m  Em      G           A A6 A7
+Let me drown in your laughter,  Let me die in your arms.
+       A          G    A  Bm       G         D       F#m/C#  Bm
+Let me lay down beside you, let me always be with you,
+Bm/A        G    F#m  Em    A7       D Dsus4 D
+Come let me love you,  come love me again.
+
+
+Dsus4  G  A  Bm  G  D  F#m/C#  Bm
+(Hum)
+Bm/A  G  F#m Em  G  A A6 A7
+(Hum)
+A  G  A  Bm       G            D     F#m/C#  Bm
+(Hum)     Let me give my life to you,
+Bm/A        G    F#m  Em    A7       D Dsus4 D
+Come let me love you,  come love me again.
+
+
+(Repeat first verse)
