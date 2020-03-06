@@ -1,8 +1,5 @@
 blow_the_candles_out.txt
 i_hear_you_sing_again.txt
-the_times_they_are_a_changin.txt
-el_condor_pasa_if_i_could.dm.txt
-el_condor_pasa_if_i_could.em.txt
-el_condor_pasa_if_i_could.txt
-some_enchanted_evening.txt
-autumn_leaves.txt
+ill_be_seeing_you.txt
+teach_your_children.txt
+i_am_a_town.txt
