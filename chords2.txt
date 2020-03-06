@@ -2,4 +2,6 @@ blow_the_candles_out.txt
 i_am_a_town.txt
 i_hear_you_sing_again.txt
 ill_be_seeing_you.txt
+ive_got_you_under_my_skin.txt
+landslide.txt
 teach_your_children.txt
