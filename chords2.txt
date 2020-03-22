@@ -11,3 +11,4 @@ loch_lomond.c.txt
 loch_lomond.g.txt
 not_perfect.txt
 teach_your_children.txt
+wayfaring_stranger.txt
