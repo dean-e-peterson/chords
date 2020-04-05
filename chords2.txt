@@ -1,3 +1,5 @@
+all_through_the_night.txt
+anything_goes.txt
 blow_the_candles_out.txt
 cheek_to_cheek.txt
 dunderbecks_machine.txt
