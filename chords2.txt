@@ -6,6 +6,7 @@ dunderbecks_machine.txt
 have_i_told_you_lately.txt
 i_am_a_town.txt
 i_hear_you_sing_again.txt
+id_like_to_visit_the_moon.txt
 ill_be_seeing_you.txt
 ive_got_you_under_my_skin.txt
 landslide.txt
