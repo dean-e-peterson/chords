@@ -1,0 +1,50 @@
+Dust in the Wind
+- words and music by Kerry Livgren (Kansas)
+- chords based on Kristin Hall's fabulous songbook
+  http://kristinhall.org/songbook/BigKidBallads/DustInTheWind.html
+
+A(add2)    (002200)
+Asus4      (002230)
+Am         (002210)
+Am(add2)   (x07500)
+C          (032010)
+CM7        (032000)
+C(add9)    (032030)
+Dm(add2)/A (x02x31)
+F(#11)/A   (x0350x)
+G/A        (x0570x)
+
+C      CM7 | Cadd9  C      | Asus2  Asus4  | Am     Asus2
+Cadd9  C   | CM7    Cadd9  | Am     Asus2  | Asus4  Am
+
+G/B C     G  Am    G          Dm             Am             G/B
+I   close my eyes, only for a moment and the moment's gone.
+C   G  Am     G              Dm         Am
+All my dreams pass before my eyes a curiosity.
+Dm          Am    G               Dm          Am   G/B
+Dust in the wind, all they are is dust in the wind.
+
+C    G   Am    G              Dm          Am             G/B
+Same old song, just a drop of water in an endless sea.
+C   G  Am  G               Dm                 Am
+All we do, crumbles to the ground though we refuse to see.
+Dm          Am    G             Dm          Am   G/B
+Dust in the wind, all we are is dust in the wind.
+
+INTERLUDE:
+Am(add 2)   G/A   F(#11)/A   F6/A  [3x]
+C      CM7 | Cadd9  C      | Asus2  Asus4  | Am     Asus2
+Cadd9  C   | CM7    Cadd9  | Am     Asus2  | Asus4  Am    G/B
+
+C     G    Am  G                Dm           Am             G/B
+Don't hang on, nothing lasts forever but the earth and sky.
+   C     G Am   G              Dm            Am
+It slips a way, all your money won't another minute buy.
+Dm          Am    G             Dm          Am   G/B
+Dust in the wind, all we are is dust in the wind.
+Dm          Am    G             Dm          Am   G/B
+Dust in the wind, all we are is dust in the wind.
+
+Am  A(add2)  Dm(add2)/A  [repeat chords & out]
+The wind...
+

@@ -2,6 +2,7 @@ all_through_the_night.txt
 anything_goes.txt
 blow_the_candles_out.txt
 cheek_to_cheek.txt
+dust_in_the_wind.txt
 dunderbecks_machine.txt
 have_i_told_you_lately.txt
 i_am_a_town.txt
