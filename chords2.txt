@@ -1,5 +1,8 @@
 all_through_the_night.txt
 anything_goes.txt
+beautiful_dreamer.txt
+big_rock_candy_mountain.txt
+billy_boy.txt
 blow_the_candles_out.txt
 cheek_to_cheek.txt
 dust_in_the_wind.txt
