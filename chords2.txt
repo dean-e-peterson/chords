@@ -5,6 +5,7 @@ big_rock_candy_mountain.txt
 billy_boy.txt
 blow_the_candles_out.txt
 cheek_to_cheek.txt
+crazy.txt
 dust_in_the_wind.txt
 dunderbecks_machine.txt
 have_i_told_you_lately.txt
@@ -16,6 +17,7 @@ ive_got_you_under_my_skin.txt
 landslide.txt
 loch_lomond.c.txt
 loch_lomond.g.txt
+mad_world.txt
 not_perfect.txt
 teach_your_children.txt
 wayfaring_stranger.txt
