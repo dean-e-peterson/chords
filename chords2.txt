@@ -15,6 +15,7 @@ id_like_to_visit_the_moon.txt
 ill_be_seeing_you.txt
 ive_got_you_under_my_skin.txt
 landslide.txt
+let_it_go.txt
 loch_lomond.c.txt
 loch_lomond.g.txt
 mad_world.txt
