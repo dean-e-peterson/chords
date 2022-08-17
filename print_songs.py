@@ -1,4 +1,4 @@
-#!/usr/bin/python
+#!/usr/bin/python3
 """
 Create PDF files for text files with song text with guitar chords, using a2ps.
 """
@@ -17,7 +17,7 @@ import optparse
 
 def dprun (commandline, checkstatus=True):
     # Make sure a string was passed, not a sequence.
-    if not isinstance(commandline, basestring):
+    if not isinstance(commandline, str):
         raise TypeError('commandline must be a string')
 
     # Run child process.
@@ -50,8 +50,8 @@ def print_songs(filenames):
             generate_pdf_for_song(filename)
             print_song(filename)
         except Exception as E:
-            print "Unable to print song %s" % filename
-            print E
+            print("Unable to print song %s" % filename)
+            print(E)
 
 def generate_pdfs_for_songs(filenames):
     for filename in filenames:
@@ -60,15 +60,15 @@ def generate_pdfs_for_songs(filenames):
         try:
             generate_pdf_for_song(filename)
         except Exception as E:
-            print "Unable to generate_pdf_for song %s" % filename
-            print E
+            print("Unable to generate_pdf_for song %s" % filename)
+            print(E)
 
 def generate_pdf_for_song(filename):
     # Grab first line of file as Title to print as headings, and the number
     # of lines so we can shrink fonts to try to fit each file on one page.
     (title, lines, columns) = song_stats(filename)
-    print "\nCreating PDF:\n%s\n%s\n(%d lines x %d columns)" % (
-            filename, title, lines, columns)
+    print("\nCreating PDF:\n%s\n%s\n(%d lines x %d columns)" % (
+            filename, title, lines, columns))
 
     # Generate Postscript file.
     #
@@ -93,40 +93,40 @@ def generate_pdf_for_song(filename):
     a2ps_command = """a2ps -1 -B --margin=16 --center-title="%s" --left-title='$D{%%m/%%d/%%Y %%l:%%M %%P}, %%p. of %%p#' --borders=no %s -o %s""" % (title, filename, postscript_filename)
     if lines > 63:
         a2ps_command += """ -L %d""" % (lines)
-    print a2ps_command
-    print dprun(a2ps_command)
+    print(a2ps_command)
+    print(dprun(a2ps_command))
 
     # If the .ps output file already exists, a2ps seems to create a backup
     # file ending in tilde (~).  Delete them.
     backup_filename = postscript_filename[0:13] + '~'
     if os.path.isfile(backup_filename):
-        print dprun("rm %s" % backup_filename)
+        print(dprun("rm %s" % backup_filename))
         #print "deleted %s" % backup_filename
 
     # Convert the Postscript file to a PDF file.
-    print dprun("ps2pdf %s" % postscript_filename)
-    print "%s created" % (postscript_filename.replace('.ps', '.pdf'))
+    print(dprun("ps2pdf %s" % postscript_filename))
+    print("%s created" % (postscript_filename.replace('.ps', '.pdf')))
 
     # Now that we have a PDF file, delete the Postscript file.
-    print dprun("rm %s" % postscript_filename)
-    print "%s deleted" % (postscript_filename)
+    print(dprun("rm %s" % postscript_filename))
+    print("%s deleted" % (postscript_filename))
 
 def print_song(filename):
     pdf_filename = filename.replace('.txt', '.pdf')
-    print dprun("lpr %s" % pdf_filename)
-    print "%s printed to default printer" % pdf_filename
+    print(dprun("lpr %s" % pdf_filename))
+    print("%s printed to default printer" % pdf_filename)
 
 def show_counts_of_lines_in_song_files(filenames):
     for filename in filenames:
         try:
             show_count_of_lines_in_song_file(filename)
         except Exception as E:
-            print "Unable to determine lines in song %s" % filename
-            print E
+            print("Unable to determine lines in song %s" % filename)
+            print(E)
 
 def show_count_of_lines_in_song_file(filename):
     (title, lines, columns) = song_stats(filename)
-    print "%s lines: %s" % (lines, filename)
+    print("%s lines: %s" % (lines, filename))
 
 def song_stats(filename):
     """
@@ -166,7 +166,7 @@ if __name__ == '__main__':
 
     # Do what command line arguments requested.
     if len(args) == 0:
-        print "Please pass a song file or files on the command line."
+        print("Please pass a song file or files on the command line.")
         exit
     if options.lines_only:
         show_counts_of_lines_in_song_files(args)
