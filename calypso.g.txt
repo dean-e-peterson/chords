@@ -1,9 +1,9 @@
 Calypso (in G)
  - by John Denver
 
-D6      (xx0202)
-Amaj7   (x02120)
-A11?    (x00000)
+C6      (x32220)
+Csus4   (x32021)
+Gmaj7   (320002)
 
    G
 To sail on a dream on a crystal clear ocean,
@@ -15,7 +15,7 @@ To work in the service of life and living,
 In search of the answers of questions unknown
       G
 To be part of the movement and part of the growing,
-                          A11 (or Em7 or Em)
+                          Dm(7)
 Part of beginning to understand,
 
 
@@ -29,13 +29,12 @@ The stories you tell,
 C              G
 Aye Calypso, I sing to your spirit,
     C            G             D           G
-The men who have served you so long and so well
-       D     C   G       D
-Hi dee ay-ee ooo doo-dle oh
-C                 G          D
-oo do do do do do doo-dle ay yee
-G       D  Csus4  C  G
-doo-dle ay ee
+The men who have served you so long and so well,
+       D     C   G
+Hi dee ay-ee ooo...
+D  C  G
+D  C  G
+D  Csus4  C  G
 
 
 G                                    (Gmaj7)
@@ -48,7 +47,7 @@ For though we are strangers in your silent world,
 To live on the land we must learn from the sea,
       G
 To be true as the tide and free as a wind swell,
-                                A11 (or Em7 or Em)
+                                Dm(7)
 Joyful and loving in letting it be,
 
 
@@ -62,10 +61,10 @@ The stories you tell,
 C              G
 Aye Calypso, I sing to your spirit,
     C            G             D           G
-Yhe men who have served you so long and so well
-       D     C   G       D
-Hi dee ay-ee ooo doo-dle oh
-C                 G          D
-oo do do do do do doo-dle ay yee
-G       D  Csus4  C  G
-doo-dle ay ee
+The men who have served you so long and so well,
+       D     C   G
+Hi dee ay-ee ooo...
+D  C  G
+D  C  G
+D  Csus4  C  G
+

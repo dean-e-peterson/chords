@@ -1,70 +1,70 @@
-Calypso (in E)
+Calypso (in C)
  - by John Denver
 
-A6      (x02222)
-Asus4   (x02240)
-Emaj7   (021100)
+F6      (xx0211)
+Fsus4   (xx3213)
+Cmaj7   (x32000)
 
-   E
+   C
 To sail on a dream on a crystal clear ocean,
-                          (Emaj7)     A6
+                          (Cmaj7)     F6
 to ride on the crest of a wild raging storm
-   E
+   C
 To work in the service of life and living,
-                                      A6
+                                        F6
 In search of the answers of questions unknown
-      E
+      C
 To be part of the movement and part of the growing,
-                          Bm(7)
+                          Gm(7)
 Part of beginning to understand,
 
 
 (Chorus)
-A               E
+F               C
 Aye Calypso the places you've been to,
-    A                  E
+    F                  C
 The things that you've shown us,
-    B            E
+    G           C
 The stories you tell,
-A              E
+F              C
 Aye Calypso, I sing to your spirit,
-    A            E             B           E
+    F            C             G           C
 The men who have served you so long and so well,
-       B     A   E
+       G     F   C
 Hi dee ay-ee ooo...
-B  A  E
-B  A  E
-B  Asus4  A  E
+G  F  C
+G  F  C
+G  Fsus4  F  C
 
 
-E
+         C
 Like the dolphin who guides you, you bring us beside you,
-                             (Emaj7)     A6
+                             (Cmaj7)     F6
 To light up the darkness and show us the way,
-    E
+    C
 For though we are strangers in your silent world,
-                                           A6
+                                           F6
 To live on the land we must learn from the sea,
-      E
+      C
 To be true as the tide and free as a wind swell,
-                                Bm(7)
+                                Gm(7)
 Joyful and loving in letting it be,
 
 
 (Chorus)
-A               E
+F               C
 Aye Calypso the places you've been to,
-    A                  E
+    F                  C
 The things that you've shown us,
-    B           E
+    G           C
 The stories you tell,
-A              E
+F              C
 Aye Calypso, I sing to your spirit,
-    A            E             B           E
+    F            C             G           C
 The men who have served you so long and so well,
-       B     A   E
+       G     F   C
 Hi dee ay-ee ooo...
-B  A  E
-B  A  E
-B  Asus4  A  E
+G  F  C
+G  F  C
+G  Fsus4  F  C
 

@@ -1,7 +1,7 @@
-A Thousand Years
+A Thousand Years (in A)
 - by Christina Perri, David Hodges
 - chords from https://www.mychordbook.com/chords/christina-perri/a-thousand-years
-- in A, originally in Bb
+- originally in Bb
 
 A  E/G#  F#m7  E  Dadd9  Esus4  E
 
@@ -38,7 +38,7 @@ A                            E/G#
 I have died everyday waiting for you
 F#m7                           E
 Darling don't be afraid I have loved you
-      Dadd9                               Esus7    E
+      Dadd9                               Esus4    E
 For a thousand years, I'll love you for a thousand more
     A                            E/G#
 And all along I believed I would find you
@@ -49,7 +49,7 @@ I have loved you for a thousand years
                     Esus4    E
 I'll love you for a thousand more
 
-A  E/G#  F#m7  E  Dadd9  Esus4  E
+Dadd9  A/C#  F#m7  E/G#  Dadd9
 
 Bm       F#m  E
 One step closer  (2x?)
@@ -69,4 +69,5 @@ I have loved you for a thousand years
                     Esus4    E
 I'll love you for a thousand more
 
-Dadd9  A/Db  Dadd9  F#m7  E  Dadd9
+Dadd9  A/C#  F#m7  E/G#  Dadd9  A
+

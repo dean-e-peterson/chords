@@ -1,6 +1,3 @@
-a_thousand_years.txt
 a_thousand_years.c.txt
-a_thousand_years.d.txt
-bless_the_broken_road.txt
 bless_the_broken_road.g.txt
 here_comes_the_sun.txt
