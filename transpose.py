@@ -5,12 +5,16 @@ import sys
 sharps = ('A', 'A#', 'B', 'C', 'C#', 'D', 'D#', 'E', 'F', 'F#', 'G', 'G#')
 flats = ('A', 'Bb', 'B', 'C', 'Db', 'D', 'Eb', 'E', 'F', 'Gb', 'G', 'Ab')
 # m for minor, a for add, d for dim, and s for sus
-patternNotes = r'(?:^|(?<=[ /]))[A-G][#b]?(?:$|(?=[ mads/\d]))'
-
+patternNotes = r'(?:^|(?<=[ /\(]))[A-G][#b]?(?:$|(?=(?:[ m/\d]|add|dim|sus)))'
+patternNotInChords = 'h'
 
 def transpose_file(file, halfsteps):
     for line in file:
-        print(transpose_line(line, halfsteps), end = '')
+        # Avoid transposing many lyrics lines by looking for non-chord pattern.
+        if re.search(patternNotInChords, line):
+            print(line, end = '')
+        else:
+            print(transpose_line(line, halfsteps), end = '')
 
 
 def transpose_line(line, halfsteps):
