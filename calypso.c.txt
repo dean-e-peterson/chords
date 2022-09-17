@@ -7,7 +7,7 @@ Cmaj7   (x32000)
 
    C
 To sail on a dream on a crystal clear ocean,
-                          (Cmaj7)     F6
+                         (Cmaj7)      F6
 to ride on the crest of a wild raging storm
    C
 To work in the service of life and living,
@@ -39,7 +39,7 @@ G  Fsus4  F  C
 
          C
 Like the dolphin who guides you, you bring us beside you,
-                             (Cmaj7)     F6
+                            (Cmaj7)      F6
 To light up the darkness and show us the way,
     C
 For though we are strangers in your silent world,
