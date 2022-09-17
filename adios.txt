@@ -11,6 +11,7 @@ D11     (xx0010)
 D7sus   (xx0213)
 A9      (x42000)
 Cm6     (x31213) or (xx1213)
+Cadd5   (x32013)
 
     G          B7             C    E7  Am
 Goodnight, goodnight until we meet a - gain.
@@ -18,7 +19,7 @@ Goodnight, goodnight until we meet a - gain.
 Adios, au revoir, auf Wiedersehn 'til then.
     Bm7-5       E7           Am
 And though it's always sweet sorrow to part.
-    A9           A7       D7
+    A9           A7       D7         D  D7
 You know, you'll always remain in my heart.
 
     G            B7                 C      E7 Am
@@ -27,6 +28,6 @@ Goodnight, sleep tight and pleasant dreams to you.
 Here's a wish, and a prayer that every dream comes true.
     Bm7-5    E7       Am  Cm6
 And now 'til we meet again,
-   G        D11   D7        G
+   G        D11   D7        G  Cadd5  G
 Adios, au revoir, auf Wiedersehn.
 

@@ -1,34 +1,29 @@
 Summertime
  - music by George Gershwin, lyrics by DuBose Heyward, from Porgy and Bess
- - chords
-    line 4: from songtrellis.com, transposed
-    line 5: by Marc-A Seguin, from jazzguitarlessons.net
-    line 7: deans tweaks based on Hal Leonard AFI 100 Years 100 Songs,transposed
+ - chords combined and tweaked from
+   - songtrellis.com
+   - Marc-A Seguin, from jazzguitarlessons.net
+   - Hal Leonard AFI 100 Years 100 Songs
 
-Dm6     (xx3435)                                 Am6     (x02212)
-A7#5    (xx5663)                                 B7#9    (x2123x)?
-Dm7     (x3323x)                                 Em6     (022020)
-D7b9    (x3424x)                                 E7b5    (xx2334)
-Gm7     (xx3333) or (x5536x)                     C+      (xx2110)
-Em7b5   (x5535x) or (xx2333)                     D9      (x54555)
-A7b9    (x4535x) or (xx5353) or (x05353)?        F9      (xx1213)
-Dm6/9   (xx3455)                                 Bb      (xx3331)
-Fmaj7?  (xx221x)?                                E13     (xx0120)
-Fmaj13  (xx2231)?
+A#      (466544)                Dm6/9   (xx3455)      F       (133211)
+A7#5    (x03021)                Dm6     (xx0201)      Fmaj7   (xx3210)
+A#9     (464546)                Dm7     (xx0211)      F+      (xx3221)?
+Abdim   (xx0101)                D#      (x65343)      G       (320003)
+Bb6     (013033)?or (010033)    E7#9    (020103)      G7      (320001)
+Bbmaj7  (x13231)                Em7b5   (012030)      Gm7     (353333) or (xx3333)
+                                                      Gm7/D   (xx0333)
 
-(A7)
-(F+)  Dm6  A7#5  Dm6         A7#5      Dm6  A7#5  Dm
+
+F+    Dm6  A7#5  Dm6         A7#5      Dm6  A7#5  Dm
 Summertime           an' the livin' is easy.
 
          Gm7   (Bb6  Gm7/D)       Bbmaj7 (Abdim) A  E7#9  A
 Fish are jumpin',         an' the cotton  is     high.
 
-Dm6/9 (Am6?)    Dm6  A7#5  Dm6         A7#5       Dm6   A7#5  Dm
+Dm6/9           Dm6  A7#5  Dm6         A7#5       Dm6   A7#5  Dm
 Oh, yo' daddy's rich,          an' yo' ma is good lookin',
 
-   Fmaj7       Dm7     Em7b5 A7#5 Dm6  Em7b5  A7#5
-   Fmaj7       Fmaj13  Em7b5 A7#5 Dm6  Em7b5  A7b9
-G7 F           Dm       G    Gm7  Dm   F+ Dm6 F+ (or G9?)
+G7 Fmaj7       Dm7     Em7b5 A7#5 Dm6  Em7b5  A7#5
 So hush little baby,    don' yo'  cry.
 
 
@@ -38,11 +33,9 @@ One of these mornin's,        you goin' to rise up singin',
             Gm7       (Bb6 Gm7/D)        Bbmaj7 (Abdim) A  E7#9  A
 Then you'll spread yo' wings  an' you'll take    the    sky.
 
-Dm6/9 (Am6?)  Dm6   A7#5  Dm6           A7#5        Dm6    A7(#5)  Dm
+Dm6/9         Dm6   A7#5  Dm6           A7#5        Dm6    A7#5  Dm
 But till that mornin'         there's a-nothin' can harm you,
 
-G7   F         Dm    G   Gm7  Dm   G  A# F  A#9 D#  A13  Dm7   Dm6
-With Daddy and Mammy standin' by.
-(or?)     Cmaj7     Am7  Bm7b5 E7#5  Am6  E7#5
-With your daddy and mammy   standing by.
+G7   Fmaj7     Dm7   G   Gm7  Dm   G  A# F  A#9 D#  A13  A7#5  Dm6
+With Daddy and Mammy  standin' by.
 

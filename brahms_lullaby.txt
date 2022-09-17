@@ -16,10 +16,10 @@ Lay you down, now, and rest, may thy slumber be blessed!
 Lullaby, and good night, you're your mother's delight,
         (D      (Bm)     E   (E7) A
 Shining angels beside my darling abide.
-(A7)     D            A               E                  A
-Soft and warm is your bed, close your eyes and rest your head.
-(A7)     D            A               E7                 A
-Soft and warm is your bed, close your eyes and rest your head.
+(A7)     D            A               E                     A
+Soft and warm is your bed, close your eyes, (and) rest your head.
+(A7)     D            A               E7                    A
+Soft and warm is your bed, close your eyes, (and) rest your head.
 
       A                                            E(7)
 Sleepyhead, close your eyes; mother's right here beside you.
@@ -34,7 +34,7 @@ Guardian angels are near, so sleep on, with no fear.
 Lullaby, and sleep tight.  Hush! My darling is sleeping,
        (D)             (Bm)            E       (E7) A
 On his sheets white as cream, with her head full of dreams.
-(A7)     D                 A              E               A
-When the sky's bright with dawn, she will wake in the morning.
-(A7)     D              A               E7            A
+(A7)     D                 A              E           (A2) A
+When the sky's bright with dawn, she will wake in the morn-ing.
+(A7) D                  A               E7            A
 When noontide warms the world, she will frolic in the sun.

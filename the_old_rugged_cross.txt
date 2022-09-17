@@ -2,9 +2,7 @@ The Old Rugged Cross
  - words and music by George Bennard
  - chords based on The Other Song Book
 
-Gdim    (xx2323) or (345353)
-Cdim    (xx1212) or (x34242) or (234242)
-Gsus4   (320013)
+Gdim (xx2323)    Cdim (xx1212)    Gsus4 (320013)
 
      G    Gdim G            C   Cdim   C
 On a hill far away stood an old rugged cross,
@@ -25,6 +23,7 @@ I will cling to the old rugged cross,
     G                D7        G    (C G)
 And exchange it some day for a crown.
 
+
        G   Gdim   G           C      Cdim   C
 O that old rugged cross, so despised by the world,
 A     D          D7           G
@@ -34,7 +33,16 @@ For the dear lamb of God left His glory  a-bove,
 A  D          D7        G
 To bear it on dark Calvary.
 
-(Chorus)
+CHORUS:
+        D           D7         G    (Gdim  Gsus4  G)
+So I'll cherish the old rugged cross,
+        C                      G
+Till my trophies at last I lay down;
+                    G7         C    (Am7)
+I will cling to the old rugged cross,
+    G                D7        G    (C G)
+And exchange it some day for a crown.
+
 
        G   Gdim   G                   C     Cdim C
 In the old rugged cross, stained with blood so divine,
@@ -45,7 +53,16 @@ For 'twas on that old cross Jesus suffered and died,
 A  D          D7       G
 To pardon and sanctify me.
 
-(Chorus)
+CHORUS:
+        D           D7         G    (Gdim  Gsus4  G)
+So I'll cherish the old rugged cross,
+        C                      G
+Till my trophies at last I lay down;
+                    G7         C    (Am7)
+I will cling to the old rugged cross,
+    G                D7        G    (C G)
+And exchange it some day for a crown.
+
 
        G   Gdim   G            C  Cdim C
 To the old rugged cross I will ever be true,
@@ -56,4 +73,12 @@ Then He'll call me some-day to His home far  a-way,
 A         D        D7        G
 Where His glory forever I'll share.
 
-(Chorus)
+CHORUS:
+        D           D7         G    (Gdim  Gsus4  G)
+So I'll cherish the old rugged cross,
+        C                      G
+Till my trophies at last I lay down;
+                    G7         C    (Am7)
+I will cling to the old rugged cross,
+    G                D7        G    (C G)
+And exchange it some day for a crown.

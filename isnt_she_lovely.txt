@@ -2,6 +2,13 @@ Isn't She Lovely
  - by Stevie Wonder
  - chords from The Commercial Music Fake Book
 
+A7b9    (x02021)?or (x12223) or (575656) or (x4535x) or (xx5353) or (x05353)
+Bbmaj7  (x13231) or (xx2224)?
+C9      (x32330) or (032333) works here in place of C11
+C11     (x33333)
+Dm7     (xx0211) or (x57565)
+G9      (320201) or (353435)
+
 Intro:  Dm7  G9  C11  F  (x3)
 
 
@@ -9,8 +16,8 @@ F         Dm7    G9          C11   F
 Isn't she lovely?  Isn't she wonderful?
           Dm7      G9              C11    F
 Isn't she precious?  Less than one minute old.
-        Bbmaj7                    A7b9       Dm7              G9   
-I never thought through love we'd be, making one as lovely as she. 
+        Bbmaj7                    A7b9       Dm7              G9
+I never thought through love we'd be, making one as lovely as she.
               C11               F
 But isn't she lovely; made from love?
 
@@ -19,7 +26,7 @@ F         Dm7    G9          C11     F
 Isn't she pretty?  Truly the angel's best.
             Dm7   G9             C11    F
 Boy, I'm so happy.  We have been Heaven blessed.
-        Bbmaj7               A7b9             Dm7                G9   
+        Bbmaj7               A7b9             Dm7                G9
 I can't believe what God has done; through us He's given life to one.
               C11               F
 But isn't she lovely; made from love?
@@ -29,7 +36,7 @@ F         Dm7    G9              C11     F
 Isn't she lovely?  Life and love are the same.
           Dm7  G9           C11    F
 Life is A-isha, the meaning of her name.
-           Bbmaj7              A7b9          Dm7                   G9   
+           Bbmaj7              A7b9          Dm7                   G9
 Londie, it could have not been done, without you who conceived the one,
                C11               F
 That's so very lovely; made from love.

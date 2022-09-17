@@ -32,3 +32,15 @@ a_thousand_years.d.txt
 bless_the_broken_road.c.txt
 bless_the_broken_road.g.txt
 here_comes_the_sun.txt
+adios.txt
+all_through_the_night.txt
+be_thou_my_vision.txt
+brahms_lullaby.txt
+el_condor_pasa_if_i_could.dm.txt
+el_condor_pasa_if_i_could.em.txt
+el_condor_pasa_if_i_could.txt
+id_like_to_visit_the_moon.txt
+i_hear_you_sing_again.txt
+isnt_she_lovely.txt
+summertime.txt
+the_old_rugged_cross.txt

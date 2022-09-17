@@ -1,11 +1,15 @@
 I Hear You Sing Again
 - Woody Guthrie/Janis Ian
 
+Asus2    (x02200)                 C2   (x32030)      Esus4 (022200)
+Asus2/C# (x42200)                 C#m7 (x46454)      F#m7  (xx2222) or (242222)
+Bm7      (x20202) or (x24232)     D6   (xx0202)      G/B   (x20003)
+
            Asus2        Bm7          Asus2/C#  E
 If I could only hear my mother sing again,
            Asus2             Bm7                Asus2/C#  E
 If I could close my eyes and hear your voice as then,
-F#m7#11                          D
+F#m7(#11)                        D
 All the friends and family would sing along with me,
     Bm7                   Esus4  E
 And set your spirit free.
@@ -17,7 +21,7 @@ Asus2         Bm7        Asus/C#  E
 Every note as natural as then,
 D6                           C#m7
 When I sing those songs with family and friends
-Bm7           Esus4  (E)     Asus2
+Bm7           Esus4  (E)     Asus2  (A)
 In my heart I hear you sing again.
 
 
@@ -25,7 +29,7 @@ In my heart I hear you sing again.
 I know the troubled times that turned your hair to grey,
             Asus2             Bm7              Asus2/C#  E
 And all the tears and sorrows followed to your grave,
-    F#m7#11                                     D
+    F#m7(#11)                                   D
 But deep within the heart of hunger, there were always melodies,
 Bm7                    Esus4  E
 Passed from you to me.
@@ -37,13 +41,13 @@ Asus2         Bm7        Asus/C#  E
 Every note as natural as then,
 D6                           C#m7
 When I sing those songs with family and friends
-Bm7           Esus4   (E)      Asus2
+Bm7           Esus4   (E)      Asus2  (A)
 In my heart I hear your voice again.
 
 (BRIDGE)
           G     D    Asus2
 And its a long, long road I've come,
-C2                 G/B        A2
+C2                  G/B        A2
   Since my mother's songs were heard,
         C2    G/B  Asus2
 But the child I    can't outrun,
@@ -57,6 +61,6 @@ Asus2         Bm7        Asus/C#  E
 Every note as natural as then,
 D6                           C#m7
 When I sing those songs with family and friends
-Bm7           Esus4  (E)     Asus2
+Bm7           Esus4  (E)     Asus2  (A)
 In my heart I hear you sing again.
 
