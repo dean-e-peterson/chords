@@ -1,6 +1,6 @@
 King of Spain
- - by Moxy Früvous, originally in F#, original is mostly acappella
- - chords from Moxy Früvous' own website, http://www.fruvous.com/tab3.html
+ - by Moxy FrÃ¼vous, originally in F#, original is mostly acappella
+ - chords from Moxy FrÃ¼vous' own website, http://www.fruvous.com/tab3.html
  - needs work, pick key, shorten, test.
 
 F#             B       F#                 C#     F#
