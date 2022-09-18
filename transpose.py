@@ -4,8 +4,8 @@ import sys
 
 sharps = ('A', 'A#', 'B', 'C', 'C#', 'D', 'D#', 'E', 'F', 'F#', 'G', 'G#')
 flats = ('A', 'Bb', 'B', 'C', 'Db', 'D', 'Eb', 'E', 'F', 'Gb', 'G', 'Ab')
-# m for minor, a for add, d for dim, and s for sus
-patternNotes = r'(?:^|(?<=[ /\(]))[A-G][#b]?(?:$|(?=(?:[ m/\d]|add|dim|sus)))'
+# m for minor, M for major, a for add, d for dim, and s for sus
+patternNotes = r'(?:^|(?<=[ /\(]))[A-G][#b]?(?:$|(?=(?:[ mM/\d\)]|add|dim|sus)))'
 patternNotInChords = 'h'
 
 def transpose_file(file, halfsteps):

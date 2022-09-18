@@ -2,9 +2,13 @@ You Needed Me (in E)
  - by Randy Goodrum, performed by Anne Murray in A, tenor range C3?-F4 in F
  - chords from Hal Leonard's 150 of the Most Beautiful Songs Ever, 3rd Ed.
 
-Gm7     (353333) or (xx3333)
-Bdim    (xx0101) or (xx3434) or (x23131) or (123131)
+A#dim   (xx2323) or (345353) or (x12020)?or (012020)?
 B7sus4  (x32311)
+C#m     (x46654) or (xx2120)
+F#7     (242322)
+F#m7    (xx2222) or (242222)
+Gm7     (353333) or (xx3333)
+G#7     (464544)
 
 B7        E                  A
 I cried a tear, you wiped it dry,
@@ -19,9 +23,9 @@ Somehow you needed me.
 
 (B7)        E                  A
 You gave me strength to stand alone again,
-            B7                    E
+            B7                E
 To face the world, out on my own again.
-                  E7   A      A#dim
+              E7       A      A#dim
 You put me high upon a pedestal,
    E                G#7    C#m F#7
 So high that I can almost see eternity,
@@ -43,7 +47,7 @@ You needed me, you needed me.
 You held my hand when it was cold.
            B7               E
 When I was lost you took me home
-                      E7    A
+               E7           A
 You gave me hope when I was at the end,
               F#7            B
 And turned my lies back into truth again,
@@ -52,9 +56,9 @@ You even called me "friend".
 
 (B7)        E                  A
 You gave me strength to stand alone again,
-            B7                    E
+            B7                E
 To face the world, out on my own again.
-                  E7   A      A#dim
+              E7       A      A#dim
 You put me high upon a pedestal,
    E                G#7    C#m F#7
 So high that I can almost see eternity,

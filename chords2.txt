@@ -18,6 +18,7 @@ calypso.c.txt
 calypso.e.txt
 calypso.g.txt
 cheek_to_cheek.txt
+children_of_the_heavenly_father.txt
 crazy.txt
 dunderbecks_machine.txt
 dust_in_the_wind.txt
@@ -33,6 +34,9 @@ i_hear_you_sing_again.txt
 i_hear_you_sing_again.txt
 ill_be_seeing_you.txt
 isnt_she_lovely.txt
+it_is_well_with_my_soul.a.txt
+it_is_well_with_my_soul.c.txt
+it_is_well_with_my_soul.d.txt
 ive_got_you_under_my_skin.txt
 landslide.txt
 let_it_go.txt
@@ -44,7 +48,3 @@ summertime.txt
 teach_your_children.txt
 the_old_rugged_cross.txt
 wayfaring_stranger.txt
-children_of_the_heavenly_father.txt
-it_is_well_with_my_soul.txt
-it_is_well_with_my_soul.a.txt
-it_is_well_with_my_soul.c.txt

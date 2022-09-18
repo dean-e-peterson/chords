@@ -1,4 +1,3 @@
-adios.txt
 all_through_the_night.txt
 american_tune.txt
 away_from_the_roll_of_the_sea.txt
@@ -18,7 +17,6 @@ im_so_lonesome_i_could_cry.txt
 isnt_she_lovely.txt
 it_is_well_with_my_soul.a.txt
 it_is_well_with_my_soul.c.txt
-it_is_well_with_my_soul.txt
 its_a_small_world_after_all.txt
 i_will_bring_you_home.txt
 jesus_loves_me_jennifer_knapp.txt
@@ -32,7 +30,6 @@ starwood_in_aspen.txt
 stay_awake.txt
 summertime.txt
 swinging_on_a_star.txt
-tenting_on_the_old_camp_ground.txt
 the_old_rugged_cross.txt
 this_is_my_fathers_world.txt
 thy_holy_wings_dear_savior.txt
@@ -42,5 +39,3 @@ when_you_wish_upon_a_star.txt
 winnie_the_pooh.txt
 you_needed_me.c.txt
 you_needed_me.d.txt
-you_needed_me.e.txt
-you_needed_me.txt
