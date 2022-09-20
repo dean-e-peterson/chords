@@ -70,6 +70,13 @@ def generate_pdf_for_song(filename):
     print("\nCreating PDF:\n%s\n%s\n(%d lines x %d columns)" % (
             filename, title, lines, columns))
 
+    # a2ps does not work on Unicode encodings like utf-8, so use
+    # iconv to convert to an old iso encoding ISO 8859-1 latin1 encoding first.
+    latin1_filename = filename + ".latin1"
+    iconv_command = """iconv --from-code=UTF-8 --to-code=ISO_8859-1 --output=%s %s""" % (latin1_filename, filename)
+    print(iconv_command)
+    print(dprun(iconv_command))
+
     # Generate Postscript file.
     #
     # a2ps command options:
@@ -90,7 +97,8 @@ def generate_pdf_for_song(filename):
     #        wiping out all headers with -B.  a2ps --list=settings showed it.)
     postscript_filename = filename.replace('.txt', '.ps')
     #a2ps_command = """a2ps -1 -B --margin=16 --center-title="%s" --left-title='$D{%%m/%%d/%%Y %%l:%%M %%P }' --right-title='#?2|$t2|$Q|' --borders=no %s -o %s""" % (title, filename, postscript_filename)
-    a2ps_command = """a2ps -1 -B --margin=16 --center-title="%s" --left-title='$D{%%m/%%d/%%Y %%l:%%M %%P}, %%p. of %%p#' --borders=no %s -o %s""" % (title, filename, postscript_filename)
+    #a2ps_command = """a2ps -1 -B --margin=16 --center-title="%s" --left-title='$D{%%m/%%d/%%Y %%l:%%M %%P}, %%p. of %%p#' --borders=no %s -o %s""" % (title, filename, postscript_filename)
+    a2ps_command = """a2ps -1 -B --margin=16 --center-title="%s" --left-title='$D{%%m/%%d/%%Y %%l:%%M %%P}, %%p. of %%p#' --borders=no %s -o %s""" % (title, latin1_filename, postscript_filename)
     if lines > 63:
         a2ps_command += """ -L %d""" % (lines)
     print(a2ps_command)
@@ -107,7 +115,9 @@ def generate_pdf_for_song(filename):
     print(dprun("ps2pdf %s" % postscript_filename))
     print("%s created" % (postscript_filename.replace('.ps', '.pdf')))
 
-    # Now that we have a PDF file, delete the Postscript file.
+    # Now that we have a PDF file, delete the latin1 file and Postscript file.
+    print(dprun("rm %s" % latin1_filename))
+    print("%s deleted" % (latin1_filename))
     print(dprun("rm %s" % postscript_filename))
     print("%s deleted" % (postscript_filename))
 
@@ -131,7 +141,7 @@ def show_count_of_lines_in_song_file(filename):
 def song_stats(filename):
     """
     Get songfile information, like the # of lines and columns in the text file,
-    and the first of the file to use as a song title.
+    and the first line of the file to use as a song title.
     """
     lines = 0
     columns = 0
