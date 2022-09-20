@@ -40,3 +40,4 @@ when_you_wish_upon_a_star.txt
 winnie_the_pooh.txt
 you_needed_me.c.txt
 you_needed_me.d.txt
+-rw-rw-r-- 1 dean dean 1490 Sep 20 01:43 the_servant_song.txt

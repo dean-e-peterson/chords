@@ -2,9 +2,14 @@ All Through The Night
 - traditional Welsh (Ar Hyd a Nos)
 - english lyrics by Sir Harold Boulton
 
-Gsus4   (320013)
+A       (x02220)
+Am      (x02210)
+C       (x32010)
 Cmaj7   (x32000)
 Cadd9   (x32030)
+D       (xx0232)
+G       (320003) or (355433) or (xx0003)
+Gsus4   (320013)
 
 G         C          A       D
 Sleep, my child, and peace attend thee

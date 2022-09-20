@@ -3,7 +3,15 @@ Brahms' Lullaby
  - words traditional, found on kristinhall.org
  - tenor range A2-A3 ?
 
-     A                                     E(7)
+A       (x02220)
+A2      (x02200)
+A7      (x02020) or (x02223)
+Bm      (x24432) or (xx4432)
+D       (xx0232)
+E       (022100)
+E7      (020100)
+
+     A                                     E
 Lullaby, and good night, with pink roses bedight,
      (D)        (Bm)         E           (E7)  A
 With lilies o'erspread is my baby's wee, sweet head.
@@ -12,7 +20,7 @@ Lay you down, now, and rest, may thy slumber be blessed!
 (A7)    D              A             E7         A
 Lay you down, now, and rest, may thy slumber be blessed!
 
-     A                                          E(7)
+     A                                          E
 Lullaby, and good night, you're your mother's delight,
         (D)     (Bm)     E   (E7) A
 Shining angels beside my darling abide.
@@ -21,7 +29,7 @@ Soft and warm is your bed, close your eyes, (and) rest your head.
 (A7)     D            A               E7                    A
 Soft and warm is your bed, close your eyes, (and) rest your head.
 
-      A                                            E(7)
+      A                                            E
 Sleepyhead, close your eyes; mother's right here beside you.
         (D)           (Bm)           E     (E7) A
 I'll protect you from harm, you will wake in my arms.
@@ -30,7 +38,7 @@ Guardian angels are near, so sleep on, with no fear.
 (A7)     D          A              E7          A
 Guardian angels are near, so sleep on, with no fear.
 
-     A                                         E(7)
+     A                                         E
 Lullaby, and sleep tight.  Hush! My darling is sleeping,
        (D)             (Bm)            E       (E7) A
 On his sheets white as cream, with her head full of dreams.
