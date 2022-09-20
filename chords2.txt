@@ -38,6 +38,7 @@ it_is_well_with_my_soul.a.txt
 it_is_well_with_my_soul.c.txt
 it_is_well_with_my_soul.d.txt
 ive_got_you_under_my_skin.txt
+jesus_let_us_come_to_know_you.txt
 landslide.txt
 let_it_go.txt
 loch_lomond.c.txt
@@ -48,3 +49,5 @@ summertime.txt
 teach_your_children.txt
 the_old_rugged_cross.txt
 wayfaring_stranger.txt
+american_tune.txt
+-rw-rw-r-- 1 dean dean 1260 Sep 20 00:50 its_a_small_world_after_all.txt

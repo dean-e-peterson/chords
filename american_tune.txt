@@ -1,6 +1,6 @@
 American Tune
  - words by Paul Simon
- - music by Hans Leo Hassler, Paul Simon, and possibly J.S. Bach
+ - music by Hans Leo Hassler, Paul Simon, and possibly harmonies by J.S. Bach
  - chords from kristinhall.org, tweaked, tenor range C3-F4 in C
 
 C           F    C    G    C  G E  E/G# Am   E7       Am
@@ -55,5 +55,5 @@ Still, tomorrow's gonna be another working day
 
 C       F      C  G        E  E/G#  Am
 And I'm trying to get some rest.
-       Dm      C/G  G7             C    F    C    G    F    C    G    C
+       Dm      C/G  G7             C      F    C    G    C    G    G7   C
 That's all I'm trying, to get some rest.

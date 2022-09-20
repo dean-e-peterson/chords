@@ -19,6 +19,7 @@ it_is_well_with_my_soul.a.txt
 it_is_well_with_my_soul.c.txt
 its_a_small_world_after_all.txt
 i_will_bring_you_home.txt
+jesus_let_us_come_to_know_you.txt
 jesus_loves_me_jennifer_knapp.txt
 lavenders_blue.txt
 my_favorite_things.txt
