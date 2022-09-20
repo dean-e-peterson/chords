@@ -1,6 +1,7 @@
 adios.txt
 all_through_the_night.txt
 all_through_the_night.txt
+american_tune.txt
 anything_goes.txt
 a_thousand_years.a.txt
 a_thousand_years.c.txt
@@ -37,6 +38,7 @@ isnt_she_lovely.txt
 it_is_well_with_my_soul.a.txt
 it_is_well_with_my_soul.c.txt
 it_is_well_with_my_soul.d.txt
+its_a_small_world_after_all.txt
 ive_got_you_under_my_skin.txt
 jesus_let_us_come_to_know_you.txt
 landslide.txt
@@ -48,7 +50,5 @@ not_perfect.txt
 summertime.txt
 teach_your_children.txt
 the_old_rugged_cross.txt
+the_servant_song.txt
 wayfaring_stranger.txt
-american_tune.txt
--rw-rw-r-- 1 dean dean 1260 Sep 20 00:50 its_a_small_world_after_all.txt
--rw-rw-r-- 1 dean dean 1490 Sep 20 01:43 the_servant_song.txt
