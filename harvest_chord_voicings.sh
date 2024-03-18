@@ -19,5 +19,5 @@
 
 # Now lets try leaving the grep output alone (filename, colon, and chord line),
 # but use sed to swap it so the chord line stuff is first, then tab & filename.
-egrep '\([xXo0-9?]{6,}\)' * | sed -e 's/\([^:]*\):\(.*\)/\2\t\1/g' | expand -t 45,55,65,75,85 | sort 
+egrep '\([xXo0-9?]{6,}\)' *.txt | sed -e 's/\([^:]*\):\(.*\)/\2\t\1/g' | expand -t 45,55,65,75,85 | sort 
 

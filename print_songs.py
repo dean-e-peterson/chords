@@ -2,19 +2,19 @@
 """
 Create PDF files for text files with song text with guitar chords, using a2ps.
 """
-# dprun.py routine for running an external command.
-#
-# Fine.  FINE!  Since I cannot locate a SIMPLE existing standard python
-# library function to do what I want, I'll write my own little wrapper.
-#
-# I want to run an OS command, return its output as string,
-# and raise an exception if the return status is not zero.
 
 import os
 import sys
 import subprocess
 import optparse
 
+# dprun routine for running an external command.
+#
+# Fine.  FINE!  Since I cannot locate a SIMPLE existing standard python
+# library function to do what I want, I'll write my own little wrapper.
+#
+# I want to run an OS command, return its output as string,
+# and raise an exception if the return status is not zero.
 def dprun (commandline, checkstatus=True):
     # Make sure a string was passed, not a sequence.
     if not isinstance(commandline, str):
