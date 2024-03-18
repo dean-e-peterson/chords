@@ -8,19 +8,19 @@ harmony).
 
 The tune begins with a pedal (repeated) dominant with a major seventh chord
 built on the flattened sixth of the key, which then resolves to the dominant
-seventh in the next bar. If performed in the key of B♭, the first chord is
-therefore G♭ major seventh, with an F (the major seventh above the harmonic
-root) in the melody, before resolving to F7 and eventually B♭ maj7.
+seventh in the next bar. If performed in the key of Bb, the first chord is
+therefore Gb major seventh, with an F (the major seventh above the harmonic
+root) in the melody, before resolving to F7 and eventually Bb maj7.
 
 [Gbmaj7 (...?)  F7  Bbmaj7]
 
 This section repeats and is followed by a descending harmonic sequence starting
-with a -7♭5 (half diminished or Ø) built on the augmented fourth of the key,
-and descending by semitones — with changes in the chord quality— to the
+with a -7b5 (half diminished or Ø) built on the augmented fourth of the key,
+and descending by semitones - with changes in the chord quality- to the
 supertonic minor seventh which forms the beginning of a more standard II-V-I
-progression. In B♭, this sequence begins with an EØ, followed by an E♭-7, D-7
-and D♭ dim, before resolving onto C-7 (the supertonic minor seventh) and
-cadencing onto B♭.
+progression. In Bb, this sequence begins with an EØ, followed by an Eb-7, D-7
+and Db dim, before resolving onto C-7 (the supertonic minor seventh) and
+cadencing onto Bb.
 
 [Em7b5 (half diminished), Ebm7 Dm7 Dbdim Cm7 (F?) Bb]
 
@@ -32,15 +32,15 @@ Cm7     (x35343)
 
 The bridge is also unusual, with an immediate, fleeting and often (depending on
 the version) unprepared key change up a minor third, before an equally
-transient and unexpected return to the key centre. In B♭, the bridge begins
-with a D♭ major seventh, then moves back to B♭ with a B♭ major seventh chord.
+transient and unexpected return to the key centre. In Bb, the bridge begins
+with a Db major seventh, then moves back to Bb with a Bb major seventh chord.
 This repeats, and is followed by a recapitulation of the second section
 outlined above.
 
 [Dbmaj7  Bbmaj7  (2x)  then  Em7b5 etc]
 
 The vocal verse is also unusual in that most of the melody consists entirely of
-a single note — the same dominant pedal that begins the body of the song — with
+a single note - the same dominant pedal that begins the body of the song - with
 rather inconclusive and unusual harmonies underneath.
 
 Some have seen the use of repeated notes in the verse as an indication of the
