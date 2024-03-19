@@ -88,6 +88,7 @@ def generate_pdf_for_song(filename):
     #   --header=       Would remove header but not title (don't need if use -B)
     #   --borders=no    No line drawn around whole virtual page.
     #   --margin=12     Margin pts on inner side of physical page, for binding.
+    #   --title=title   Job title, may appear as window caption in pdf viewer.
     #   --center-title=title        Bold, central top title.
     #   --left-title='$D{%%...}%%p' File mod timestamp, in man strftime format,
     #       plus page #s, with %s doubled so python does not string format them.
@@ -98,7 +99,8 @@ def generate_pdf_for_song(filename):
     postscript_filename = filename.replace('.txt', '.ps')
     #a2ps_command = """a2ps -1 -B --margin=16 --center-title="%s" --left-title='$D{%%m/%%d/%%Y %%l:%%M %%P }' --right-title='#?2|$t2|$Q|' --borders=no %s -o %s""" % (title, filename, postscript_filename)
     #a2ps_command = """a2ps -1 -B --margin=16 --center-title="%s" --left-title='$D{%%m/%%d/%%Y %%l:%%M %%P}, %%p. of %%p#' --borders=no %s -o %s""" % (title, filename, postscript_filename)
-    a2ps_command = """a2ps -1 -B --margin=16 --center-title="%s" --left-title='$D{%%m/%%d/%%Y %%l:%%M %%P}, %%p. of %%p#' --borders=no %s -o %s""" % (title, latin1_filename, postscript_filename)
+    #a2ps_command = """a2ps -1 -B --margin=16 --center-title="%s" --left-title='$D{%%m/%%d/%%Y %%l:%%M %%P}, %%p. of %%p#' --borders=no %s -o %s""" % (title, latin1_filename, postscript_filename)
+    a2ps_command = """a2ps -1 -B --margin=16 --title="%s" --center-title="%s" --left-title='$D{%%m/%%d/%%Y %%l:%%M %%P}, %%p. of %%p#' --borders=no %s -o %s""" % (title, title, latin1_filename, postscript_filename)
     if lines > 63:
         a2ps_command += """ -L %d""" % (lines)
     print(a2ps_command)
