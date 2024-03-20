@@ -1,88 +1,85 @@
 Ten Minutes Ago
-- by Rodgers & Hammerstein's Cinderella
+- from Cinderella, music by Richard Rodgers, lyrics by Oscar Hammerstein II
 - also closes Overly Sarcastic Productions youtube.com video on Eros and Psyche
-- chords from tabs.ultimate-guitar.com user "emptymasks [a]"
+- chords based on tabs.ultimate-guitar.com by user "emptymasks [a]"
+
+G/D   (xx0003)              Em    (021777)               A9/E  (002000)
+D/C   (x30232)              Cm    (x35542) or (xx1013)?  A     (x02220)
+G/B   (x20003)              Cm5   (x31213)               A7    (x02020)
+D7/A  (x00212)              G6    (320001)               Am7/D (xx0020) or (xx0213)
+G     (320003)              C     (x32009)               Dm7   (xx0211)
+D7    (xx0212)              C/G   (332009)               Em7   (020000) or (020030)
+B7    (x21202) or (x24242)  Am6   (x02010)               A7b5  (x01023)
+Am7b5 (xx1213) or (x01213) or (xx5545) or (567585)    D7sus/A  (x00213) or (x00013)
 
 [Intro]
-G/D D/C G/B D7/A
- 
+    G/D  D/C  G/B  D7/A
+
 [Topher]
-    G              D7sus/A
-Ten minutes ago, I saw you
-D7        G                            D7sus/A
- I looked up when you came through the door
-D7  G            B7
- My head started reeling
-    Em          Cm6
-You gave me the feeling
- 
-The room had no ceiling or floor
- 
+        G              D7sus/A  D7
+    Ten minutes ago, I saw you
+             G                            D7sus/A  D7
+    I looked up when you came through the door
+       G            B7           Em          Cm(6)
+    My head started reeling, you gave me the feeling
+        G           A7         D7
+    The room had no ceiling or floor
+
 [Topher]
-D7   G              D7sus/A
- Ten minutes ago, I met you
-D7      G                        D7sus/A
- And we murmured our "How do you do's?"
-D7 G         B7           Em
- I wanted to ring out the bells
-    Cm6          G/D
-And fling out my arms
-       D7           G
-And to sing out the news
-F/G G7   C       C/G      G/B      G/D
-"I  have found her, she's an angel
-         Am7         D7           G
-With the dust of the stars in her eyes
-G F/G G7 C       C/G      G/B    G/D
-  We  are dancing, we are flying
-          A9/E      A    G  A7  Am7/D
-And she's taking me back to the skies"
- 
+        G              D7sus/A  D7
+    Ten minutes ago, I met you
+           G                        D7sus/A  D7
+    And we murmured our "How do you do's?"
+      G         B7           Em         Cm(6)        G/D
+    I wanted to ring out the bells, and fling out my arms
+           D7           G  (G7)
+    And to sing out the news
+            C       C/G         G/B  G/D
+    "I have found her, she's an angel
+             Am7         D7           G  (G7)
+    With the dust of the stars in her eyes
+           C     C/G       G/B  G/D
+    We are dancing, we are flying
+              A9/E      A           Am7/D  D7
+    And she's taking me back to the skies"
+
 [Topher]
-D7      G                    D7sus/A
- In the arms of my love, I'm flying
-D7    G                       D7sus/A
- Over mountain and meadow and glen
-D7     G          B7
- And I like it so well
-         Em        Cm6
-That for all I can tell
-      G/D        D7    Dm7
-I may never come down again
-G7     C          Am7     Am7/D D7 Em7
- I may never come down to earth again
- 
+           G                    D7sus/A  D7
+    In the arms of my love, I'm flying
+         G                       D7sus/A  D7
+    Over mountain and meadow and glen
+          G          B7             Em        Cm(6)
+    And I like it so well, that for all I can tell
+          G/D        D7    Dm7  G7
+    I may never come down again
+          C          Am7     Am7/D  D7  G
+    I may never come down to earth  a - gain
+
 [Ella]
-D7   G              D7sus/A
- Ten minutes ago, I met you
-D7      G                        D7sus/A
- And we murmured our "How do you do's?"
-D7 G         B7           Em
- I wanted to ring out the bells
-    Cm6          G/D
-And fling out my arms
-       D7           G
-And to sing out the news
-F/G G7   C       C/G       G/B       G/D
-I   have found him, I have found him
- 
+        G              D7sus/A  D7
+    Ten minutes ago, I met you
+           G                        D7sus/A  D7
+    And we murmured our "How do you do's?"
+      G         B7           Em         Cm(6)        G/D
+    I wanted to ring out the bells, and fling out my arms
+           D7           G  (G7)
+    And to sing out the news
+           C       C/G       G/B       G/D
+    I have found him, I have found him
+
 [Instrumental]
-Am7 D7 G
-G F/G G7 C C/G G/B G/D
-A9/E A G A7 Am7/D
- 
+    Am7  D7  G  (G7)    |    C  C/G  G/B  G/D    |    A9/E  A  Am7/D  D7
+
 [Ella]
-D7      G                    D7sus/A
- In the arms of my love, I'm flying
-D7    G                       D7sus/A
- Over mountain and meadow and glen
-D7     G          B7
- And I like it so well
-         Em        Cm6
-That for all I can tell
-      G/D        D7    Dm7
-I may never come down again
- 
-[Ella & Topher]
-G7     C          Am7     Am7/D G     A7b5 D7 G
- I may never come down to earth again
+           G                    D7sus/A  D7
+    In the arms of my love, I'm flying
+         G                       D7sus/A  D7
+    Over mountain and meadow and glen
+          G          B7             Em        Cm(6)
+    And I like it so well, that for all I can tell
+          G/D        D7    Dm7  G7
+    I may never come down again
+
+[Ella & Topher]                    (or) Em7  A7 (then repeat line ending in G)
+          C          Am7     Am7/D  D7  G          (ignore these Em7 Am7b5 D7)
+    I may never come down to earth  a - gain          (ignore these A7b5 D7 G)
