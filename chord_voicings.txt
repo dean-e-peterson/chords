@@ -56,6 +56,7 @@ Bbmaj7  (x13231) or (xx2224)?
 Bb+     (xx0332)
 Bm7b5   (x20201) or (xx0201) or (x2323x) or (xx7767) or (7897a7)hex
 Bm7     (x20202) or (x24232)
+Bm6     (x20102) 
 Bm      (x24432) or (xx4432)
 C11     (x33333)
 C13     (x12211)
