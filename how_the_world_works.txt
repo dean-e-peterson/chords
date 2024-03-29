@@ -2,6 +2,8 @@ How the World Works
 - by Bo Burnham
 - some chords from www.ultimate-guitar.com user ploozy4561
 
+D6      (xx0202)
+Dmaj7   (xx0222)
 D#dim   (xx1212) or (234242)
 Bm6     (x20102)
 Bm6/G#  (454474)?
@@ -37,33 +39,50 @@ D  F#7 Bm  G A
 D
 
 [Spoken: Bo Burnham]
-Hey, kids!  Today, we're gonna learn about the world.
+Em          A                                           D  D#dim
+  Hey, kids!  Today, we're gonna learn about the world.
 
 [Verse 1: Bo Burnham]
-The world that's around us is pretty amazing
-But how does it work?
-It must be complicated
-The secret is the world can only work
-When everything works together
+Em                  A                   D
+  The world that's around us is pretty amazing
+                                       D#dim  Em
+  But how does it work?  It must be compli -  cated
+                    A              D
+  The secret is the world can only work
+                            D#dim
+  When everything works together
 
 [Verse 2: Bo Burham]
-A bee drinks from a flower
-And leaves with its pollen
-A squirrel in a tree spreads the seeds that have fallen
-Everything works together
-The biggest elephant, the littlest fly
-The gophers underground, the birds in the sky
-And every single cricket, every fish in the sea
-Gives what they can and gets what they need
+Em                    A                           D
+  A bee drinks from a flower, and leaves with its pollen
+                                              D#dim Em
+  A squirrel in a tree spreads the seeds that have  fallen
+             A
+  Everything works together
+D             D#dim         Em       A
+  The biggest elephant, the littlest fly
+D             D#dim            Em           A
+  The gophers underground, the birds in the sky
+  F#  Bm           F#+            D/A         Bm6/G#
+  And every single cricket, every fish in the sea
+  Em                      A
+  Gives what they can and gets what they need
 
 [Chorus: Bo Burnham]
-That is how the world works
-That is how the world works
-From A to Zebra
-To the worms in the dirt
-That's how it works
+  D               Bm
+  That is how the world works
+G                 E     A
+  That is how the world works
+D
+  From A to Zebra
+         F#7          Bm
+  To the worms in the dirt
+  G         A    D   
+  That's how it works
 
-[Spoken]
+[Spoken] 
+        D  Dmaj7  D6  Dmaj7  (repeat chords for most of spoken section)
+
 [Bo]    Hey everyone.  Look who stopped by to say "hello."  It's Socko!
 [Socko] Hey!
 [Bo]    Where you been, Socko?
@@ -74,22 +93,25 @@ That's how it works
 [Bo]    Socko, we were just talking about the world and how it works
 [Socko] Boy, that sounds complicated!
 [Bo]    Do you have anything you'd wanna teach us about the world?
+                                                     ... D
 [Socko] I wouldn't say anything that you probably haven't already said yourself
+                           Dmaj7                       G         A
 [Bo]    I don't know about that, Socko.  How about you give it a try?
 [Socko] All right!
 
 [Verse 3: Socko]
-The simple narrative taught in every history class
-Is demonstrably false and pedagogically classist
-Don't you know the world is built with blood?
-And genocide and exploitation
-The global network of capital essentially functions
-To separate the worker from the means of production
-And the FBI killed Martin Luther King
-Private property's inherently theft
-And neoliberal fascists are destroying the left
-And every politician, every cop on the street
-Protects the interests of the pedophilic corporate elite
+Em 
+  The simple narrative taught in every history class
+  Is demonstrably false and pedagogically classist
+  Don't you know the world is built with blood?
+  And genocide and exploitation
+  The global network of capital essentially functions
+  To separate the worker from the means of production
+  And the FBI killed Martin Luther King
+  Private property's inherently theft
+  And neoliberal fascists are destroying the left
+  And every politician, every cop on the street
+  Protects the interests of the pedophilic corporate elite
 
 [Chorus: Socko]
 That is how the world works (really?)
