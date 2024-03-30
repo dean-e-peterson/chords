@@ -2,7 +2,7 @@ Calypso (in G)
  - by John Denver
 
 C6      (x32220)
-Csus4   (x32021)
+Csus4   (x32011)
 Gmaj7   (320002)
 
    G
