@@ -1,156 +1,149 @@
 How the World Works
-- by Bo Burnham
-- some chords from www.ultimate-guitar.com user ploozy4561
-- some parts alternate between Bo Burnham and Socko
+- by Bo Burnham, some chords from www.ultimate-guitar.com user ploozy4561
 
-D6      (xx0202)
-Dmaj7   (xx0222)
-D#dim   (xx1212) or (234242)
-Bm6     (x20102)
-Bm6/G#  (454474)?
-F#+     (xx4332)
+Bm6    (x20102)      D6    (xx0202)      D#dim (xx1212)
+Bm6/G# (454474)?     Dmaj7 (xx0222)      F#+   (xx4332)
+                     D     (xx0232)      F#7   (242322)
+SPOKEN: [Bo]
+          Em          A                                           D  D#dim
+            Hey, kids!  Today, we're gonna learn about the world.
 
-[Spoken: Bo Burnham]
-Em          A                                           D  D#dim
-  Hey, kids!  Today, we're gonna learn about the world.
+VERSE 1: [Bo]
+          Em                   A                   D
+            The world that's around us is pretty amazing
+                                                  D#dim  Em
+            But how does it work?  It must be compli  -  cated
+                              A              D
+            The secret is the world can only work
+                                      D#dim
+            When everything works together
 
-[Verse 1: Bo Burnham]
-Em                   A                   D
-  The world that's around us is pretty amazing
-                                        D#dim  Em
-  But how does it work?  It must be compli  -  cated
-                    A              D
-  The secret is the world can only work
-                            D#dim
-  When everything works together
+VERSE 2: [Bo]
+          Em                     A                           D
+            A bee drinks from a flower, and leaves with its pollen
+                                                        D#dim Em
+            A squirrel in a tree spreads the seeds that have fallen
+                       A
+            Everything works together
+          D             D#dim         Em       A
+            The biggest elephant, the littlest fly
+          D             D#dim            Em           A
+            The gophers underground, the birds in the sky
+            F#  Bm           F#+            D/A           Bm6/G#
+            And every single cricket, every fish in the sea
+            Em                      A
+            Gives what they can and gets what they need
 
-[Verse 2: Bo Burham]
-Em                     A                           D
-  A bee drinks from a flower, and leaves with its pollen
-                                              D#dim Em
-  A squirrel in a tree spreads the seeds that have fallen
-             A
-  Everything works together
-D             D#dim         Em       A
-  The biggest elephant, the littlest fly
-D             D#dim            Em           A
-  The gophers underground, the birds in the sky
-  F#  Bm           F#+            D/A           Bm6/G#
-  And every single cricket, every fish in the sea
-  Em                      A
-  Gives what they can and gets what they need
+CHORUS: [Bo]
+            D               Bm
+            That is how the world works
+          G                 E     A
+            That is how the world works
+          D                        F#7          Bm
+            From A to Zebra to the worms in the dirt
+            G         A    D
+            That's how it works
 
-[Chorus: Bo Burnham]
-  D               Bm
-  That is how the world works
-G                 E     A
-  That is how the world works
-D                        F#7          Bm
-  From A to Zebra to the worms in the dirt
-  G         A    D
-  That's how it works
+SPOKEN:   D  Dmaj7  D6  Dmaj7  (repeat these chords for most of spoken section)
 
-[Spoken]
-        D  Dmaj7  D6  Dmaj7  (repeat chords for most of spoken section)
+      [Bo]  Hey everyone.  Look who stopped by to say "hello."  It's Socko!
+   [Socko]  Hey!
+      [Bo]  Where you been, Socko?
+   [Socko]  I've been where I always am when you're not wearing me on your hand
+            In a frightening, liminal space between states of being
+            Not quite dead, not quite alive
+            It's similar to a constant state of sleep paralysis
+      [Bo]  Socko, we were just talking about the world and how it works
+   [Socko]  Boy, that sounds complicated!
+      [Bo]  Do you have anything you'd wanna teach us about the world?
+                                                         ... D
+   [Socko]  I wouldn't say anything that you probably haven't already said yourself
+                               Dmaj7                      G               A
+      [Bo]  I don't know about that, Socko.  How about you give it a try?
+   [Socko]  All right!
 
-[Bo]    Hey everyone.  Look who stopped by to say "hello."  It's Socko!
-[Socko] Hey!
-[Bo]    Where you been, Socko?
-[Socko] I've been where I always am when you're not wearing me on your hand
-        In a frightening, liminal space between states of being
-        Not quite dead, not quite alive
-        It's similar to a constant state of sleep paralysis
-[Bo]    Socko, we were just talking about the world and how it works
-[Socko] Boy, that sounds complicated!
-[Bo]    Do you have anything you'd wanna teach us about the world?
-                                                     ... D
-[Socko] I wouldn't say anything that you probably haven't already said yourself
-                           Dmaj7                      G               A
-[Bo]    I don't know about that, Socko.  How about you give it a try?
-[Socko] All right!
+VERSE 3: [Socko]
+          Em                      A                       D
+            The simple narrative taught in every history class
+                                          D#dim      Em
+            Is demonstrably false and pedagogically classist
+                                A                  D
+            Don't you know the world is built with blood?
+                                     D#dim
+            And genocide and exploitation
+          Em                       A                   D
+            The global network of capital essentially functions
+                                                      D#dim Em
+            To separate the worker from the means of pro - duction
+                      A                      D
+            And the FBI killed Martin Luther King
+          D         D#dim        Em       A
+            Private property's inherently theft
+                D          D#dim          Em           A
+            And neoliberal fascists are destroying the left
+            F#  Bm        F#+           D/A        Bm6/G#
+            And every politician, every cop on the street
+                         Em                          Bm6/G#     A
+            Protects the interests of the pedophilic corporate elite
 
-[Verse 3: Socko]
-Em                      A                       D
-  The simple narrative taught in every history class
-                                D#dim      Em
-  Is demonstrably false and pedagogically classist
-                      A                  D
-  Don't you know the world is built with blood?
-                           D#dim
-  And genocide and exploitation
-Em                       A                   D
-  The global network of capital essentially functions
-                                            D#dim Em
-  To separate the worker from the means of pro - duction
-            A                      D
-  And the FBI killed Martin Luther King
-D         D#dim        Em       A
-  Private property's inherently theft
-      D          D#dim          Em           A
-  And neoliberal fascists are destroying the left
-  F#  Bm        F#+           D/A        Bm6/G#
-  And every politician, every cop on the street
-               Em                          Bm6/G#     A
-  Protects the interests of the pedophilic corporate elite
+CHORUS: [Socko]
+            D               Bm
+            That is how the world works (Bo: really?)
+          G                 E     A
+            That is how the world works
+            D                             F#7        Bm
+            Genocide the Natives, say you got to it first
+            G         A   D
+            That's how it works
 
-[Chorus: Socko]
-  D               Bm
-  That is how the world works (Bo: really?)
-G                 E     A
-  That is how the world works
-  D                             F#7        Bm
-  Genocide the Natives, say you got to it first
-  G         A   D
-  That's how it works
+SPOKEN:   D  Dmaj7  D6  Dmaj7  (repeat these chords for part of spoken section)
 
-[Spoken]
-        D  Dmaj7  D6  Dmaj7  (repeat chords for part of spoken section)
-[Bo]    That's pretty intense
-[Socko] No shit
-[Bo]    What can I do to help?
-[Socko] Read a book or something, I don't know
-        Just don't burden me with the responsibility of educating you
-        It's incredibly exhausting
-[Bo]    I'm sorry, Socko.  I was just trying to become a better person
-[Socko] Why do you rich fucking white people insist on seeing every socio-political conflict
-        Through the myopic lens of your own self-actualization?
-        This isn't about you!  So either get with it, or get out of the fucking way.
-                                                             ... D
-[Bo]    Watch your mouth, buddy.  Remember who's on whose hand here.
-                                       Dmaj7
-[Socko] But that's what I --- Have you not been fucking listening?
-        D6
-        We are entrenched in a way
-[Bo]    All right, all right
-                    Dmaj7
-[Socko] Wait, wait, no please!
-                                            D
-        I don't wanna go back, please, ugh, ugh, ugh
-                      Dmaj7
-        I can't go, I can't go back
-        N.C.
-        Please, please, I'm sorry
-[Bo]    Are you gonna behave yourself?
-[Socko] Yes
-[Bo]    Yes, what?
-[Socko] Yes, sir ---
-[Bo]    Look at me
-[Socko] Yes, sir
-[Bo]    That's better
+   [Bo]     That's pretty intense
+   [Socko]  No shit
+   [Bo]     What can I do to help?
+   [Socko]  Read a book or something, I don't know
+            Just don't burden me with the responsibility of educating you
+            It's incredibly exhausting
+   [Bo]     I'm sorry, Socko.  I was just trying to become a better person
+   [Socko]  Why do you rich fucking white people insist on seeing every socio-political conflict
+            Through the myopic lens of your own self-actualization?
+            This isn't about you!  So either get with it, or get out of the fucking way.
+                                                                 ... D
+   [Bo]     Watch your mouth, buddy.  Remember who's on whose hand here.
+                                           Dmaj7
+   [Socko]  But that's what I --- Have you not been fucking listening?
+            D6
+            We are entrenched in a way
+   [Bo]     All right, all right
+                        Dmaj7
+   [Socko]  Wait, wait, no please!
+                                                D
+            I don't wanna go back, please, ugh, ugh, ugh
+                          Dmaj7
+            I can't go, I can't go back
+            N.C.
+            Please, please, I'm sorry
+      [Bo]  Are you gonna behave yourself?
+   [Socko]  Yes
+      [Bo]  Yes, what?
+   [Socko]  Yes, sir ---
+      [Bo]  Look at me
+   [Socko]  Yes, sir
+      [Bo]  That's better
 
-[Chorus]
-        D               Bm
-[Bo]    That is how the world works
-       G                E     A
-[Both]  That is how the world works
-          D
-[Bo]    I hope you learned your lesson
-          F#7        Bm
-[Socko] I did and it hurt
-        G
-[Both]  That's how
-        N.C.
-[Socko] It works...
+CHORUS:
+            D               Bm
+      [Bo]  That is how the world works
+          G                 E     A
+    [Both]  That is how the world works
+              D
+      [Bo]  I hope you learned your lesson
+              F#7        Bm
+   [Socko]  I did and it hurt
+            G
+    [Both]  That's how
+            N.C.
+   [Socko]  It works...
 
-[Spoken]
-[Socko] No!
+SPOKEN:
+   [Socko]  No!
