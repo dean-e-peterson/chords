@@ -1,9 +1,9 @@
 How the World Works
 - by Bo Burnham, some chords from www.ultimate-guitar.com user ploozy4561
 
-Bm6    (x20102)      D6    (xx0202)      D#dim (xx1212)
-Bm6/G# (454474)?     Dmaj7 (xx0222)      F#+   (xx4332)
-                     D     (xx0232)      F#7   (242322)
+Bm6    (x20102)      D6    (xx0202)      D     (xx0232)      F#+ (xx4332)
+Bm6/G# (454474)?     Dmaj7 (xx0222)      D#dim (xx1212)      F#7 (242322)
+
 SPOKEN: [Bo]
           Em          A                                           D  D#dim
             Hey, kids!  Today, we're gonna learn about the world.
@@ -35,14 +35,10 @@ VERSE 2: [Bo]
             Gives what they can and gets what they need
 
 CHORUS: [Bo]
-            D               Bm
-            That is how the world works
-          G                 E     A
-            That is how the world works
-          D                        F#7          Bm
-            From A to Zebra to the worms in the dirt
-            G         A    D
-            That's how it works
+            D               Bm          G                 E     A
+            That is how the world works.  That is how the world works
+          D                        F#7          Bm    G         A    D
+            From A to Zebra to the worms in the dirt, that's how it works
 
 SPOKEN:   D  Dmaj7  D6  Dmaj7  (repeat these chords for most of spoken section)
 
@@ -50,8 +46,7 @@ SPOKEN:   D  Dmaj7  D6  Dmaj7  (repeat these chords for most of spoken section)
    [Socko]  Hey!
       [Bo]  Where you been, Socko?
    [Socko]  I've been where I always am when you're not wearing me on your hand
-            In a frightening, liminal space between states of being
-            Not quite dead, not quite alive
+            In a frightening, liminal space between states of being.  Not quite dead, not quite alive
             It's similar to a constant state of sleep paralysis
       [Bo]  Socko, we were just talking about the world and how it works
    [Socko]  Boy, that sounds complicated!
@@ -87,42 +82,30 @@ VERSE 3: [Socko]
             Protects the interests of the pedophilic corporate elite
 
 CHORUS: [Socko]
-            D               Bm
-            That is how the world works (Bo: really?)
-          G                 E     A
-            That is how the world works
-            D                             F#7        Bm
-            Genocide the Natives, say you got to it first
-            G         A   D
-            That's how it works
+            D               Bm                        G                 E     A
+            That is how the world works. (Bo: really?)  That is how the world works
+            D                             F#7        Bm     G         A   D
+            Genocide the Natives, say you got to it first.  That's how it works
 
 SPOKEN:   D  Dmaj7  D6  Dmaj7  (repeat these chords for part of spoken section)
 
-   [Bo]     That's pretty intense
+      [Bo]  That's pretty intense
    [Socko]  No shit
-   [Bo]     What can I do to help?
+      [Bo]  What can I do to help?
    [Socko]  Read a book or something, I don't know
-            Just don't burden me with the responsibility of educating you
-            It's incredibly exhausting
-   [Bo]     I'm sorry, Socko.  I was just trying to become a better person
+            Just don't burden me with the responsibility of educating you.  It's incredibly exhausting
+      [Bo]  I'm sorry, Socko.  I was just trying to become a better person
    [Socko]  Why do you rich fucking white people insist on seeing every socio-political conflict
             Through the myopic lens of your own self-actualization?
             This isn't about you!  So either get with it, or get out of the fucking way.
-                                                                 ... D
-   [Bo]     Watch your mouth, buddy.  Remember who's on whose hand here.
-                                           Dmaj7
-   [Socko]  But that's what I --- Have you not been fucking listening?
-            D6
-            We are entrenched in a way
-   [Bo]     All right, all right
-                        Dmaj7
-   [Socko]  Wait, wait, no please!
-                                                D
-            I don't wanna go back, please, ugh, ugh, ugh
-                          Dmaj7
-            I can't go, I can't go back
-            N.C.
-            Please, please, I'm sorry
+      [Bo]  Watch your mouth, buddy.  Remember who's on whose hand here.
+                                           Dmaj7                        D6
+   [Socko]  But that's what I --- Have you not been fucking listening?  We are entrenched in a way ---
+      [Bo]  All right, all right
+                        Dmaj7                                           D
+   [Socko]  Wait, wait, no please!  I don't wanna go back, please, ugh, ugh, ugh
+                          Dmaj7           N.C.
+            I can't go, I can't go back.  Please, please, I'm sorry
       [Bo]  Are you gonna behave yourself?
    [Socko]  Yes
       [Bo]  Yes, what?
