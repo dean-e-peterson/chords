@@ -4,85 +4,72 @@ Pancreas
 - note: scientifically, either "distance between them" should be distance squared,
   or Weird Al solved the dark matter mystery with his own alternative gravity theory.
 
-Gm      (355333) of (xx0333)?
-F#dim   (xx1212) or (234242)
-Csus4   (x32011)
+Csus4 (x32011)       Gm (355333) of (xx0333)?       F#dim (xx1212) or (234242)
 
 INTRO:
-    Gm          A     Am        D7            Gm     (Bb)    Csus4 C     F   F#dim
+    Gm          A     Am        D7            Gm             Csus4 C     F   F#dim
     Oooh oooh oooh ee-oooh oooh oooh, Ahh ahh ahh ahh ahh ahh-oooh oooh, Oooooh
 
-VERSE?:
-  Gm           C(7)             Dm                      G
-    I'm always thinkin' 'bout it, I don't know what I'd do without it
+VERSE:
+  Gm           C7               Dm                      G
+    I'm always thinkin' 'bout it, I don't know what I'd do without it,
   C                          E     F
-    I love, I really love my pancreas
-  Gm               C(7)          Dm                   G
-    My spleen just doesn't matter, don't really care about my bladder
-  C                                   E     F
-    But I don't leave home without my pancreas
-  Gm         D            Gm    D   Gm  G   F
-    My pancreas is always there for me (Ahh-oooh)
+    I love, I really love my pancreas.
+  Gm               C7            Dm                   G
+    My spleen just doesn't matter, don't really care about my bladder,
+  Bb                                  F
+    But I don't leave home without my pancreas.
+  Gm         D            Gm    D   Gm   G   F
+    My pancreas is always there for me. (Ahh-oooh)
                     Dm                 F                       Dm
-    Secreting those enzymes (bap bap ba-oooh). Secreting those hormones, too
+    Secreting those enzymes (bap bap ba-oooh). Secreting those hormones, too.
   Bb                  F                 G
-    Metabolizing carbohydrates just for me
+    Metabolizing carbohydrates just for me.
 
-INTERLUDE?:
+INTERLUDE:
     C                                       Bb
     Ba-ba bah ba-ba bah, bah, my pancreas.  Ba-ba bah ba-ba bah, bah, my pancreas.
     C                                       Bb
     Ba-ba bah ba-ba bah, bah, my pancreas.  Ba-ba bah ba-ba bah, bah, my pancreas.
 
 INSTRUMENTAL:
-    C  Bb  (2x)
+    C  Bb  C  Bb
 
-INTERLUDE OF THE INTERLUDE?:
+INTERLUDE FOR THE INSTRUMENTAL INTERLUDE IN THE INTERLUDE?:
     C                                       Bb
     Ba-ba bah ba-ba bah, bah, my pancreas.  Ba-ba bah ba-ba bah, bah, my pancreas.
 
 INSTRUMENTAL:
-    C  Bb
+    C  C7
 
-BRIDGE?:
+BRIDGE:
     Bb            C                  F               Dm
     My pancreas attracts every other pancreas in the universe
-           Gm       C7               Am               Dm?
+           Gm       C7               Am               F7
     With a force proportional to the product of their masses
         Bb           C7               F          C     D
-    And inversely proportional to the distance between them.  Woo-oo woo-oo woo-oo woooo
+    And inversely proportional to the distance between them.  Woo-oo woo-oo woo-oo woooo.
 
-ROUND?:
-                                F                            Gm                    C7
-    Don'tcha you know you gotta flow, flow, flow, pancreatic juice.  Flow, flow, into the deuodenum
-                                F                            Gm                    C7
-                       Won'tcha flow, flow, flow, pancreatic juice.  Flow, flow, into the deuodenum
+ROUND:
+     Don'tcha you know you gotta
+              F                               Gm                        C7
+              flow, flow, flow, pancreatic    juice.    Flow, flow,   into the deuodenum.
+              F                               Gm                        C7
+     Won'tcha flow, flow, flow, pancreatic    juice.    Flow, flow,   into the deuodenum.
 
-              F                                Gm                        C7
-              Insulin,     glucagon,                     comin' from the islets of Langerhans
-    (Won'tcha flow, flow, flow, pancreatic     juice.    Flow, flow,   into the deuodenum)
-              F                                Gm                        C7
-              Insulin,     glucagon,                     comin' from the islets of Langerhans
-    (Won'tcha flow, flow, flow, pancreatic     juice.    Flow, flow,   into the deuodenum)
+(2x)          F                               Gm                        C7
+              Insulin,     glucagon,                    comin' from the islets of Langerhans.
+    (Won'tcha flow, flow, flow, pancreatic    juice.    Flow, flow,   into the deuodenum.)
 
-              F                                Gm                        C7
-              Lipase, amylase, and tripsin,         they gonna help with my digestion
-             (Insulin,     glucagon,                     comin' from the islets of Langerhans)
-    (Won'tcha flow, flow, flow, pancreatic     juice.    Flow, flow,   into the deuodenum)
-              F                                Gm                        C7
-              Lipase, amylase, and tripsin,         they gonna help with my digestion
-             (Insulin,     glucagon,                     comin' from the islets of Langerhans)
-    (Won'tcha flow, flow, flow, pancreatic     juice.    Flow, flow,   into the deuodenum)
+(2x)          F                               Gm                        C7
+              Lipase, amylase, and tripsin,        they gonna help with my digestion.
+             (Insulin,     glucagon,                    comin' from the islets of Langerhans.)
+    (Won'tcha flow, flow, flow, pancreatic    juice.    Flow, flow,   into the deuodenum.)
 
-              F                                Gm                        C7
-              Can't you see I love my pancreas.          Golly-gee,    I love my pancreas
-             (Lipase, amylase, and tripsin,         they gonna help with my digestion)
-             (Insulin,     glucagon,                     comin' from the islets of Langerhans)
-    (Won'tcha flow, flow, flow, pancreatic     juice.    Flow, flow,   into the deuodenum)
-              F                                Gm                        C7
-              Can't you see I love my pancreas.          Golly-gee,    I love my pancreas
-             (Lipase, amylase, and tripsin,         they gonna help with my digestion)
-             (Insulin,     glucagon,                     comin' from the islets of Langerhans)
-    (Won'tcha flow, flow, flow, pancreatic     juice.    Flow, flow,   into the deuodenum)
+(2x)          F                               Gm                        C7
+              Can't you see I love my pancreas.          Golly-gee,    I love my pancreas.
+             (Lipase, amylase, and tripsin,        they gonna help with my digestion.)
+             (Insulin,     glucagon,                    comin' from the islets of Langerhans.)
+    (Won'tcha flow, flow, flow, pancreatic    juice.    Flow, flow,   into the deuodenum.)
 
-    (Repeat final stanza and fade)
+(repeat last stanza and fade)
