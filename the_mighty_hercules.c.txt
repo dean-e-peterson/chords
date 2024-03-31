@@ -1,4 +1,4 @@
-The Mighty Hercules
+The Mighty Hercules (in C)
 - theme song to cartoon The Mighty Hercules
 - originally in F
 - also closes Overly Sarcastic Productions youtube.com video on Heracles
