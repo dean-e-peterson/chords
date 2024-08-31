@@ -1,101 +1,165 @@
 Von guten Mächten
 - words by Dietrich Bonhöffer
 - music by Siegfried Fietz
+- Sieg Fietz performance at https://youtu.be/aN7dGz6NH5M, capo 2, only *ed verses
 - English translation by Hilmar H. Werner, found at
   http://www.berlinertourguide.com/dietrich-bonhoeffer-von-guten-maechten-translation-by-loving-forces.htm
-- chords from here, sorry original publisher, with h being b and lower case being minor:
-  https://www.matthaeus-og.de/media/download/variant/177377/lied__von_guten_maxchten_wunderbar_geborgen_.pdf
 
-[Verse 1]
-    D     Bm      Em7      A7      D    B B7
+A       (x02220)
+Asus2   (x02200)
+Asus4   (x02230) <- aka Asus
+A/C#    (x42220) or (x4222x)
+Bm      (x24432) or (xx4432)
+Bm/A    (x04432)
+D       (xx0232)
+Dsus4   (xx0233) or (x0003x)
+D6no5?  (xx0432) <- substitute for Dsus4
+Em      (022000)
+F#m     (244222)
+G       (320003) or (355433) or (xx0003)
+
+
+[Intro]*
+D  A/C#  Bm  Bm/A  G  A  D Dsus4 D
+
+[Verse 1]*
+    D             A/C#           Bm   Bm/A
 Von guten Mächten treu und still umgeben,
-  Em7   A7    D             E7  A7
+  G           F#m           Em  A (Asus2 A)
 behütet und getröstet wunderbar.
-   D        Bm    Em   F#       Bmsus4 Bm  D7/a D7
-So will ich diese Tage mit euch le  -  ben
-    G              D      A7    D    Bm Em A7
+    D             A/C#          Bm   Bm/A
+So will ich diese Tage mit euch leben
+    G              A            D Dsus4 D
 und mit euch gehen in ein neues Jahr.
 
-[Refrain]
-    D             A     F#/a# Bm    D7/c
+[Refrain]*
+    D             A/C#      Bm    Bm/A
 Von guten Mächten wunderbar geborgen,
-  D7     G          B7           C  A
+         G          F#m          Em  Asus4 A
 erwarten wir getrost, was kommen mag.
-     D              A     F#/a#  Bm    D7/a D7
+     D              A/C#         Bm    Bm/A
 Gott ist mit uns am Abend und am Morgen
-    G             A     A7    G  D   A7
+    G             A           D Dsus4 D
 und ganz gewiß an jedem neuen Tag.
 
-[Verse 2]
+
+[Verse 2]*
+     D             A/C#          Bm    Bm/A
 Noch will das Alte unsere Herzen quälen,
+     G                F#m          Em  A (Asus2 A)
 noch drückt uns böser Tage schwere Last.
+     D                 A/C#            Bm    Bm/A
 Ach, Herr, gib unseren aufgescheuchten Seelen
+    G                A            D Dsus4 D
 das Heil, für das du uns bereitet hast.
 
 [Verse 3]
+    D                  A/C#     Bm   Bm/A
 Und reichst du uns den schweren Kelch,
+    G                          F#m                 Em  A (Asus2 A)
 den bittren des Leids, gefüllt bis an den höchsten Rand,
+   D              A/C#         Bm     Bm/A
 so nehmen wir ihn dankbar ohne Zittern
+    G            A             D Dsus4 D
 aus deiner guten und geliebten Hand.
 
 [Verse 4]
+     D                  A/C#          Bm      Bm/A
 Doch willst du uns noch einmal Freude schenken
+   G               F#m         Em   A (Asus2 A)
 an dieser Welt und ihrer Sonne Glanz,
+     D                 A/C#       Bm    Bm/A
 dann woll'n wir des Vergangenen gedenken
+    G               A     D     Dsus4 D
 und dann gehört dir unser Leben ganz.
 
-[Verse 5]
+[Verse 5]*
+    D                  A/C#         Bm     Bm/A
 Laß warm und still die Kerzen heute flammen,
+    G            F#m          Em    A (Asus2 A)
 die du in unsere Dunkelheit gebracht.
+      D                  A/C#         Bm    Bm/A
 Führ, wenn es sein kann, wieder uns zusammen.
+    G               A                    D Dsus4 D
 Wir wissen es, dein Licht scheint in der Nacht.
 
 [Verse 6]
+     D               A/C#            Bm     Bm/A
 Wenn sich die Stille nun tief um uns breitet,
+           G           F#m              Em  A (Asus2 A)
 so laß uns hören jenen vollen Klang der Welt,
+    D          A/C#        Bm    Bm/A
 die unsichtbar sich um uns weitet,
+    G             A          D Dsus4 D
 all Deiner Kinder hohen Lobgesang.
 
 
 [Verse 1]
+   D             A/C#        Bm    Bm/A
 By loving forces silently surrounded,
+             G              F#m               Em  A (Asus2 A)
 I feel quite soothed, secure, and filled with grace.
+   D               A/C#              Bm    Bm/A
 So I would like to live these days together,
+    G             A          D Dsus4 D
 and go with you into another year.
 
 [Refrain]
+   D             A/C#        Bm       Bm/A
 By loving forces wonderfully sheltered,
-we are awaiting fearlessly what comes.
+        G          F#m             Em   A (Asus2 A)
+we are awaiting fear - lessly what comes.
+    D             A/C#            Bm     Bm/A
 God is with us at dusk and in the morning
+    G           A           D Dsus4 D
 and most assuredly on ev'ry day.
 
 [Verse 2]
+      D              A/C#              Bm        Bm/A
 Still matters of the past are pressing our hearts
+    G             F#m              Em  A (Asus2 A)
 and evil days are weighing down on us.
+   D            A/C#                 Bm  Bm/A
 Oh Lord, to our souls, so scared and sore,
+     G               A                D Dsus4 D
 give rescue, as it's that you made us for.
 
 [Verse 3]
+    D                A/C#          Bm     Bm/A
 And when you pass to us the bitter chalice,
+G                     F#m             Em  A (Asus2 A)
 filled with suffering to the brim and more,
+   D                A/C#                 Bm  Bm/A
 we take it, full of thanks and trembling not,
+     G                 A           D Dsus4 D
 from this, your caring and beloved hand.
 
 [Verse 4]
+    D              A/C#                Bm   Bm/A
 But if you want to please us, over and again,
+G                F#m              Em   A (Asus2 A)
 with our shining sun and wondrous world,
+       D               A/C#              Bm   Bm/A
 let us muse on what is past, and then we shall,
+G                  A             D Dsus4 D
 with our lives, in all belong to you.
 
 [Verse 5]
+D               A/C#            Bm         Bm/A
 Warm and bright be our candles' flame today,
+      G              F#m                Em   A (Asus2 A)
 since into gloom you brought a gleaming light,
+    D              A/C#           Bm    Bm/A
 and lead again us, if you will, together!
+   G                A              D Dsus4 D
 We know it: you are beaming in the night.
 
 [Verse 6]
+     D                A/C#           Bm        Bm/A
 When silence now will snow around us ev'rywhere,
+   G               F#m           Em   A (Asus2 A)
 so let us hear the all-embracing sound
+   D                   A/C#           Bm   Bm/A
 of greater things than we can see and wider,
+     G                   A                  D Dsus4 D
 your world, and all your children's soaring hail.
-
