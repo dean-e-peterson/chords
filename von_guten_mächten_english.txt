@@ -1,7 +1,7 @@
 Von guten Mächten (in English)
-- words by Dietrich Bonhöffer
-- music by Siegfried Fietz
-- Sieg Fietz performance at https://youtu.be/aN7dGz6NH5M, capo 2
+- words by Dietrich Bonhöffer, music by Siegfried Fietz, capo 2 for original key
+- left side is verses and refrains in Sieg Fietz' performance at https://youtu.be/aN7dGz6NH5M
+- right side is additional verses in original Bonhöffer poem
 - English translation by Hilmar H. Werner, found at
   http://www.berlinertourguide.com/dietrich-bonhoeffer-von-guten-maechten-translation-by-loving-forces.htm
 
@@ -11,9 +11,9 @@ D  (xx0232)     Dsus4 (xx0233) or (x0003x) or use D6no5? (xx0432)
 Em (022000)     F#m   (244222)
 G  (320003)
 
-
 [Intro]
 D  A/C#  Bm  Bm/A  G  A  D Dsus4 D
+
 
 [Verse 1]
    D             A/C#        Bm    Bm/A
@@ -25,25 +25,6 @@ So I would like to live these days together,
     G             A          D Dsus4 D
 and go with you into another year.
 
-[Refrain]
-   D             A/C#        Bm       Bm/A
-By loving forces wonderfully sheltered,
-        G          F#m             Em   A (Asus2 A)
-we are awaiting fear - lessly what comes.
-    D             A/C#            Bm     Bm/A
-God is with us at dusk and in the morning
-    G           A           D Dsus4 D
-and most assuredly on ev'ry day.
-
-[Verse 2]
-      D              A/C#              Bm        Bm/A
-Still matters of the past are pressing our hearts
-    G             F#m              Em  A (Asus2 A)
-and evil days are weighing down on us.
-   D            A/C#                 Bm  Bm/A
-Oh Lord, to our souls, so scared and sore,
-     G               A                D Dsus4 D
-give rescue, as it's that you made us for.
 
 [Refrain]
    D             A/C#        Bm       Bm/A
@@ -55,15 +36,28 @@ God is with us at dusk and in the morning
     G           A           D Dsus4 D
 and most assuredly on ev'ry day.
 
-[Verse 3]
-    D                A/C#          Bm     Bm/A
-And when you pass to us the bitter chalice,
-G                     F#m             Em  A (Asus2 A)
-filled with suffering to the brim and more,
-   D                A/C#                 Bm  Bm/A
-we take it, full of thanks and trembling not,
-     G                 A           D Dsus4 D
-from this, your caring and beloved hand.
+
+[Verse 2]                                                  [Verse 3]
+      D              A/C#              Bm        Bm/A          D                A/C#          Bm     Bm/A
+Still matters of the past are pressing our hearts          And when you pass to us the bitter chalice,
+    G             F#m              Em  A (Asus2 A)         G                     F#m             Em  A (Asus2 A)
+and evil days are weighing down on us.                     filled with suffering to the brim and more,
+   D            A/C#                 Bm  Bm/A                 D                A/C#                 Bm  Bm/A
+Oh Lord, to our souls, so scared and sore,                 we take it, full of thanks and trembling not,
+     G               A                D Dsus4 D                 G                 A           D Dsus4 D
+give rescue, as it's that you made us for.                 from this, your caring and beloved hand.
+
+
+                                                           [Verse 4]
+                                                               D              A/C#                Bm   Bm/A
+                                                           But if you want to please us, over and again,
+                                                           G                F#m              Em   A (Asus2 A)
+                                                           with our shining sun and wondrous world,
+                                                                  D               A/C#              Bm   Bm/A
+                                                           let us muse on what is past, and then we shall,
+                                                           G                  A             D Dsus4 D
+                                                           with our lives, in all belong to you.
+
 
 [Refrain]
    D             A/C#        Bm       Bm/A
@@ -75,55 +69,17 @@ God is with us at dusk and in the morning
     G           A           D Dsus4 D
 and most assuredly on ev'ry day.
 
-[Verse 4]
-    D              A/C#                Bm   Bm/A
-But if you want to please us, over and again,
-G                F#m              Em   A (Asus2 A)
-with our shining sun and wondrous world,
-       D               A/C#              Bm   Bm/A
-let us muse on what is past, and then we shall,
-G                  A             D Dsus4 D
-with our lives, in all belong to you.
 
-[Refrain]
-   D             A/C#        Bm       Bm/A
-By loving forces wonderfully sheltered,
-        G          F#m             Em   A (Asus2 A)
-we are awaiting fear - lessly what comes.
-    D             A/C#            Bm     Bm/A
-God is with us at dusk and in the morning
-    G           A           D Dsus4 D
-and most assuredly on ev'ry day.
+[Verse 5]                                                  [Verse 6]
+D               A/C#            Bm         Bm/A                 D                A/C#           Bm        Bm/A
+Warm and bright be our candles' flame today,               When silence now will snow around us ev'rywhere,
+      G              F#m                Em   A (Asus2 A)      G               F#m           Em   A (Asus2 A)
+since into gloom you brought a gleaming light,             so let us hear the all-embracing sound
+    D              A/C#           Bm    Bm/A                  D                   A/C#           Bm   Bm/A
+and lead again us, if you will, together!                  of greater things than we can see and wider,
+   G                A              D Dsus4 D                    G                   A                  D Dsus4 D
+We know it: you are beaming in the night.                  your world, and all your children's soaring hail.
 
-[Verse 5]
-D               A/C#            Bm         Bm/A
-Warm and bright be our candles' flame today,
-      G              F#m                Em   A (Asus2 A)
-since into gloom you brought a gleaming light,
-    D              A/C#           Bm    Bm/A
-and lead again us, if you will, together!
-   G                A              D Dsus4 D
-We know it: you are beaming in the night.
-
-[Refrain]
-   D             A/C#        Bm       Bm/A
-By loving forces wonderfully sheltered,
-        G          F#m             Em   A (Asus2 A)
-we are awaiting fear - lessly what comes.
-    D             A/C#            Bm     Bm/A
-God is with us at dusk and in the morning
-    G           A           D Dsus4 D
-and most assuredly on ev'ry day.
-
-[Verse 6]
-     D                A/C#           Bm        Bm/A
-When silence now will snow around us ev'rywhere,
-   G               F#m           Em   A (Asus2 A)
-so let us hear the all-embracing sound
-   D                   A/C#           Bm   Bm/A
-of greater things than we can see and wider,
-     G                   A                  D Dsus4 D
-your world, and all your children's soaring hail.
 
 [Refrain]
    D             A/C#        Bm       Bm/A

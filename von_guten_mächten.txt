@@ -1,9 +1,7 @@
 Von guten Mächten
-- words by Dietrich Bonhöffer
-- music by Siegfried Fietz
-- Sieg Fietz performance at https://youtu.be/aN7dGz6NH5M, capo 2, only *ed verses
-- English translation by Hilmar H. Werner, found at
-  http://www.berlinertourguide.com/dietrich-bonhoeffer-von-guten-maechten-translation-by-loving-forces.htm
+- words by Dietrich Bonhöffer, music by Siegfried Fietz, capo 2 for original key
+- left side is verses and refrains in Sieg Fietz' performance at https://youtu.be/aN7dGz6NH5M
+- right side is additional verses in original Bonhöffer poem
 
 A  (x02220)     Asus2 (x02200)     Asus4 (x02230)     A/C# (x42220) or (x4222x)
 Bm (x24432)     Bm/A  (x04432)
@@ -11,11 +9,11 @@ D  (xx0232)     Dsus4 (xx0233) or (x0003x) or use D6no5? (xx0432)
 Em (022000)     F#m   (244222)
 G  (320003)
 
-
-[Intro]*
+[Intro]
 D  A/C#  Bm  Bm/A  G  A  D Dsus4 D
 
-[Verse 1]*
+
+[Verse 1]
     D             A/C#           Bm   Bm/A
 Von guten Mächten treu und still umgeben,
   G           F#m           Em  A (Asus2 A)
@@ -25,7 +23,8 @@ So will ich diese Tage mit euch leben
     G              A            D Dsus4 D
 und mit euch gehen in ein neues Jahr.
 
-[Refrain]*
+
+[Refrain]
     D             A/C#      Bm    Bm/A
 Von guten Mächten wunderbar geborgen,
          G          F#m          Em  Asus4 A
@@ -35,17 +34,30 @@ Gott ist mit uns am Abend und am Morgen
     G             A           D Dsus4 D
 und ganz gewiß an jedem neuen Tag.
 
-[Verse 2]*
-     D             A/C#          Bm    Bm/A
-Noch will das Alte unsere Herzen quälen,
-     G                F#m          Em  A (Asus2 A)
-noch drückt uns böser Tage schwere Last.
-     D                 A/C#            Bm    Bm/A
-Ach, Herr, gib unseren aufgescheuchten Seelen
-    G                A            D Dsus4 D
-das Heil, für das du uns bereitet hast.
 
-[Refrain]*
+[Verse 2]                                               [Verse 3]
+     D             A/C#          Bm    Bm/A                 D                  A/C#     Bm   Bm/A
+Noch will das Alte unsere Herzen quälen,                Und reichst du uns den schweren Kelch,
+     G                F#m          Em  A (Asus2 A)          G                          F#m                 Em  A
+noch drückt uns böser Tage schwere Last.                den bittren des Leids, gefüllt bis an den höchsten Rand,
+     D                 A/C#            Bm    Bm/A          D              A/C#         Bm     Bm/A
+Ach, Herr, gib unseren aufgescheuchten Seelen           so nehmen wir ihn dankbar ohne Zittern
+    G                A            D Dsus4 D                 G            A             D Dsus4 D
+das Heil, für das du uns bereitet hast.                 aus deiner guten und geliebten Hand.
+
+
+                                                        [Verse 4]
+                                                             D                  A/C#          Bm      Bm/A
+                                                        Doch willst du uns noch einmal Freude schenken
+                                                           G               F#m         Em   A (Asus2 A)
+                                                        an dieser Welt und ihrer Sonne Glanz,
+                                                             D                 A/C#       Bm    Bm/A
+                                                        dann woll'n wir des Vergangenen gedenken
+                                                            G               A     D     Dsus4 D
+                                                        und dann gehört dir unser Leben ganz.
+
+
+[Refrain]
     D             A/C#      Bm    Bm/A
 Von guten Mächten wunderbar geborgen,
          G          F#m          Em  Asus4 A
@@ -55,77 +67,19 @@ Gott ist mit uns am Abend und am Morgen
     G             A           D Dsus4 D
 und ganz gewiß an jedem neuen Tag.
 
-[Verse 3]
-    D                  A/C#     Bm   Bm/A
-Und reichst du uns den schweren Kelch,
-    G                          F#m                 Em  A (Asus2 A)
-den bittren des Leids, gefüllt bis an den höchsten Rand,
-   D              A/C#         Bm     Bm/A
-so nehmen wir ihn dankbar ohne Zittern
-    G            A             D Dsus4 D
-aus deiner guten und geliebten Hand.
 
-[Refrain]*
-    D             A/C#      Bm    Bm/A
-Von guten Mächten wunderbar geborgen,
-         G          F#m          Em  Asus4 A
-erwarten wir getrost, was kommen mag.
-     D              A/C#         Bm    Bm/A
-Gott ist mit uns am Abend und am Morgen
-    G             A           D Dsus4 D
-und ganz gewiß an jedem neuen Tag.
+[Verse 5]                                               [Verse 6]
+    D                  A/C#         Bm     Bm/A              D               A/C#            Bm     Bm/A
+Laß warm und still die Kerzen heute flammen,            Wenn sich die Stille nun tief um uns breitet,
+    G            F#m          Em    A (Asus2 A)                    G           F#m              Em  A (Asus2 A)
+die du in unsere Dunkelheit gebracht.                   so laß uns hören jenen vollen Klang der Welt,
+      D                  A/C#         Bm    Bm/A            D          A/C#        Bm    Bm/A
+Führ, wenn es sein kann, wieder uns zusammen.           die unsichtbar sich um uns weitet,
+    G               A                    D Dsus4 D          G             A          D Dsus4 D
+Wir wissen es, dein Licht scheint in der Nacht.         all Deiner Kinder hohen Lobgesang.
 
-[Verse 4]
-     D                  A/C#          Bm      Bm/A
-Doch willst du uns noch einmal Freude schenken
-   G               F#m         Em   A (Asus2 A)
-an dieser Welt und ihrer Sonne Glanz,
-     D                 A/C#       Bm    Bm/A
-dann woll'n wir des Vergangenen gedenken
-    G               A     D     Dsus4 D
-und dann gehört dir unser Leben ganz.
 
-[Refrain]*
-    D             A/C#      Bm    Bm/A
-Von guten Mächten wunderbar geborgen,
-         G          F#m          Em  Asus4 A
-erwarten wir getrost, was kommen mag.
-     D              A/C#         Bm    Bm/A
-Gott ist mit uns am Abend und am Morgen
-    G             A           D Dsus4 D
-und ganz gewiß an jedem neuen Tag.
-
-[Verse 5]*
-    D                  A/C#         Bm     Bm/A
-Laß warm und still die Kerzen heute flammen,
-    G            F#m          Em    A (Asus2 A)
-die du in unsere Dunkelheit gebracht.
-      D                  A/C#         Bm    Bm/A
-Führ, wenn es sein kann, wieder uns zusammen.
-    G               A                    D Dsus4 D
-Wir wissen es, dein Licht scheint in der Nacht.
-
-[Refrain]*
-    D             A/C#      Bm    Bm/A
-Von guten Mächten wunderbar geborgen,
-         G          F#m          Em  Asus4 A
-erwarten wir getrost, was kommen mag.
-     D              A/C#         Bm    Bm/A
-Gott ist mit uns am Abend und am Morgen
-    G             A           D Dsus4 D
-und ganz gewiß an jedem neuen Tag.
-
-[Verse 6]
-     D               A/C#            Bm     Bm/A
-Wenn sich die Stille nun tief um uns breitet,
-           G           F#m              Em  A (Asus2 A)
-so laß uns hören jenen vollen Klang der Welt,
-    D          A/C#        Bm    Bm/A
-die unsichtbar sich um uns weitet,
-    G             A          D Dsus4 D
-all Deiner Kinder hohen Lobgesang.
-
-[Refrain]*
+[Refrain]
     D             A/C#      Bm    Bm/A
 Von guten Mächten wunderbar geborgen,
          G          F#m          Em  Asus4 A
