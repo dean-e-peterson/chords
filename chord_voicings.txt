@@ -24,6 +24,7 @@ Abdim   (xx0101) or (xx3434) or (xx6767) or (123131) or (456464) or (006767)?
 Abm6    (466464)
 Abmaj7  (xx1113) or (465544)
 A/B     (x22220)
+A/C#    (x42220) or (x4222x)
 Adim/A  (x01212)
 Adim    (xx1212) or (234242) or (x01212)?
 A#dim   (xx2323) or (345353) or (x12020)?or (012020)?
@@ -47,23 +48,21 @@ Asus2   (x02200)
 Asus4   (x02230) <- aka Asus
 A       (x02220) or (x07650)?
 A+      (x03221)
-A/C#    (x42220) or (x4222x)
 B6      (xx1102) or (x24444) or (xx4444)?
 B7b5    (x21201) or (xx1201) or (xx3445)
-Bb      (x13332) or (xx3332)
 Bb6     (013033)?or (010033)
 Bb7b9   (x10101)
 Bbdim   (xx2323) or (345353) or (x12020)?or (012020)?
 Bbmaj7  (x13231) or (xx2224)?
+Bb      (x13332) or (xx3332)
 Bb+     (xx0332)
+Bm6     (x20102) 
 Bm7b5   (x20201) or (xx0201) or (x2323x) or (xx7767) or (7897a7)hex
 Bm7     (x20202) or (x24232)
-Bm6     (x20102) 
-Bm      (x24432) or (xx4432)
 Bm/A    (x04432)
+Bm      (x24432) or (xx4432)
 C11     (x33333)
 C13     (x12211)
-Csus4   (x32011)
 C2      (x32030)
 C7#5    (xx2314)
 C7b9    (x32320)?or (x3232x)
@@ -72,12 +71,13 @@ C9      (x32330) or (032333)
 Cadd9   (x32030)
 Cdim    (xx1212) or (x34242) or (234242)
 C#dim   (xx5656) or (xx2323) or (x45353) or (345353)
-C#m7b5  (022020) or (xx2423) or (x42423) or (x4545x) or (xx9989) or (9ab9c9)hex
 Cm6     (x31213)
+C#m7b5  (022020) or (xx2423) or (x42423) or (x4545x) or (xx9989) or (9ab9c9)hex
 Cm7b5   (xx1312) or (x31312) or (x3434x) or (xx8878) or (89a8b8)hex
 Cm7     (x35343) or (xx1313)
 C#m7    (x46454) or (x22120) or (022120) or (x42424) or (xx2424)
 C#m     (x46654) or (xx2120)
+Csus4   (x32011)
 C       (x32010)
 D11     (x55555) or (xx0010):
 D13     (x55557) or (x57577) or (x54557) or (000002) or (020012)
@@ -89,16 +89,16 @@ D9      (x54555) or (x32232) or (xx0210)-no 3rd
 Db7     (xx3424)
 Dbmaj7  (x43111)
 D#dim   (xx1212) or (234242)
-Dm      (xx0231)
 Dm6     (xx0201)
 Dm7(b5) (xx0111)
 Dm7     (xx0211) or (x57565)
 Dmaj7   (xx0222) or (x54222)
 Dmaj9/C#(x42232)
 Dmaj9   (x77779) or (x52222)
+Dm      (xx0231)
+Dsus2sus4 (xx0030)
 Dsus2   (xx0230)
 Dsus4   (xx0233) or (x0003x)
-Dsus2sus4 (xx0030)
 D       (xx0232)
 E       (022100)
 E13     (000002) or (020122)
@@ -146,7 +146,7 @@ Gm6     (xx2333)
 Gm7     (353333) or (xx3333)
 Gm7/D   (xx0333)
 Gm9     (353335)
+G#maj7  (xx1113)?
 Gmaj9   (300002)?or (x00002) or (324232)
 Gsus2?  (320203)
 Gsus4   (320013)
-G#maj7  (xx1113)?
