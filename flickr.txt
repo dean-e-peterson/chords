@@ -5,7 +5,7 @@ Flickr
   "A strange balloon man has too much fun" seems an odd caption until you see it
 
 Am (x02210)       C  (x32010)       Csus4 (x32011)       Dm7 (xx0211)       G      (320003)
-Bb (x13332)       C7 (x32310)       Dm    (xx0231)       Em  (022000)       Gsus2? (320203)
+Bb (x13331)       C7 (x32310)       Dm    (xx0231)       Em  (022000)       Gsus2? (320203)
                                                          F   (133211)       Gsus4  (320013)
 INTRO:
     C  C7  F  C  Bb F C
