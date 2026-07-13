@@ -2,13 +2,18 @@ Pancreas
 - by Weird Al Yankovic
 - style parady of Brian Wilson
 - note: scientifically, either "distance between them" should be distance squared,
-  or Weird Al solved the dark matter mystery with his own alternative gravity theory.
+  or Weird Al solved the dark matter mystery with his own alternative gravity theory,
+  which I suggest should be called Weird Al Newtonian Dynamics, or WAND.
 
-Csus4 (x32011)       Gm (355333) of (xx0333)?       F#dim (xx1212) or (234242)
+Csus4 (x32011)
+Gm (355333) of (xx0333)?
+F#dim (xx1212) or (234242)
+
 
 INTRO:
     Gm          A     Am        D7            Gm             Csus4 C     F   F#dim
     Oooh oooh oooh ee-oooh oooh oooh, Ahh ahh ahh ahh ahh ahh-oooh oooh, Oooooh
+
 
 VERSE:
   Gm           C7               Dm                      G
@@ -26,6 +31,7 @@ VERSE:
   Bb                  F                 G
     Metabolizing carbohydrates just for me.
 
+
 INTERLUDE:
     C                                       Bb
     Ba-ba bah ba-ba bah, bah, my pancreas.  Ba-ba bah ba-ba bah, bah, my pancreas.
@@ -42,6 +48,7 @@ INTERLUDE FOR THE INSTRUMENTAL INTERLUDE IN THE INTERLUDE?:
 INSTRUMENTAL:
     C  C7
 
+
 BRIDGE:
     Bb            C                  F               Dm
     My pancreas attracts every other pancreas in the universe
@@ -49,6 +56,7 @@ BRIDGE:
     With a force proportional to the product of their masses
         Bb           C7               F          C     D
     And inversely proportional to the distance between them.  Woo-oo woo-oo woo-oo woooo.
+
 
 ROUND:
      Don'tcha you know you gotta

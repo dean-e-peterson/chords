@@ -3,7 +3,7 @@ Von guten Mächten (in English)
 - left side is verses and refrains in Sieg Fietz' performance at https://youtu.be/aN7dGz6NH5M
 - right side is additional verses in original Bonhöffer poem
 - English translation by Hilmar H. Werner, found at
-  http://www.berlinertourguide.com/dietrich-bonhoeffer-von-guten-maechten-translation-by-loving-forces.htm
+http://www.berlinertourguide.com/dietrich-bonhoeffer-von-guten-maechten-translation-by-loving-forces.htm
 
 A  (x02220)     Asus2 (x02200)     Asus4 (x02230)     A/C# (x42220) or (x4222x)
 Bm (x24432)     Bm/A  (x04432)
@@ -37,26 +37,26 @@ God is with us at dusk and in the morning
 and most assuredly on ev'ry day.
 
 
-[Verse 2]                                                  [Verse 3]
-      D              A/C#              Bm        Bm/A          D                A/C#          Bm     Bm/A
-Still matters of the past are pressing our hearts          And when you pass to us the bitter chalice,
-    G             F#m              Em  A (Asus2 A)         G                     F#m             Em  A (Asus2 A)
-and evil days are weighing down on us.                     filled with suffering to the brim and more,
-   D            A/C#                 Bm  Bm/A                 D                A/C#                 Bm  Bm/A
-Oh Lord, to our souls, so scared and sore,                 we take it, full of thanks and trembling not,
-     G               A                D Dsus4 D                 G                 A           D Dsus4 D
-give rescue, as it's that you made us for.                 from this, your caring and beloved hand.
+[Verse 2]                                             [Verse 4]
+      D              A/C#              Bm     Bm/A        D              A/C#                Bm   Bm/A
+Still matters of the past are pressing our hearts     But if you want to please us, over and again,
+    G             F#m              Em  A (Asus2 A)    G                F#m              Em   A (Asus2 A)
+and evil days are weighing down on us.                with our shining sun and wondrous world,
+   D            A/C#                 Bm  Bm/A                D               A/C#              Bm   Bm/A
+Oh Lord, to our souls, so scared and sore,            let us muse on what is past, and then we shall,
+     G               A                D Dsus4 D       G                  A             D Dsus4 D
+give rescue, as it's that you made us for.            with our lives, in all belong to you.
 
 
-                                                           [Verse 4]
-                                                               D              A/C#                Bm   Bm/A
-                                                           But if you want to please us, over and again,
-                                                           G                F#m              Em   A (Asus2 A)
-                                                           with our shining sun and wondrous world,
-                                                                  D               A/C#              Bm   Bm/A
-                                                           let us muse on what is past, and then we shall,
-                                                           G                  A             D Dsus4 D
-                                                           with our lives, in all belong to you.
+[Verse 3]
+    D                A/C#          Bm     Bm/A
+And when you pass to us the bitter chalice,
+G                     F#m             Em  A (Asus2 A)
+filled with suffering to the brim and more,
+   D                A/C#                 Bm  Bm/A
+we take it, full of thanks and trembling not,
+     G                 A           D Dsus4 D
+from this, your caring and beloved hand.
 
 
 [Refrain]
@@ -70,15 +70,15 @@ God is with us at dusk and in the morning
 and most assuredly on ev'ry day.
 
 
-[Verse 5]                                                  [Verse 6]
-D               A/C#            Bm         Bm/A                 D                A/C#           Bm        Bm/A
-Warm and bright be our candles' flame today,               When silence now will snow around us ev'rywhere,
-      G              F#m                Em   A (Asus2 A)      G               F#m           Em   A (Asus2 A)
-since into gloom you brought a gleaming light,             so let us hear the all-embracing sound
-    D              A/C#           Bm    Bm/A                  D                   A/C#           Bm   Bm/A
-and lead again us, if you will, together!                  of greater things than we can see and wider,
-   G                A              D Dsus4 D                    G                   A                  D Dsus4 D
-We know it: you are beaming in the night.                  your world, and all your children's soaring hail.
+[Verse 5]                                          [Verse 6]
+D               A/C#            Bm         Bm/A         D                A/C#           Bm        Bm/A
+Warm and bright be our candles' flame today,       When silence now will snow around us ev'rywhere,
+      G              F#m                Em   A        G               F#m           Em   A (Asus2 A)
+since into gloom you brought a gleaming light,     so let us hear the all-embracing sound
+    D              A/C#           Bm    Bm/A          D                   A/C#           Bm   Bm/A
+and lead again us, if you will, together!          of greater things than we can see and wider,
+   G                A              D Dsus4 D            G                   A                  D Dsus4 D
+We know it: you are beaming in the night.          your world, and all your children's soaring hail.
 
 
 [Refrain]

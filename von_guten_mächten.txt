@@ -35,26 +35,26 @@ Gott ist mit uns am Abend und am Morgen
 und ganz gewiß an jedem neuen Tag.
 
 
-[Verse 2]                                               [Verse 3]
-     D             A/C#          Bm    Bm/A                 D                  A/C#     Bm   Bm/A
-Noch will das Alte unsere Herzen quälen,                Und reichst du uns den schweren Kelch,
-     G                F#m          Em  A (Asus2 A)          G                          F#m                 Em  A
-noch drückt uns böser Tage schwere Last.                den bittren des Leids, gefüllt bis an den höchsten Rand,
-     D                 A/C#            Bm    Bm/A          D              A/C#         Bm     Bm/A
-Ach, Herr, gib unseren aufgescheuchten Seelen           so nehmen wir ihn dankbar ohne Zittern
-    G                A            D Dsus4 D                 G            A             D Dsus4 D
-das Heil, für das du uns bereitet hast.                 aus deiner guten und geliebten Hand.
+[Verse 2]                                             [Verse 4]
+     D             A/C#          Bm    Bm/A                D                  A/C#          Bm    Bm/A
+Noch will das Alte unsere Herzen quälen,              Doch willst du uns noch einmal Freude schenken
+     G                F#m          Em  A (Asus2 A)       G               F#m         Em   A (Asus2 A)
+noch drückt uns böser Tage schwere Last.              an dieser Welt und ihrer Sonne Glanz,
+     D                 A/C#            Bm    Bm/A          D                 A/C#       Bm    Bm/A
+Ach, Herr, gib unseren aufgescheuchten Seelen         dann woll'n wir des Vergangenen gedenken
+    G                A            D Dsus4 D               G               A     D     Dsus4 D
+das Heil, für das du uns bereitet hast.               und dann gehört dir unser Leben ganz.
 
 
-                                                        [Verse 4]
-                                                             D                  A/C#          Bm      Bm/A
-                                                        Doch willst du uns noch einmal Freude schenken
-                                                           G               F#m         Em   A (Asus2 A)
-                                                        an dieser Welt und ihrer Sonne Glanz,
-                                                             D                 A/C#       Bm    Bm/A
-                                                        dann woll'n wir des Vergangenen gedenken
-                                                            G               A     D     Dsus4 D
-                                                        und dann gehört dir unser Leben ganz.
+[Verse 3]
+    D                  A/C#     Bm   Bm/A
+Und reichst du uns den schweren Kelch,
+    G                          F#m                 Em  A
+den bittren des Leids, gefüllt bis an den höchsten Rand,
+   D              A/C#         Bm     Bm/A
+so nehmen wir ihn dankbar ohne Zittern
+    G            A             D Dsus4 D
+aus deiner guten und geliebten Hand.
 
 
 [Refrain]
@@ -68,15 +68,15 @@ Gott ist mit uns am Abend und am Morgen
 und ganz gewiß an jedem neuen Tag.
 
 
-[Verse 5]                                               [Verse 6]
-    D                  A/C#         Bm     Bm/A              D               A/C#            Bm     Bm/A
-Laß warm und still die Kerzen heute flammen,            Wenn sich die Stille nun tief um uns breitet,
-    G            F#m          Em    A (Asus2 A)                    G           F#m              Em  A (Asus2 A)
-die du in unsere Dunkelheit gebracht.                   so laß uns hören jenen vollen Klang der Welt,
-      D                  A/C#         Bm    Bm/A            D          A/C#        Bm    Bm/A
-Führ, wenn es sein kann, wieder uns zusammen.           die unsichtbar sich um uns weitet,
-    G               A                    D Dsus4 D          G             A          D Dsus4 D
-Wir wissen es, dein Licht scheint in der Nacht.         all Deiner Kinder hohen Lobgesang.
+[Verse 5]                                             [Verse 6]
+    D                  A/C#         Bm     Bm/A            D               A/C#            Bm     Bm/A
+Laß warm und still die Kerzen heute flammen,          Wenn sich die Stille nun tief um uns breitet,
+    G            F#m          Em    A (Asus2 A)                  G           F#m              Em A
+die du in unsere Dunkelheit gebracht.                 so laß uns hören jenen vollen Klang der Welt,
+      D                  A/C#         Bm    Bm/A          D          A/C#        Bm    Bm/A
+Führ, wenn es sein kann, wieder uns zusammen.         die unsichtbar sich um uns weitet,
+    G               A                    D Dsus4 D        G             A          D Dsus4 D
+Wir wissen es, dein Licht scheint in der Nacht.       all Deiner Kinder hohen Lobgesang.
 
 
 [Refrain]
