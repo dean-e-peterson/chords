@@ -1,52 +1,54 @@
-Epic 01 The Horse and the Infant
+Epic 01: The Horse and the Infant
+- by Jorge Rivera-Herrans
 
-Cm Ab Bb Ab G(m)?
+Cm Bb Ab Bb Ab G(m)?
 
-Eb
+Eb on Infant
 
+Cm
 
 [ODYSSEUS]
-Alright my brothers listen closely
-Tonight we make the Trojans pay
-Ten years of war they killed us slowly
-But now we'll be the ones who slay
-Think of your wives and your children
-Your families wonder where you've been
-They're growing old and yet you're still here
-Do what I say and you'll see them again
+Cm Bb   Alright my brothers listen closely
+Ab G(m) Tonight we make the Trojans pay
+Ab Bb   Ten years of war they killed us slowly
+Ab G(m) But now we'll be the ones who slay
+Cm Bb   Think of your wives and your children
+Ab G(m) Your families wonder where you've been
+Ab Bb   They're growing old and yet you're still here
+Ab G(m) Do what I say and you'll see them again
 
 [SOLDIERS]
-Yes, sir!
+        Yes, sir!
 
 [ODYSSEUS]
-Diomedes will lead the charge
-Agamemnon will flank the guards
-Menelaus will let our mates through the gates to takе the whole city at large
-Tеucer will shoot any ambush attack
-And Little Ajax will stay back
-Nestor, secure Helen and protect her
-Neo, avenge your father, kill the brothers of Hector!
+Cm      Diomedes will lead the charge
+        Agamemnon will flank the guards
+Bb      Menelaus will let our mates through the gates to takе the whole city at large
+Ab      Tеucer will shoot any ambush attack
+        And Little Ajax will stay back.  Nestor,
+G       Secure Helen and protect her
+        Neo, avenge your father, kill the brothers of Hector!
 
 [SOLDIERS]
-Yes, sir!
+        Yes, sir!
 
 [ODYSSEUS]
-Find that inner strength now
-Use that well of pride
-Fight through every pain now
-Ask yourself inside
-What do you live for?
-What do you try for?
-What do you wish for?
-What do you fight for?
+Ab      Find that inner strength now
+Bb      Use that well of pride
+Ab      Fight through every pain now
+Bb      Ask yourself inside
+Ab      What do you live for?
+        What do you try for?
+Bb      What do you wish for?
+        What do you fight for?
 
 [SOLDIERS]
-What do you live for?
-What do you try for?
-What do you wish for?
-What do you fight for?
+Ab      What do you live for?
+        What do you try for?
+Bb      What do you wish for?
+        What do you fight for?
 
-[ODYSSEUS]
+[ODYSSEUS]      Gm
 Penelope, Penelope
 And Telemachus
 I fight for us, I fight for us
